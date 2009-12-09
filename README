@@ -1,0 +1,10 @@
+Requirements:
+
+    You need to install ibus-table first.
+
+Introduction:
+    
+    ibus-table-boshiamy provide Boshiamy input method  on IBus Table under IBus
+    framework.
+
+    Boshiamy table and its icon are released under their own license.
