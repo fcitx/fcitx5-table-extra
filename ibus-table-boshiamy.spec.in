@@ -2,10 +2,10 @@ Name:       @PACKAGE_NAME@
 Version:    @PACKAGE_VERSION@
 Release:    1%{?dist}
 Summary:    The Boshiamy Table engine for IBus platform
-License:    Public Domain
+License:    I_DONT_SURE
 Group:      System Environment/Libraries
-URL:        http://github.com/vicamo/Hinedo
-Source0:    http://ibus.googlecode.com/files/%{name}-%{version}.tar.gz
+URL:        http://wiki.github.com/vicamo/ibus-table-boshiamy
+Source0:    http://cloud.github.com/downloads/vicamo/%{name}/%{name}-%{version}.tar.gz
 
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 BuildArch:  noarch
@@ -40,7 +40,7 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(-,root,root,-)
-%doc AUTHORS COPYING README
+%doc AUTHORS ChangeLog COPYING INSTALL NEWS README
 %{_datadir}/ibus-table/icons/boshiamy.png
 %{_datadir}/ibus-table/tables/boshiamy.db
 %{_datadir}/ibus/engine/boshiamy.engine
