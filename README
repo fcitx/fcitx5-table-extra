@@ -1,10 +1,10 @@
 Requirements:
 
-    You need to install ibus-table first.
+    You need to install fcitx first.
 
 Introduction:
     
-    ibus-table-boshiamy provide Boshiamy input method  on IBus Table under IBus
+    fcitx-table-boshiamy provide Boshiamy input method  on Fcitx Table under Fcitx
     framework.
 
     Boshiamy table and its icon are released under their own license.
