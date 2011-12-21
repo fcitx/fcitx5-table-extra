@@ -4,7 +4,6 @@ Requirements:
 
 Introduction:
     
-    fcitx-table-boshiamy provide Boshiamy input method  on Fcitx Table under Fcitx
-    framework.
+    fcitx-table-extra provides extra table for Fcitx, including Boshiamy, Zhengma, and Cangjie3, Cangjie5.
 
     Boshiamy table and its icon are released under their own license.

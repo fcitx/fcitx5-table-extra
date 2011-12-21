@@ -1,0 +1,16 @@
+[CodeTable]
+_Name=Zhengma
+UniqueName=zhengma
+IconName=zhengma
+File=zhengma.mb
+Priority=3
+AdjustOrder=AdjustNo
+UsePY=True
+PYKey=[
+AutoSend=-1
+NoneMatchAutoSend=0
+UseMatchingKey=True
+MatchingKey=?
+AutoPhrase=True
+ExactMatch=False
+PromptTableCode=False  

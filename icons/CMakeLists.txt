@@ -1,0 +1,1 @@
+install(FILES fcitx-boshiamy.png fcitx-zhengma.png DESTINATION share/icons/hicolor/64x64/apps)

@@ -1,0 +1,8 @@
+# List of source files which contain translatable strings.
+[encoding: UTF-8]
+./po/conf.po
+@REL_SOURCE_ROOT@/tables/zhengma.conf.in
+@REL_SOURCE_ROOT@/tables/boshiamy.conf.in
+@REL_SOURCE_ROOT@/tables/cangjie5.conf.in
+@REL_SOURCE_ROOT@/tables/cangjie-big.conf.in
+@REL_SOURCE_ROOT@/tables/cangjie3.conf.in
