@@ -1,7 +1,7 @@
 [CodeTable]
 UniqueName=quick3
 _Name=Quick3
-IconName=quick
+IconName=quick3
 File=quick3.mb
 AdjustOrder=AdjustNo
 UsePY=True
