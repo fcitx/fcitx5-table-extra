@@ -1,4 +1,5 @@
-set(TABLE_NAME boshiamy zhengma cangjie3 cangjie5 cangjie-big)
+set(TABLE_NAME boshiamy zhengma cangjie3 cangjie5 cangjie-big
+    quick3 quick5 quick-classic)
 
 set(MB_FILE)
 set(CONF_FILE)

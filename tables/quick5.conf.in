@@ -1,9 +1,9 @@
 [CodeTable]
-UniqueName=cangjie5
-_Name=Cangjie5
-IconName=cangjie
-File=cangjie5.mb
-AdjustOrder=AdjustFreq
+UniqueName=quick5
+_Name=Quick5
+IconName=quick5
+File=quick5.mb
+AdjustOrder=AdjustNo
 UsePY=True
 PYKey=[
 AutoSend=-1

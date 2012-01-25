@@ -6,3 +6,6 @@
 @REL_SOURCE_ROOT@/tables/cangjie5.conf.in
 @REL_SOURCE_ROOT@/tables/cangjie-big.conf.in
 @REL_SOURCE_ROOT@/tables/cangjie3.conf.in
+@REL_SOURCE_ROOT@/tables/quick5.conf.in
+@REL_SOURCE_ROOT@/tables/quick-classic.conf.in
+@REL_SOURCE_ROOT@/tables/quick3.conf.in
