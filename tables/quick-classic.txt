@@ -1,3 +1,6 @@
+键码=abcdefghijklmnopqrstuvwxyz
+码长=2
+[数据]
 &a 日
 &b 月
 &c 金
