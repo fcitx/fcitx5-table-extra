@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-12-21 12:42+0800\n"
+"POT-Creation-Date: 2012-03-03 22:27+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,4 +35,16 @@ msgstr ""
 
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/cangjie3.conf.in.h:1
 msgid "Cangjie3"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/quick5.conf.in.h:1
+msgid "Quick5"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/quick-classic.conf.in.h:1
+msgid "QuickClassic"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/quick3.conf.in.h:1
+msgid "Quick3"
 msgstr ""

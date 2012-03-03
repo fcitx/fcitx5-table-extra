@@ -1,41 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-#
-# Weng Xuetian <wengxt@gmail.com>, 2011, 2012.
+# 
+# Translators:
+# Alisha <alisha.4m@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-03-03 22:27+0800\n"
-"PO-Revision-Date: 2012-03-03 22:40+0800\n"
-"Last-Translator: Weng Xuetian <wengxt@gmail.com>\n"
-"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
-"Language: zh_CN\n"
+"PO-Revision-Date: 2012-03-03 16:06+0000\n"
+"Last-Translator: Alisha <alisha.4m@gmail.com>\n"
+"Language-Team: Chinese (Taiwan) (http://www.transifex.net/projects/p/fcitx/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.4\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/zhengma.conf.in.h:1
+msgid "Zhengma"
+msgstr "鄭碼"
 
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/boshiamy.conf.in.h:1
 msgid "Boshiamy"
 msgstr "嘸蝦米"
 
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/cangjie5.conf.in.h:1
+msgid "Cangjie5"
+msgstr "倉頡第五代"
+
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/cangjie-big.conf.in.h:1
 msgid "Cangjie Big"
-msgstr "仓颉大字符"
+msgstr "倉頡大字集"
 
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/cangjie3.conf.in.h:1
 msgid "Cangjie3"
-msgstr "仓颉第三代"
-
-#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/cangjie5.conf.in.h:1
-msgid "Cangjie5"
-msgstr "仓颉第五代"
-
-#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/quick3.conf.in.h:1
-msgid "Quick3"
-msgstr "速成第三代"
+msgstr "倉頡第三代"
 
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/quick5.conf.in.h:1
 msgid "Quick5"
@@ -45,7 +46,6 @@ msgstr "速成第五代"
 msgid "QuickClassic"
 msgstr "速成古典版"
 
-#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/zhengma.conf.in.h:1
-msgid "Zhengma"
-msgstr "郑码"
-
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/quick3.conf.in.h:1
+msgid "Quick3"
+msgstr "速成第三代"
