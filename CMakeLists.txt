@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.6)
 
-project(fcitx-table-extra) 
+project(fcitx-table-extra NONE)
 
 find_package(Fcitx 4.2.0 REQUIRED)
 find_package(Gettext REQUIRED)
