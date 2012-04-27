@@ -1,0 +1,17 @@
+[CodeTable]
+UniqueName=array30
+_Name=Array30
+IconName=array30
+File=array30.mb
+AdjustOrder=AdjustNo
+UsePY=False
+AutoSend=-1
+NoneMatchAutoSend=0
+UseMatchingKey=True
+MatchingKey=?
+AutoPhrase=False
+ExactMatch=False
+PromptTableCode=False
+UseCustomPrompt=True
+LangCode=zh_TW
+Priority=100

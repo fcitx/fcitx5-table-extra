@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-03 22:27+0800\n"
+"POT-Creation-Date: 2012-04-27 11:12+0800\n"
 "PO-Revision-Date: 2012-03-03 16:06+0000\n"
 "Last-Translator: Alisha <alisha.4m@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.net/projects/p/fcitx/"
@@ -18,6 +18,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0\n"
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/array30.conf.in.h:1
+msgid "Array30"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/array30-big.conf.in.h:1
+msgid "Array30Big"
+msgstr ""
 
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/boshiamy.conf.in.h:1
 msgid "Boshiamy"
@@ -35,6 +43,22 @@ msgstr "倉頡第三代"
 msgid "Cangjie5"
 msgstr "倉頡第五代"
 
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/cantonhk.conf.in.h:1
+msgid "CantonHK"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/cantonese.conf.in.h:1
+msgid "CantonesePinyin"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/easy-big.conf.in.h:1
+msgid "EasyBig"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/jyutping.conf.in.h:1
+msgid "Jyutping"
+msgstr ""
+
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/quick3.conf.in.h:1
 msgid "Quick3"
 msgstr "速成第三代"
@@ -46,6 +70,18 @@ msgstr "速成第五代"
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/quick-classic.conf.in.h:1
 msgid "QuickClassic"
 msgstr "速成古典版"
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/scj6.conf.in.h:1
+msgid "SmartCangJie6"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/stroke5.conf.in.h:1
+msgid "Stroke5"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/wu.conf.in.h:1
+msgid "Wu"
+msgstr ""
 
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/zhengma.conf.in.h:1
 msgid "Zhengma"

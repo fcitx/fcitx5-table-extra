@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-03 22:27+0800\n"
+"POT-Creation-Date: 2012-04-27 11:12+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,4 +47,40 @@ msgstr ""
 
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/quick3.conf.in.h:1
 msgid "Quick3"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/cantonese.conf.in.h:1
+msgid "CantonesePinyin"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/cantonhk.conf.in.h:1
+msgid "CantonHK"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/easy-big.conf.in.h:1
+msgid "EasyBig"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/jyutping.conf.in.h:1
+msgid "Jyutping"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/scj6.conf.in.h:1
+msgid "SmartCangJie6"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/stroke5.conf.in.h:1
+msgid "Stroke5"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/wu.conf.in.h:1
+msgid "Wu"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/array30.conf.in.h:1
+msgid "Array30"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/array30-big.conf.in.h:1
+msgid "Array30Big"
 msgstr ""

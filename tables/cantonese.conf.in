@@ -1,0 +1,16 @@
+[CodeTable]
+UniqueName=cantonese
+_Name=CantonesePinyin
+IconName=cantonese
+File=cantonese.mb
+AdjustOrder=AdjustFreq
+UsePY=False
+AutoSend=-1
+NoneMatchAutoSend=0
+UseMatchingKey=True
+MatchingKey=?
+AutoPhrase=False
+ExactMatch=False
+PromptTableCode=False
+LangCode=zh_HK
+Priority=100
