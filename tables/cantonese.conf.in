@@ -14,3 +14,7 @@ ExactMatch=False
 PromptTableCode=False
 LangCode=zh_HK
 Priority=100
+CommitKey=
+UseAlternativePageKey=True
+AlternativePrevPage=-
+AlternativeNextPage== SPACE
