@@ -16,3 +16,7 @@ PromptTableCode=False
 UseCustomPrompt=True
 LangCode=zh_CN
 Priority=30
+CommitKey=
+UseAlternativePageKey=True
+AlternativePrevPage=-
+AlternativeNextPage== SPACE
