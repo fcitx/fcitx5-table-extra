@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-27 11:12+0800\n"
-"PO-Revision-Date: 2012-04-27 11:13+0800\n"
+"POT-Creation-Date: 2012-06-03 11:49+0800\n"
+"PO-Revision-Date: 2012-06-03 11:50+0800\n"
 "Last-Translator: Weng Xuetian <wengxt@gmail.com>\n"
 "Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
 "Language: zh_CN\n"
@@ -80,6 +80,10 @@ msgstr "笔顺五码"
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/wu.conf.in.h:1
 msgid "Wu"
 msgstr "吳語注音法"
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/wubi-large.conf.in.h:1
+msgid "Wubi (Large)"
+msgstr "五笔大字集"
 
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/zhengma.conf.in.h:1
 msgid "Zhengma"

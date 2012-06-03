@@ -1,6 +1,7 @@
 set(TABLE_NAME boshiamy zhengma cangjie3 cangjie5 cangjie-big
     quick3 quick5 quick-classic
     scj6 easy-big wu cantonese cantonhk jyutping stroke5 array30 array30-big
+    wubi-large
     )
 
 set(MB_FILE)

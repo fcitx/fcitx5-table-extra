@@ -18,3 +18,4 @@
 @REL_SOURCE_ROOT@/tables/wu.conf.in
 @REL_SOURCE_ROOT@/tables/array30.conf.in
 @REL_SOURCE_ROOT@/tables/array30-big.conf.in
+@REL_SOURCE_ROOT@/tables/wubi-large.conf.in

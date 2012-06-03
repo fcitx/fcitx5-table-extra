@@ -1,0 +1,23 @@
+[CodeTable]
+UniqueName=wubi-large
+_Name=Wubi (Large)
+IconName=wubi
+File=wubi-large.mb
+AdjustOrder=AdjustNo
+Priority=10
+UsePY=True
+PYKey=z
+AutoSend=-1
+NoneMatchAutoSend=0
+UseMatchingKey=True
+MatchingKey=z
+AutoPhrase=True
+AutoPhraseLength=4
+AutoPhrasePhrase=True
+SaveAutoPhrase=3
+ExactMatch=False
+PromptTableCode=False
+Symbol=zzzz
+Enabled=True
+LangCode=zh_CN
+NoMatchDontCommit=True

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-27 11:12+0800\n"
+"POT-Creation-Date: 2012-06-03 11:49+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -83,4 +83,8 @@ msgstr ""
 
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/array30-big.conf.in.h:1
 msgid "Array30Big"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/wubi-large.conf.in.h:1
+msgid "Wubi (Large)"
 msgstr ""
