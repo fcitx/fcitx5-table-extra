@@ -1,14 +1,3 @@
-### File header must not be modified
-### This file must be encoded into UTF-8.
-### This file comes from xcin module.
-### 廣東話輸入法 1.1 版
-### 版權:GPL
-### 支援及維護: 香港長者資訊天地 Hong Kong Seniors IT Advocates <info at hkseniors.net>
-### 開發人士名單:
-### 梁敬文 Leung King Man <leungkm1 at hotmail.com>
-### 1.1版於2003年11月6日面世, 對字表進行重新排序
-### 1.0版於2003年4月面世
-### URL: http://www.hkseniors.net/input/canton/
 Length=6
 KeyCode=abcdefghijklmnopqrstuvwxyz
 [Data]

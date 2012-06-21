@@ -1,22 +1,3 @@
-### File header must not be modified
-### This file must be encoded into UTF-8.
-
-### 筆順五碼輸入法0.4版 <http://input.foruto.com/stroke5>
-### 版權:GPL
-### 支援及維護: 香港長者資訊天地 Hong Kong Seniors IT Advocates <info@hkseniors.net>
-### 開發人士名單:
-### 梁敬文 Leung King Man <leungkm1@hotmail.com>
-### 王潔貞 Amy Wong <wongkitching01@yahoo.com.hk>
-### 陳荃 Chan Chuen <chanc1002@sinatown.com>
-### 龍正忠 Lung Ching Chung <lungcc1067@sinatown.com>
-### 古國義 Richard Ku <richardkyku@sinatown.com>
-### 王林根 Mike Wong <mike_lg_wong@yahoo.com.hk>
-### 郭楷 Kwok Kai <kwokkaihk@yahoo.com.hk>
-### 呂蔡美冬 Vivian Choi <mtchoi6@yahoo.com.hk>
-### 0.4版於2003年11月6日面世, 修正輸入筆劃錯誤
-### 0.3版於2003年10月28日面世, 對比"百家姓", 加入37字
-### 0.2版於2003年10月25日面世, 對比香港政府的"常用字字形表", 加入620字
-### 0.1版於2003年10月17日面世, 用於內部測試, 根據何秀煌教授的80-90年代字頻研究, 安排4600字
 Length=5
 KeyCode=nm,./
 [Data]
