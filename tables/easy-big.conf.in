@@ -18,4 +18,6 @@ LangCode=zh_TW
 UseAlternativePageKey=True
 AlternativePrevPage=PGUP
 AlternativeNextPage=PGDN
+ChooseModifier=Alt
+IgnorePunc=True
 Priority=100
