@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-03 11:49+0800\n"
-"PO-Revision-Date: 2012-06-03 11:52+0800\n"
+"POT-Creation-Date: 2012-07-10 22:27+0800\n"
+"PO-Revision-Date: 2012-07-10 22:28+0800\n"
 "Last-Translator: Weng Xuetian <wengxt@gmail.com>\n"
 "Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
 "Language: zh_TW\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "language/zh_TW/)\n"
 "Plural-Forms: nplurals=1; plural=0\n"
-"X-Generator: Lokalize 1.4\n"
+"X-Generator: Lokalize 1.5\n"
 
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/array30.conf.in.h:1
 msgid "Array30"
@@ -91,3 +91,8 @@ msgstr "五筆大字集"
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/zhengma.conf.in.h:1
 msgid "Zhengma"
 msgstr "鄭碼"
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/zhengma-large.conf.in.h:1
+msgid "Zhengma (Large)"
+msgstr "鄭碼大字集"
+

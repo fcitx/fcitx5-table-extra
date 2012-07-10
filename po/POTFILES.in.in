@@ -19,3 +19,4 @@
 @REL_SOURCE_ROOT@/tables/array30.conf.in
 @REL_SOURCE_ROOT@/tables/array30-big.conf.in
 @REL_SOURCE_ROOT@/tables/wubi-large.conf.in
+@REL_SOURCE_ROOT@/tables/zhengma-large.conf.in
