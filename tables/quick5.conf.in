@@ -14,5 +14,5 @@ AutoPhrase=False
 ExactMatch=False
 PromptTableCode=False
 UseCustomPrompt=True
-LangCode=zh_CN
+LangCode=zh_HK
 Priority=30
