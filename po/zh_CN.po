@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # Christopher Meng <cickumqt@gmail.com>, 2012.
 # Weng Xuetian <wengxt@gmail.com>, 2011, 2012.
@@ -13,23 +13,23 @@ msgstr ""
 "PO-Revision-Date: 2012-07-26 10:40+0000\n"
 "Last-Translator: Christopher Meng <cickumqt@gmail.com>\n"
 "Language-Team: Chinese (China) <fcitx-dev@googlegroups.com>\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/zhengma.conf.in.h:1
-msgid "Zhengma"
-msgstr "郑码"
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/array30.conf.in.h:1
+msgid "Array30"
+msgstr "行列30"
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/array30-big.conf.in.h:1
+msgid "Array30Big"
+msgstr "行列30大字集"
 
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/boshiamy.conf.in.h:1
 msgid "Boshiamy"
 msgstr "嘸蝦米"
-
-#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/cangjie5.conf.in.h:1
-msgid "Cangjie5"
-msgstr "第五代仓颉"
 
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/cangjie-big.conf.in.h:1
 msgid "Cangjie Big"
@@ -39,25 +39,17 @@ msgstr "仓颉大字符"
 msgid "Cangjie3"
 msgstr "第三代仓颉"
 
-#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/quick5.conf.in.h:1
-msgid "Quick5"
-msgstr "第五代速成"
-
-#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/quick-classic.conf.in.h:1
-msgid "QuickClassic"
-msgstr "速成古典版"
-
-#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/quick3.conf.in.h:1
-msgid "Quick3"
-msgstr "第三代速成"
-
-#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/cantonese.conf.in.h:1
-msgid "CantonesePinyin"
-msgstr "广东拼音"
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/cangjie5.conf.in.h:1
+msgid "Cangjie5"
+msgstr "第五代仓颉"
 
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/cantonhk.conf.in.h:1
 msgid "CantonHK"
 msgstr "港式广东话"
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/cantonese.conf.in.h:1
+msgid "CantonesePinyin"
+msgstr "广东拼音"
 
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/easy-big.conf.in.h:1
 msgid "EasyBig"
@@ -66,6 +58,18 @@ msgstr "轻松大词库"
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/jyutping.conf.in.h:1
 msgid "Jyutping"
 msgstr "粤语拼音"
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/quick3.conf.in.h:1
+msgid "Quick3"
+msgstr "第三代速成"
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/quick5.conf.in.h:1
+msgid "Quick5"
+msgstr "第五代速成"
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/quick-classic.conf.in.h:1
+msgid "QuickClassic"
+msgstr "速成古典版"
 
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/scj6.conf.in.h:1
 msgid "SmartCangJie6"
@@ -79,17 +83,13 @@ msgstr "笔顺五码"
 msgid "Wu"
 msgstr "吳語注音法"
 
-#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/array30.conf.in.h:1
-msgid "Array30"
-msgstr "行列30"
-
-#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/array30-big.conf.in.h:1
-msgid "Array30Big"
-msgstr "行列30大字集"
-
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/wubi-large.conf.in.h:1
 msgid "Wubi (Large)"
 msgstr "五笔大字集"
+
+#: /home/saber/Develop/fcitx-table-extra/build/po/tmp/zhengma.conf.in.h:1
+msgid "Zhengma"
+msgstr "郑码"
 
 #: /home/saber/Develop/fcitx-table-extra/build/po/tmp/zhengma-large.conf.in.h:1
 msgid "Zhengma (Large)"

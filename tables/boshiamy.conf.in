@@ -17,4 +17,5 @@ ExactMatch=False
 PromptTableCode=False
 Symbol=
 Enabled=True
+IgnorePunc=True
 LangCode=zh_TW
