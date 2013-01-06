@@ -19,7 +19,7 @@ foreach(table ${TABLE_NAME})
   set(MB_FILE ${MB_FILE} "${CMAKE_CURRENT_BINARY_DIR}/${table}.mb")
   set(CONF_FILE ${CONF_FILE} "${CMAKE_CURRENT_BINARY_DIR}/${table}.conf")
 endforeach()
-add_custom_target(table_data ALL DEPENDS ${MB_FILE} ${CONF_FILE})
+add_custom_target(table_data ALL DEPENDS ${MB_FILE})
 
 install(FILES ${CONF_FILE} DESTINATION ${FCITX4_PREFIX}/share/fcitx/table)
 install(FILES ${MB_FILE} DESTINATION ${FCITX4_PREFIX}/share/fcitx/table)
