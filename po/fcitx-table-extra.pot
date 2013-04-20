@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2013-04-20 13:24-0400\n"
+"POT-Creation-Date: 2013-04-20 14:01-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,16 +29,16 @@ msgstr ""
 msgid "Boshiamy"
 msgstr ""
 
+#: tables/cangjie-big.conf.in:3
+msgid "Cangjie Big"
+msgstr ""
+
 #: tables/cangjie3.conf.in:3
 msgid "Cangjie3"
 msgstr ""
 
 #: tables/cangjie5.conf.in:3
 msgid "Cangjie5"
-msgstr ""
-
-#: tables/cangjie-big.conf.in:3
-msgid "Cangjie Big"
 msgstr ""
 
 #: tables/cantonese.conf.in:3
@@ -57,16 +57,16 @@ msgstr ""
 msgid "Jyutping"
 msgstr ""
 
+#: tables/quick-classic.conf.in:3
+msgid "QuickClassic"
+msgstr ""
+
 #: tables/quick3.conf.in:3
 msgid "Quick3"
 msgstr ""
 
 #: tables/quick5.conf.in:3
 msgid "Quick5"
-msgstr ""
-
-#: tables/quick-classic.conf.in:3
-msgid "QuickClassic"
 msgstr ""
 
 #: tables/scj6.conf.in:3
@@ -77,18 +77,18 @@ msgstr ""
 msgid "Stroke5"
 msgstr ""
 
-#: tables/wubi-large.conf.in:3
-msgid "Wubi (Large)"
-msgstr ""
-
 #: tables/wu.conf.in:3
 msgid "Wu"
 msgstr ""
 
-#: tables/zhengma.conf.in:2
-msgid "Zhengma"
+#: tables/wubi-large.conf.in:3
+msgid "Wubi (Large)"
 msgstr ""
 
 #: tables/zhengma-large.conf.in:2
 msgid "Zhengma (Large)"
+msgstr ""
+
+#: tables/zhengma.conf.in:2
+msgid "Zhengma"
 msgstr ""
