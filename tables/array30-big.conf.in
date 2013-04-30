@@ -11,6 +11,7 @@ NoneMatchAutoSend=0
 UseMatchingKey=True
 MatchingKey=?
 AutoPhrase=False
+IgnorePunc=True
 ExactMatch=False
 PromptTableCode=False
 UseCustomPrompt=True
