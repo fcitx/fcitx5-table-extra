@@ -3,6 +3,7 @@ set(TABLE_NAME
   quick3 quick5 quick-classic
   scj6 easy-big wu cantonese cantonhk jyutping stroke5 array30 array30-big
   wubi-large zhengma-large
+  t9
   )
 
 set(MB_FILE)

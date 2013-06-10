@@ -1,0 +1,9 @@
+[CodeTable]
+UniqueName=t9
+_Name=T9
+IconName=t9
+File=t9.mb
+AutoSend=-1
+ExactMatch=False
+PromptTableCode=True
+LangCode=zh_CN
