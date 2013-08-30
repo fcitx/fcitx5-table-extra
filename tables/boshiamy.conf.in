@@ -18,4 +18,5 @@ PromptTableCode=False
 Symbol=
 Enabled=True
 IgnorePunc=True
+Choose=0123456789
 LangCode=zh_TW
