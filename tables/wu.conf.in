@@ -4,6 +4,7 @@ _Name=Wu
 IconName=wu
 File=wu.mb
 AdjustOrder=AdjustFreq
+UseAutoSend=False
 UsePY=True
 PYKey=[
 AutoSend=-1

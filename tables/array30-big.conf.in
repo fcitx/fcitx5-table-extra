@@ -6,6 +6,7 @@ File=array30-big.mb
 AdjustOrder=AdjustNo
 UsePY=True
 PYKey=[
+UseAutoSend=False
 AutoSend=0
 NoneMatchAutoSend=0
 NoMatchDontCommit=True

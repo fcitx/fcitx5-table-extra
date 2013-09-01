@@ -6,6 +6,7 @@ File=easy-big.mb
 AdjustOrder=AdjustNo
 UsePY=False
 PYKey=[
+UseAutoSend=False
 AutoSend=0
 NoneMatchAutoSend=0
 NoMatchDontCommit=True

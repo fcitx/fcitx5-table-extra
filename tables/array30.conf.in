@@ -5,6 +5,7 @@ IconName=array30
 File=array30.mb
 AdjustOrder=AdjustNo
 UsePY=False
+UseAutoSend=False
 AutoSend=0
 NoneMatchAutoSend=0
 NoMatchDontCommit=True
