@@ -18,5 +18,8 @@ LangCode=zh_HK
 Priority=30
 CommitKey=
 UseAlternativePageKey=True
+UseAlternativeCandidateWordNumber=True
+CandidateWordNumber=9
+CandidateLayout=Vertical
 AlternativePrevPage=-
 AlternativeNextPage== SPACE
