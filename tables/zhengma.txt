@@ -1,13 +1,15 @@
-;fcitx 版本 0x03 码表文件
-键码=abcdefghijklmnopqrstuvwxyz
-码长=4
-拼音=@
-拼音长度=4
-[组词规则]
+;fcitx Version 0x03 Table file
+KeyCode=abcdefghijklmnopqrstuvwxyz
+Length=4
+Pinyin=@
+PinyinLength=4
+Prompt=&
+ConstructPhrase=^
+[Rule]
 e2=p11+p12+p21+p22
 e3=p11+p21+p22+p31
 e4=p11+p21+p31+p41
-[数据]
+[Data]
 a 一
 aa 一下
 aaac 一无可取
@@ -1782,6 +1784,7 @@ ajus 豆粒
 ajuu 可憎
 ajuv 可为
 ajuv 囊中羞涩
+ajuv 融为
 ajuw 逗
 ajux 可恨
 ajux 豏
@@ -3500,6 +3503,7 @@ avag 一无
 avag 一顶
 avag 平淡无奇
 avai 一下
+avaj 一副
 aval 一再
 aval 一两
 avan 一百
@@ -3531,6 +3535,7 @@ avcr 一表
 avcs 一斑
 avcy 一帮
 avda 一打
+avdg 一抔
 avdj 一事
 avdk 一排
 avdr 一批
@@ -7982,6 +7987,7 @@ bybh 都城
 bybi 教工
 bybk 起来
 bybk 都未
+bybk 都来
 bybo 功夫
 bybv 场地
 bybv 越陷越深
@@ -12552,6 +12558,7 @@ dbtj 拷问
 dbu 挟
 dbug 挂怀
 dbuk 挂单
+dbul 挂着
 dbuo 挟
 dbuo 挂火
 dbuw 撻
@@ -20610,6 +20617,7 @@ enya 靴子
 enya 鞭子
 enyi 葩
 enyj 勤俭建国
+enyj 花架
 enym 芿
 enyn 花费
 enyp 薄伽丘
@@ -21274,6 +21282,7 @@ ercw 蓬
 erdw 警探
 erdy 警报
 eref 苞蕾
+ereg 葱茏
 erek 葱黄
 erel 敬献
 erem 茫然若失
@@ -27687,6 +27696,7 @@ fsym 整章建制
 fsyo 校办
 fsyo 核办
 fsyu 核弹
+fsyv 醉了
 fsyy 槨
 fsz 核
 fszk 槒
@@ -30112,6 +30122,7 @@ gdwg 大家
 gdwh 大连
 gdwh 大军
 gdwj 大祸
+gdwk 大神
 gdwm 牵
 gdwm 大选
 gdwm 大户
@@ -30959,6 +30970,7 @@ giro 有些人
 girr 不比
 girs 不久
 girs 存留
+girs 不留
 girv 不多
 girx 不争
 girz 鴀
@@ -32911,6 +32923,7 @@ gukm 不差累黍
 guks 灰暗
 guku 碰
 guku 大惊小怪
+gukw 灰常
 gukx 有关当局
 gukz 磁电
 gul 盔
@@ -34594,6 +34607,7 @@ hkvs 东瀛
 hkvx 东汉
 hkwd 划定
 hkwd 到过
+hkwd 划过
 hkwg 到达
 hkwg 东家
 hkwg 到家
@@ -34801,6 +34815,7 @@ hmvz 医治
 hmwa 致富
 hmwb 致远
 hmwg 医家
+hmwp 车管所
 hmww 致密
 hmww 惑乱军心
 hmwz 悘
@@ -38235,6 +38250,7 @@ ja 口
 ^ja 吁
 ^ja 哑
 ^ja 嚘
+jaa 〇
 jaae 口干
 jaae 口形
 jaar 吓死
@@ -40253,6 +40269,7 @@ jjlo 器具
 jjlo 㖞
 jjlq 蹉跎岁月
 jjlr 回见
+jjlr 回购
 jjlu 回赠
 jjlz 回眸
 jjma 回拜
@@ -40377,6 +40394,7 @@ jjud 咄咄怪事
 jjue 中国烟草总公司
 jjug 品类
 jjuh 串烧
+jjul 品着
 jjum 品性
 jjun 回首
 jjuo 回火
@@ -45835,6 +45853,7 @@ koni 雀
 koni 小修
 konj 小鬼
 konk 小舅
+konk 小白
 konl 光合作用
 konm 小件
 kono 小偷
@@ -54909,6 +54928,7 @@ mkfk 复查
 mkfo 复检
 mkfp 篮板
 mkfq 复机
+mkfr 重构
 mkfs 香醇
 mkfs 复核
 mkfv 重要
@@ -57252,6 +57272,7 @@ muug 愁烦
 muuq 税前
 muus 秋粮
 muuz 愁惨
+muve 秋潮
 muvg 氮源
 muvg 税源
 muvs 秋游
@@ -60510,6 +60531,7 @@ nkai 偍
 nkai 泉下
 nkai 躺下
 nkai 但丁
+nkai 白丁
 nkal 俏丽
 nkaz 俜
 nkb 俚
@@ -62406,6 +62428,7 @@ nrum 化性
 nruq 保鲜膜
 nrut 低糖
 nruv 化为
+nruv 华为
 nrv 侈
 nrva 华兴
 nrvb 亿多元
@@ -64757,6 +64780,7 @@ oemn 八十年代
 oemt 公共秩序
 oenb 分期付款
 oeod 分期分批
+oeoe 馍馍
 oeoi 德行
 oeos 含苞欲放
 oepe 得其所哉
@@ -65389,6 +65413,7 @@ okuj 创业史
 okuk 企业界
 okun 企业化
 okun 企业版
+okuo 得益
 okus 企业主
 okuv 企业法
 okuw 企业家
@@ -74169,6 +74194,7 @@ qstv 臆度
 qstx 脑瘫
 qsu 膀
 qsui 胶粘
+qsuj 狼烟
 qsul 胶着
 qsut 胶料
 qsuu 独立性
@@ -75716,6 +75742,7 @@ ripo 外舱
 ripv 处所
 riqy 外服
 riqz 外胎
+rira 鲈鱼
 riri 处处
 rirl 外角
 riro 外欠
@@ -78500,6 +78527,7 @@ rzzo 外乡人
 rzzv 乌发
 rzzw 詹姆逊
 rzzx 乌绿
+rzzx 匃奴
 rzzz 勾出
 s 说
 sa 言
@@ -79008,6 +79036,7 @@ scnm 主任
 scnn 主牌
 scnr 文责自负
 scnr 请您
+scnr 请你
 scns 主位
 scnx 请假
 scoa 请命
@@ -79616,6 +79645,7 @@ sfzx 新妇
 sfzx 新绿
 sfzz 亲缘
 sfzz 新出
+sfzz 新乡
 sg 方面
 ^sg 詙
 ^sg 幷
@@ -80603,6 +80633,7 @@ sjvp 京派
 sjvr 京兆
 sjvs 文中说
 sjvs 哀泣
+sjvv 就没
 sjvw 高深
 sjvw 京沪
 sjvw 市中心
@@ -83176,6 +83207,7 @@ ssza 言语妙天下
 sszh 谙练
 sszo 该
 sszo 該
+sszt 辛弃疾
 sszw 识文断字
 sszz 詃
 sszz 议论纷纷
@@ -92104,6 +92136,7 @@ urnr 怫然作色
 urns 炮位
 uro 炊
 uro 忺
+urod 灼人
 uros 憺
 uros 善解人意
 urou 烙饼
@@ -98451,8 +98484,10 @@ vwvc 源远流长
 vwve 深湛
 vwve 学潮
 vwvf 沉渣
+vwvf 深潭
 vwvg 沉湎
 vwvh 深浅
+vwvh 浑沌
 vwvi 浑浊
 vwvm 深海
 vwvn 深渊
@@ -99145,6 +99180,7 @@ vzmt 汇编程序
 vzmu 治税
 vzmz 治乱
 vzn 潍
+vznd 淄川
 vzni 潍
 vzni 濰
 vznu 兴妖作怪
@@ -99780,6 +99816,7 @@ wboi 运行
 wboi 远行
 wbok 军工企业
 wbom 空余
+wboo 空谷
 wbos 运往
 wbox 进食
 wboy 迂夫子
@@ -109726,6 +109763,7 @@ ybtv 陡度
 ybu 陕
 ybuo 陕
 ybvm 陆海
+ybvs 陆游
 ybvw 陆沉
 ybwb 陆运
 ybwb 陆空
@@ -110371,6 +110409,7 @@ yik 陟
 yikb 异步电动机
 yikc 騭
 yiki 引申
+yikm 引星
 yikn 陀螺仪
 yiko 陟
 yikv 也是
@@ -114306,6 +114345,7 @@ zjju 绳圈
 zjjv 台中
 zjjy 絮叨
 zjk 绳
+zjka 如题
 zjke 繟
 zjkf 如果
 zjkm 台鉴
