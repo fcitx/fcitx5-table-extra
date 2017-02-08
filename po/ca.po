@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Walter Garcia-Fontes <walter.garcia@upf.edu>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: fcitx\n"
+"Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
+"POT-Creation-Date: 2013-06-26 20:12-0400\n"
+"PO-Revision-Date: 2017-01-08 08:14+0000\n"
+"Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
+"Language-Team: Catalan (http://www.transifex.com/fcitx/fcitx/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: tables/array30-big.conf.in:3
+msgid "Array30Big"
+msgstr "Array30Big"
+
+#: tables/array30.conf.in:3
+msgid "Array30"
+msgstr "Array30"
+
+#: tables/boshiamy.conf.in:3
+msgid "Boshiamy"
+msgstr "Boshiamy"
+
+#: tables/cangjie3.conf.in:3
+msgid "Cangjie3"
+msgstr "Cangjie3"
+
+#: tables/cangjie5.conf.in:3
+msgid "Cangjie5"
+msgstr "Cangjie5"
+
+#: tables/cangjie-big.conf.in:3
+msgid "Cangjie Big"
+msgstr "Cangjie gran"
+
+#: tables/cantonese.conf.in:3
+msgid "CantonesePinyin"
+msgstr "Pinyin cantonès"
+
+#: tables/cantonhk.conf.in:3
+msgid "CantonHK"
+msgstr "Cantonès HK"
+
+#: tables/easy-big.conf.in:3
+msgid "EasyBig"
+msgstr "Gran fàcil"
+
+#: tables/jyutping.conf.in:3
+msgid "Jyutping"
+msgstr "Jyutping"
+
+#: tables/quick3.conf.in:3
+msgid "Quick3"
+msgstr "Ràpid3"
+
+#: tables/quick5.conf.in:3
+msgid "Quick5"
+msgstr "Ràpid5"
+
+#: tables/quick-classic.conf.in:3
+msgid "QuickClassic"
+msgstr "Clàssic ràpid"
+
+#: tables/scj6.conf.in:3
+msgid "SmartCangJie6"
+msgstr "SmartCangJie6"
+
+#: tables/stroke5.conf.in:3
+msgid "Stroke5"
+msgstr "Stroke5"
+
+#: tables/t9.conf.in:3
+msgid "T9 (Stroke)"
+msgstr "T9 (Stroke)"
+
+#: tables/wubi-large.conf.in:3
+msgid "Wubi (Large)"
+msgstr "Wubi (Gran)"
+
+#: tables/wu.conf.in:3
+msgid "Wu"
+msgstr "Wu"
+
+#: tables/zhengma.conf.in:2
+msgid "Zhengma"
+msgstr "Zhengma"
+
+#: tables/zhengma-large.conf.in:2
+msgid "Zhengma (Large)"
+msgstr "Zhengma (Gran)"
