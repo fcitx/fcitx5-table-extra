@@ -4,16 +4,17 @@
 #
 # Translators:
 # Alisha <alisha.4m@gmail.com>, 2012
+# csslayer <wengxt@gmail.com>, 2012-2013
 # csslayer <wengxt@gmail.com>, 2013
 # csslayer <wengxt@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2015-07-21 12:02+0200\n"
-"PO-Revision-Date: 2013-06-27 00:25+0000\n"
+"POT-Creation-Date: 2019-11-16 00:02-0800\n"
+"PO-Revision-Date: 2017-09-19 11:44+0000\n"
 "Last-Translator: csslayer <wengxt@gmail.com>\n"
-"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/fcitx/"
+"Language-Team: Chinese (Taiwan) (http://www.transifex.com/fcitx/fcitx/"
 "language/zh_TW/)\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -100,3 +101,8 @@ msgstr "鄭碼"
 #: tables/zhengma-large.conf.in:2
 msgid "Zhengma (Large)"
 msgstr "鄭碼大字集"
+
+#: tables/zhengma-pinyin.conf.in:2
+#, fuzzy
+msgid "ZhengmaPinyin"
+msgstr "鄭碼"

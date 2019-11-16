@@ -4,11 +4,12 @@
 #
 # Translators:
 # scootergrisen, 2017
+# scootergrisen, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2017-10-19 00:03-0700\n"
+"POT-Creation-Date: 2019-11-16 00:02-0800\n"
 "PO-Revision-Date: 2017-10-18 23:32+0000\n"
 "Last-Translator: scootergrisen\n"
 "Language-Team: Danish (http://www.transifex.com/fcitx/fcitx/language/da/)\n"
@@ -97,3 +98,8 @@ msgstr "Zhengma"
 #: tables/zhengma-large.conf.in:2
 msgid "Zhengma (Large)"
 msgstr "Zhengma (store)"
+
+#: tables/zhengma-pinyin.conf.in:2
+#, fuzzy
+msgid "ZhengmaPinyin"
+msgstr "Zhengma"

@@ -4,13 +4,13 @@
 #
 # Translators:
 # mar well <m.wellendorf@gmx.de>, 2013
-# mar well <m.wellendorf@gmx.de>, 2017
+# mar well <m.wellendorf@gmx.de>, 2013,2017
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2017-07-28 06:02-0700\n"
-"PO-Revision-Date: 2017-07-28 12:29+0000\n"
+"POT-Creation-Date: 2019-11-16 00:02-0800\n"
+"PO-Revision-Date: 2017-09-23 18:54+0000\n"
 "Last-Translator: mar well <m.wellendorf@gmx.de>\n"
 "Language-Team: German (http://www.transifex.com/fcitx/fcitx/language/de/)\n"
 "Language: de\n"
@@ -98,3 +98,8 @@ msgstr "Zhengma"
 #: tables/zhengma-large.conf.in:2
 msgid "Zhengma (Large)"
 msgstr "Zhengma (Groß)"
+
+#: tables/zhengma-pinyin.conf.in:2
+#, fuzzy
+msgid "ZhengmaPinyin"
+msgstr "Zhengma"

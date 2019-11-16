@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2013-06-26 20:12-0400\n"
+"POT-Creation-Date: 2019-11-16 00:02-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -95,4 +95,8 @@ msgstr ""
 
 #: tables/zhengma-large.conf.in:2
 msgid "Zhengma (Large)"
+msgstr ""
+
+#: tables/zhengma-pinyin.conf.in:2
+msgid "ZhengmaPinyin"
 msgstr ""

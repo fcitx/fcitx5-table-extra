@@ -4,12 +4,13 @@
 #
 # Translators:
 # TotalCaesar659 <x24cm5b8c54q6szxw@yandex.ru>, 2016
+# TotalCaesar659 <x24cm5b8c54q6szxw@yandex.ru>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2017-09-14 16:03-0700\n"
-"PO-Revision-Date: 2017-08-03 16:58+0000\n"
+"POT-Creation-Date: 2019-11-16 00:02-0800\n"
+"PO-Revision-Date: 2017-09-19 12:52+0000\n"
 "Last-Translator: TotalCaesar659 <x24cm5b8c54q6szxw@yandex.ru>\n"
 "Language-Team: Russian (http://www.transifex.com/fcitx/fcitx/language/ru/)\n"
 "Language: ru\n"
@@ -99,3 +100,8 @@ msgstr "Zhengma"
 #: tables/zhengma-large.conf.in:2
 msgid "Zhengma (Large)"
 msgstr "Zhengma (большой)"
+
+#: tables/zhengma-pinyin.conf.in:2
+#, fuzzy
+msgid "ZhengmaPinyin"
+msgstr "Zhengma"
