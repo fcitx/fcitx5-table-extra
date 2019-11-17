@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2019-11-16 00:02-0800\n"
-"PO-Revision-Date: 2017-09-19 11:44+0000\n"
+"POT-Creation-Date: 2019-11-17 00:02-0800\n"
+"PO-Revision-Date: 2019-11-16 08:02+0000\n"
 "Last-Translator: csslayer <wengxt@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/fcitx/fcitx/"
 "language/zh_CN/)\n"
@@ -103,6 +103,5 @@ msgid "Zhengma (Large)"
 msgstr "郑码大字集"
 
 #: tables/zhengma-pinyin.conf.in:2
-#, fuzzy
 msgid "ZhengmaPinyin"
-msgstr "郑码"
+msgstr ""
