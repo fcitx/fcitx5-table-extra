@@ -4,13 +4,14 @@
 #
 # Translators:
 # Bon Keun Seo <scobyseo@gmail.com>, 2017
+# 이정희 <daemul72@gmail.com>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2019-11-17 00:02-0800\n"
-"PO-Revision-Date: 2019-11-16 08:02+0000\n"
-"Last-Translator: csslayer <wengxt@gmail.com>\n"
+"POT-Creation-Date: 2020-03-08 00:02-0800\n"
+"PO-Revision-Date: 2020-01-01 07:39+0000\n"
+"Last-Translator: 이정희 <daemul72@gmail.com>\n"
 "Language-Team: Korean (http://www.transifex.com/fcitx/fcitx/language/ko/)\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -100,4 +101,4 @@ msgstr "Zhengma (큰)"
 
 #: tables/zhengma-pinyin.conf.in:2
 msgid "ZhengmaPinyin"
-msgstr ""
+msgstr "ZhengmaPinyin"
