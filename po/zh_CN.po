@@ -5,14 +5,14 @@
 # Translators:
 # Christopher Meng <cickumqt@gmail.com>, 2012
 # csslayer <wengxt@gmail.com>, 2013
-# csslayer <wengxt@gmail.com>, 2013
+# csslayer <wengxt@gmail.com>, 2013,2020
 # csslayer <wengxt@gmail.com>, 2011-2012
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2019-11-17 00:02-0800\n"
-"PO-Revision-Date: 2019-11-16 08:02+0000\n"
+"POT-Creation-Date: 2020-04-02 00:02-0700\n"
+"PO-Revision-Date: 2020-04-01 16:26+0000\n"
 "Last-Translator: csslayer <wengxt@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/fcitx/fcitx/"
 "language/zh_CN/)\n"
@@ -104,4 +104,4 @@ msgstr "郑码大字集"
 
 #: tables/zhengma-pinyin.conf.in:2
 msgid "ZhengmaPinyin"
-msgstr ""
+msgstr "郑码拼音"
