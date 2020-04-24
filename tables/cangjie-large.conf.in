@@ -1,15 +1,15 @@
 [InputMethod]
-Name=Quick3
-Icon=fcitx-quick3
-Label=速
-LangCode=zh_HK
+Name=Cangjie Large
+Icon=fcitx-cangjie
+Label=倉
+LangCode=zh_TW
 Addon=table
 Configurable=True
 
 [Table]
-File=table/quick3.main.dict
+File=table/cangjie-large.main.dict
 OrderPolicy=No
-PinyinKey=[
+PinyinKey=`
 AutoSelect=True
 AutoSelectLength=-1
 NoMatchAutoSelectLength=0

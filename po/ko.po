@@ -7,9 +7,9 @@
 # 이정희 <daemul72@gmail.com>, 2020
 msgid ""
 msgstr ""
-"Project-Id-Version: fcitx\n"
+"Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2020-03-08 00:02-0800\n"
+"POT-Creation-Date: 2020-04-22 08:51-0700\n"
 "PO-Revision-Date: 2020-01-01 07:39+0000\n"
 "Last-Translator: 이정희 <daemul72@gmail.com>\n"
 "Language-Team: Korean (http://www.transifex.com/fcitx/fcitx/language/ko/)\n"
@@ -19,86 +19,86 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: tables/array30.conf.in:3
+#: tables/array30.conf.in:4
 msgid "Array30"
 msgstr "행렬30"
 
-#: tables/array30-big.conf.in:3
+#: tables/array30-big.conf.in:4
 msgid "Array30Big"
 msgstr "행렬30 큰글자 모음"
 
-#: tables/boshiamy.conf.in:3
+#: tables/boshiamy.conf.in:4
 msgid "Boshiamy"
 msgstr "Boshiamy"
 
-#: tables/cangjie-big.conf.in:3
+#: tables/cangjie-big.conf.in:4
 msgid "Cangjie Big"
 msgstr "창힐 큰부호"
 
-#: tables/cangjie3.conf.in:3
+#: tables/cangjie3.conf.in:4
 msgid "Cangjie3"
 msgstr "3세대 창힐"
 
-#: tables/cangjie5.conf.in:3
+#: tables/cangjie5.conf.in:4
 msgid "Cangjie5"
 msgstr "5세대 창힐"
 
-#: tables/cantonhk.conf.in:3
+#: tables/cantonhk.conf.in:4
 msgid "CantonHK"
 msgstr "홍콩식 광동어"
 
-#: tables/cantonese.conf.in:3
+#: tables/cantonese.conf.in:4
 msgid "CantonesePinyin"
 msgstr "광동병음"
 
-#: tables/easy-big.conf.in:3
+#: tables/easy-big.conf.in:4
 msgid "EasyBig"
 msgstr "쉬운 큰사전"
 
-#: tables/jyutping.conf.in:3
+#: tables/jyutping.conf.in:4
 msgid "Jyutping"
 msgstr "월어병음"
 
-#: tables/quick3.conf.in:3
+#: tables/quick3.conf.in:4
 msgid "Quick3"
 msgstr "3세대 빠른 완성"
 
-#: tables/quick5.conf.in:3
+#: tables/quick5.conf.in:4
 msgid "Quick5"
 msgstr "5세대 빠른 완성"
 
-#: tables/quick-classic.conf.in:3
+#: tables/quick-classic.conf.in:4
 msgid "QuickClassic"
 msgstr "빠른 완성 고전판"
 
-#: tables/scj6.conf.in:3
+#: tables/scj6.conf.in:4
 msgid "SmartCangJie6"
 msgstr "6세대 빠른 창힐"
 
-#: tables/stroke5.conf.in:3
+#: tables/stroke5.conf.in:4
 msgid "Stroke5"
 msgstr "Stroke5"
 
-#: tables/t9.conf.in:3
+#: tables/t9.conf.in:4
 msgid "T9 (Stroke)"
 msgstr "T9 (Stroke)"
 
-#: tables/wu.conf.in:3
+#: tables/wu.conf.in:4
 msgid "Wu"
 msgstr "Wu"
 
-#: tables/wubi-large.conf.in:3
+#: tables/wubi-large.conf.in:4
 msgid "Wubi (Large)"
 msgstr "Wubi (큰)"
 
-#: tables/zhengma.conf.in:2
+#: tables/zhengma.conf.in:3
 msgid "Zhengma"
 msgstr "Zhengma"
 
-#: tables/zhengma-large.conf.in:2
+#: tables/zhengma-large.conf.in:3
 msgid "Zhengma (Large)"
 msgstr "Zhengma (큰)"
 
-#: tables/zhengma-pinyin.conf.in:2
+#: tables/zhengma-pinyin.conf.in:3
 msgid "ZhengmaPinyin"
 msgstr "ZhengmaPinyin"

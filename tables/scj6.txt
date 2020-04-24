@@ -1,5 +1,6 @@
 Length=7
 KeyCode=abcdefghijklmnopqrstuvwxyz
+Prompt=&
 [Data]
 &a 日
 &b 月

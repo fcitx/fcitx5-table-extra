@@ -1,24 +1,20 @@
 [InputMethod]
-Name=Quick3
-Icon=fcitx-quick3
-Label=速
+Name=Jyutping Table
+Icon=fcitx-jyutping-table
+Label=粵
 LangCode=zh_HK
 Addon=table
 Configurable=True
 
 [Table]
-File=table/quick3.main.dict
-OrderPolicy=No
-PinyinKey=[
+File=table/jyutping-table.main.dict
+OrderPolicy=Freq
 AutoSelect=True
 AutoSelectLength=-1
 NoMatchAutoSelectLength=0
 MatchingKey=?
 ExactMatch=False
 Hint=False
-DisplayCustomHint=True
-PageSize=9
-CandidateLayoutHint=Vertical
 
 [Table/PrevPage]
 0=Up

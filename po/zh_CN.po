@@ -9,9 +9,9 @@
 # csslayer <wengxt@gmail.com>, 2011-2012
 msgid ""
 msgstr ""
-"Project-Id-Version: fcitx\n"
+"Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2020-04-02 00:02-0700\n"
+"POT-Creation-Date: 2020-04-22 08:51-0700\n"
 "PO-Revision-Date: 2020-04-01 16:26+0000\n"
 "Last-Translator: csslayer <wengxt@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/fcitx/fcitx/"
@@ -22,86 +22,86 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: tables/array30.conf.in:3
+#: tables/array30.conf.in:4
 msgid "Array30"
 msgstr "行列30"
 
-#: tables/array30-big.conf.in:3
+#: tables/array30-big.conf.in:4
 msgid "Array30Big"
 msgstr "行列30大字集"
 
-#: tables/boshiamy.conf.in:3
+#: tables/boshiamy.conf.in:4
 msgid "Boshiamy"
 msgstr "嘸蝦米"
 
-#: tables/cangjie-big.conf.in:3
+#: tables/cangjie-big.conf.in:4
 msgid "Cangjie Big"
 msgstr "仓颉大字符"
 
-#: tables/cangjie3.conf.in:3
+#: tables/cangjie3.conf.in:4
 msgid "Cangjie3"
 msgstr "第三代仓颉"
 
-#: tables/cangjie5.conf.in:3
+#: tables/cangjie5.conf.in:4
 msgid "Cangjie5"
 msgstr "第五代仓颉"
 
-#: tables/cantonhk.conf.in:3
+#: tables/cantonhk.conf.in:4
 msgid "CantonHK"
 msgstr "港式广东话"
 
-#: tables/cantonese.conf.in:3
+#: tables/cantonese.conf.in:4
 msgid "CantonesePinyin"
 msgstr "广东拼音"
 
-#: tables/easy-big.conf.in:3
+#: tables/easy-big.conf.in:4
 msgid "EasyBig"
 msgstr "轻松大词库"
 
-#: tables/jyutping.conf.in:3
+#: tables/jyutping.conf.in:4
 msgid "Jyutping"
 msgstr "粤语拼音"
 
-#: tables/quick3.conf.in:3
+#: tables/quick3.conf.in:4
 msgid "Quick3"
 msgstr "第三代速成"
 
-#: tables/quick5.conf.in:3
+#: tables/quick5.conf.in:4
 msgid "Quick5"
 msgstr "第五代速成"
 
-#: tables/quick-classic.conf.in:3
+#: tables/quick-classic.conf.in:4
 msgid "QuickClassic"
 msgstr "速成古典版"
 
-#: tables/scj6.conf.in:3
+#: tables/scj6.conf.in:4
 msgid "SmartCangJie6"
 msgstr "第六代快速仓颉"
 
-#: tables/stroke5.conf.in:3
+#: tables/stroke5.conf.in:4
 msgid "Stroke5"
 msgstr "笔顺五码"
 
-#: tables/t9.conf.in:3
+#: tables/t9.conf.in:4
 msgid "T9 (Stroke)"
 msgstr "T9 (笔画)"
 
-#: tables/wu.conf.in:3
+#: tables/wu.conf.in:4
 msgid "Wu"
 msgstr "吳語注音法"
 
-#: tables/wubi-large.conf.in:3
+#: tables/wubi-large.conf.in:4
 msgid "Wubi (Large)"
 msgstr "五笔大字集"
 
-#: tables/zhengma.conf.in:2
+#: tables/zhengma.conf.in:3
 msgid "Zhengma"
 msgstr "郑码"
 
-#: tables/zhengma-large.conf.in:2
+#: tables/zhengma-large.conf.in:3
 msgid "Zhengma (Large)"
 msgstr "郑码大字集"
 
-#: tables/zhengma-pinyin.conf.in:2
+#: tables/zhengma-pinyin.conf.in:3
 msgid "ZhengmaPinyin"
 msgstr "郑码拼音"

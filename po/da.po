@@ -7,9 +7,9 @@
 # scootergrisen, 2017,2019
 msgid ""
 msgstr ""
-"Project-Id-Version: fcitx\n"
+"Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2019-11-20 00:02-0800\n"
+"POT-Creation-Date: 2020-04-22 08:51-0700\n"
 "PO-Revision-Date: 2019-11-19 15:22+0000\n"
 "Last-Translator: scootergrisen\n"
 "Language-Team: Danish (http://www.transifex.com/fcitx/fcitx/language/da/)\n"
@@ -19,86 +19,86 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: tables/array30.conf.in:3
+#: tables/array30.conf.in:4
 msgid "Array30"
 msgstr "Array30"
 
-#: tables/array30-big.conf.in:3
+#: tables/array30-big.conf.in:4
 msgid "Array30Big"
 msgstr "Array30Big"
 
-#: tables/boshiamy.conf.in:3
+#: tables/boshiamy.conf.in:4
 msgid "Boshiamy"
 msgstr "Boshiamy"
 
-#: tables/cangjie-big.conf.in:3
+#: tables/cangjie-big.conf.in:4
 msgid "Cangjie Big"
 msgstr "Cangjie Big"
 
-#: tables/cangjie3.conf.in:3
+#: tables/cangjie3.conf.in:4
 msgid "Cangjie3"
 msgstr "Cangjie3"
 
-#: tables/cangjie5.conf.in:3
+#: tables/cangjie5.conf.in:4
 msgid "Cangjie5"
 msgstr "Cangjie5"
 
-#: tables/cantonhk.conf.in:3
+#: tables/cantonhk.conf.in:4
 msgid "CantonHK"
 msgstr "CantonHK"
 
-#: tables/cantonese.conf.in:3
+#: tables/cantonese.conf.in:4
 msgid "CantonesePinyin"
 msgstr "CantonesePinyin"
 
-#: tables/easy-big.conf.in:3
+#: tables/easy-big.conf.in:4
 msgid "EasyBig"
 msgstr "EasyBig"
 
-#: tables/jyutping.conf.in:3
+#: tables/jyutping.conf.in:4
 msgid "Jyutping"
 msgstr "Jyutping"
 
-#: tables/quick3.conf.in:3
+#: tables/quick3.conf.in:4
 msgid "Quick3"
 msgstr "Quick3"
 
-#: tables/quick5.conf.in:3
+#: tables/quick5.conf.in:4
 msgid "Quick5"
 msgstr "Quick5"
 
-#: tables/quick-classic.conf.in:3
+#: tables/quick-classic.conf.in:4
 msgid "QuickClassic"
 msgstr "QuickClassic"
 
-#: tables/scj6.conf.in:3
+#: tables/scj6.conf.in:4
 msgid "SmartCangJie6"
 msgstr "SmartCangJie6"
 
-#: tables/stroke5.conf.in:3
+#: tables/stroke5.conf.in:4
 msgid "Stroke5"
 msgstr "Stroke5"
 
-#: tables/t9.conf.in:3
+#: tables/t9.conf.in:4
 msgid "T9 (Stroke)"
 msgstr "T9 (tryk)"
 
-#: tables/wu.conf.in:3
+#: tables/wu.conf.in:4
 msgid "Wu"
 msgstr "Wu"
 
-#: tables/wubi-large.conf.in:3
+#: tables/wubi-large.conf.in:4
 msgid "Wubi (Large)"
 msgstr "Wubi (store)"
 
-#: tables/zhengma.conf.in:2
+#: tables/zhengma.conf.in:3
 msgid "Zhengma"
 msgstr "Zhengma"
 
-#: tables/zhengma-large.conf.in:2
+#: tables/zhengma-large.conf.in:3
 msgid "Zhengma (Large)"
 msgstr "Zhengma (store)"
 
-#: tables/zhengma-pinyin.conf.in:2
+#: tables/zhengma-pinyin.conf.in:3
 msgid "ZhengmaPinyin"
 msgstr "ZhengmaPinyin"

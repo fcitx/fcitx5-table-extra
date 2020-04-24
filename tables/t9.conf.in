@@ -1,9 +1,23 @@
-[CodeTable]
-UniqueName=t9
-_Name=T9 (Stroke)
-IconName=t9
-File=t9.mb
-AutoSend=-1
-ExactMatch=False
-PromptTableCode=True
+[InputMethod]
+Name=T9 (Stroke)
+Icon=fcitx-t9
+Label=T
 LangCode=zh_CN
+Addon=table
+Configurable=True
+
+[Table]
+File=table/t9.main.dict
+OrderPolicy=Freq
+AutoSelect=True
+AutoSelectLength=-1
+ExactMatch=False
+Hint=True
+
+[Table/PrevPage]
+0=Up
+1=minus
+
+[Table/NextPage]
+0=Down
+1=equal

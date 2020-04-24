@@ -1,6 +1,37 @@
 Length=5
 KeyCode=abcdefghijklmnopqrstuvwxyz./;,
+Prompt=&
 [Data]
+&q 1^
+&w 2^
+&e 3^
+&r 4^
+&t 5^
+&y 6^
+&u 7^
+&i 8^
+&o 9^
+&p 0^
+&a 1-
+&s 2-
+&d 3-
+&f 4-
+&g 5-
+&h 6-
+&j 7-
+&k 8-
+&l 9-
+&; 0-
+&z 1v
+&x 2v
+&c 3v
+&v 4v
+&b 5v
+&n 6v
+&m 7v
+&, 8v
+&. 9v
+&/ 0v
 cpu	溫
 wpu	媼
 g.;	啟

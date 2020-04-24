@@ -1,5 +1,6 @@
 Length=14
 KeyCode='abcdefghijklmnopqrstuvwxyz
+Prompt=&
 [Data]
 &a 阿
 &b 白

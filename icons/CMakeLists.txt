@@ -1,10 +1,10 @@
 set(ICON48
-  fcitx-cantonese.png fcitx-cantonhk.png fcitx-jyutping.png fcitx-quick3.png
+  fcitx-cantonese.png fcitx-cantonhk.png fcitx-jyutping-table.png fcitx-quick3.png
   fcitx-quick5.png fcitx-quick-classic.png fcitx-scj6.png fcitx-stroke5.png
   fcitx-wu.png)
 set(ICON64
-  fcitx-t9.png fcitx-boshiamy.png fcitx-easy-big.png fcitx-array30.png
-  fcitx-array30-big.png fcitx-zhengma.png)
+  fcitx-t9.png fcitx-boshiamy.png fcitx-easy-large.png fcitx-array30.png
+  fcitx-array30-large.png fcitx-zhengma.png)
 
 install(FILES
     ${ICON64}
@@ -13,8 +13,3 @@ install(FILES
 install(FILES
     ${ICON48}
     DESTINATION share/icons/hicolor/48x48/apps)
-
-foreach(icon ${ICON48} ${ICON64})
-    string(REPLACE "fcitx-" "" icon_new ${icon})
-    install(FILES ${icon} RENAME ${icon_new} DESTINATION share/fcitx/imicon)
-endforeach()

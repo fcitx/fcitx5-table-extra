@@ -1,4 +1,5 @@
 键码=abcdefghijklmnopqrstuvwxyz
+提示=&
 码长=2
 [数据]
 &a 日

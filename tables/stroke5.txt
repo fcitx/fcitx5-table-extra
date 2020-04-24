@@ -1,5 +1,6 @@
 Length=5
 KeyCode=nm,./
+Prompt=&
 [Data]
 &n ㄣ
 &m －

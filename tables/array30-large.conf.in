@@ -1,22 +1,26 @@
 [InputMethod]
-Name=Boshiamy
-Icon=fcitx-boshiamy
-Label=嘸
+Name=Array30 Large
+Icon=fcitx-array30-large
+Label=行
 LangCode=zh_TW
 Addon=table
 Configurable=True
 
 [Table]
-File=table/boshiamy.main.dict
+File=table/array30-large.main.dict
 AutoSelect=False
 AutoSelectLength=0
 NoMatchAutoSelectLength=0
 OrderPolicy=No
 Hint=False
+MatchingKey=?
+PinyinKey=[
 OrderPolicy=No
 UseFullWidth=True
 IgnorePunc=True
 ExactMatch=False
+Hint=True
+DisplayCustomHint=True
 Learning=False
 
 [Table/PrevPage]
