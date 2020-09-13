@@ -12,7 +12,6 @@ find_package(Gettext REQUIRED)
 find_package(LibIMETable REQUIRED)
 find_package(Fcitx5Core REQUIRED)
 
-add_subdirectory(po)
 add_subdirectory(icons)
 add_subdirectory(tables)
 
