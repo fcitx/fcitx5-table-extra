@@ -1,100 +1,98 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the fcitx5-table-extra package.
 #
 # Translators:
-# Christopher Meng <cickumqt@gmail.com>, 2012
-# csslayer <wengxt@gmail.com>, 2013
-# csslayer <wengxt@gmail.com>, 2013,2020
-# csslayer <wengxt@gmail.com>, 2011-2012
+# csslayer <wengxt@gmail.com>, 2020
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2020-04-22 08:51-0700\n"
-"PO-Revision-Date: 2020-04-01 16:26+0000\n"
-"Last-Translator: csslayer <wengxt@gmail.com>\n"
-"Language-Team: Chinese (China) (http://www.transifex.com/fcitx/fcitx/"
-"language/zh_CN/)\n"
+"POT-Creation-Date: 2020-09-13 00:02-0700\n"
+"PO-Revision-Date: 2020-09-13 02:40+0000\n"
+"Last-Translator: csslayer <wengxt@gmail.com>, 2020\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/fcitx/teams/12005/"
+"zh_CN/)\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: tables/array30.conf.in:4
+#: tables/array30.conf.in:3
 msgid "Array30"
 msgstr "行列30"
 
-#: tables/array30-big.conf.in:4
-msgid "Array30Big"
+#: tables/array30-large.conf.in:3
+msgid "Array30 Large"
 msgstr "行列30大字集"
 
-#: tables/boshiamy.conf.in:4
+#: tables/boshiamy.conf.in:3
 msgid "Boshiamy"
 msgstr "嘸蝦米"
 
-#: tables/cangjie-big.conf.in:4
-msgid "Cangjie Big"
+#: tables/cangjie-large.conf.in:3
+msgid "Cangjie Large"
 msgstr "仓颉大字符"
 
-#: tables/cangjie3.conf.in:4
+#: tables/cangjie3.conf.in:3
 msgid "Cangjie3"
 msgstr "第三代仓颉"
 
-#: tables/cangjie5.conf.in:4
+#: tables/cangjie5.conf.in:3
 msgid "Cangjie5"
 msgstr "第五代仓颉"
 
-#: tables/cantonhk.conf.in:4
+#: tables/cantonhk.conf.in:3
 msgid "CantonHK"
 msgstr "港式广东话"
 
-#: tables/cantonese.conf.in:4
-msgid "CantonesePinyin"
+#: tables/cantonese.conf.in:3
+msgid "Cantonese Pinyin"
 msgstr "广东拼音"
 
-#: tables/easy-big.conf.in:4
-msgid "EasyBig"
-msgstr "轻松大词库"
+#: tables/easy-large.conf.in:3
+msgid "Easy Large"
+msgstr "简易大字集"
 
-#: tables/jyutping.conf.in:4
-msgid "Jyutping"
-msgstr "粤语拼音"
+#: tables/jyutping-table.conf.in:3
+msgid "Jyutping Table"
+msgstr "粤拼码表"
 
-#: tables/quick3.conf.in:4
+#: tables/quick-classic.conf.in:3
+msgid "Quick Classic"
+msgstr "速成古典版"
+
+#: tables/quick3.conf.in:3
 msgid "Quick3"
 msgstr "第三代速成"
 
-#: tables/quick5.conf.in:4
+#: tables/quick5.conf.in:3
 msgid "Quick5"
 msgstr "第五代速成"
 
-#: tables/quick-classic.conf.in:4
-msgid "QuickClassic"
-msgstr "速成古典版"
-
-#: tables/scj6.conf.in:4
+#: tables/scj6.conf.in:3
 msgid "SmartCangJie6"
 msgstr "第六代快速仓颉"
 
-#: tables/stroke5.conf.in:4
+#: tables/stroke5.conf.in:3
 msgid "Stroke5"
 msgstr "笔顺五码"
 
-#: tables/t9.conf.in:4
+#: tables/t9.conf.in:3
 msgid "T9 (Stroke)"
 msgstr "T9 (笔画)"
 
-#: tables/wu.conf.in:4
+#: tables/wu.conf.in:3
 msgid "Wu"
 msgstr "吳語注音法"
 
-#: tables/wubi-large.conf.in:4
+#: tables/wubi-large.conf.in:3
 msgid "Wubi (Large)"
 msgstr "五笔大字集"
 
-#: tables/zhengma.conf.in:3
+#: tables/zhengma.conf.in:3 tables/zhengma.conf.in:11
 msgid "Zhengma"
 msgstr "郑码"
 
