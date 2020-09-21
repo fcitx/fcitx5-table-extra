@@ -4,14 +4,15 @@
 #
 # Translators:
 # csslayer <wengxt@gmail.com>, 2020
+# scootergrisen, 2020
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2020-09-13 00:02-0700\n"
+"POT-Creation-Date: 2020-09-21 00:02-0700\n"
 "PO-Revision-Date: 2020-09-13 02:40+0000\n"
-"Last-Translator: csslayer <wengxt@gmail.com>, 2020\n"
+"Last-Translator: scootergrisen, 2020\n"
 "Language-Team: Danish (https://www.transifex.com/fcitx/teams/12005/da/)\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +26,7 @@ msgstr "Array30"
 
 #: tables/array30-large.conf.in:3
 msgid "Array30 Large"
-msgstr ""
+msgstr "Array30 (store)"
 
 #: tables/boshiamy.conf.in:3
 msgid "Boshiamy"
@@ -33,7 +34,7 @@ msgstr "Boshiamy"
 
 #: tables/cangjie-large.conf.in:3
 msgid "Cangjie Large"
-msgstr ""
+msgstr "Cangjie (store)"
 
 #: tables/cangjie3.conf.in:3
 msgid "Cangjie3"
@@ -49,11 +50,11 @@ msgstr "CantonHK"
 
 #: tables/cantonese.conf.in:3
 msgid "Cantonese Pinyin"
-msgstr ""
+msgstr "Cantonese Pinyin"
 
 #: tables/easy-large.conf.in:3
 msgid "Easy Large"
-msgstr ""
+msgstr "Easy (store)"
 
 #: tables/jyutping-table.conf.in:3
 msgid "Jyutping Table"
