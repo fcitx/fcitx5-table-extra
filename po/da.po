@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2020-09-21 00:02-0700\n"
+"POT-Creation-Date: 2020-09-25 00:02-0700\n"
 "PO-Revision-Date: 2020-09-13 02:40+0000\n"
 "Last-Translator: scootergrisen, 2020\n"
 "Language-Team: Danish (https://www.transifex.com/fcitx/teams/12005/da/)\n"
@@ -58,11 +58,11 @@ msgstr "Easy (store)"
 
 #: tables/jyutping-table.conf.in:3
 msgid "Jyutping Table"
-msgstr ""
+msgstr "Jyutping-tabel"
 
 #: tables/quick-classic.conf.in:3
 msgid "Quick Classic"
-msgstr ""
+msgstr "Quick klassisk"
 
 #: tables/quick3.conf.in:3
 msgid "Quick3"
