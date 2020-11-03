@@ -6,6 +6,7 @@ find_package(ECM 1.0 REQUIRED)
 set(CMAKE_MODULE_PATH ${ECM_MODULE_PATH} "${CMAKE_CURRENT_SOURCE_DIR}/cmake" ${CMAKE_MODULE_PATH})
 
 include(FeatureSummary)
+include(GNUInstallDirs)
 include(ECMUninstallTarget)
 
 find_package(Gettext REQUIRED)
