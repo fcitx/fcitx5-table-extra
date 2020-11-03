@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2020-11-02 15:56-0800\n"
+"POT-Creation-Date: 2020-11-03 00:03-0800\n"
 "PO-Revision-Date: 2020-09-13 02:40+0000\n"
 "Last-Translator: scootergrisen, 2020\n"
 "Language-Team: Danish (https://www.transifex.com/fcitx/teams/12005/da/)\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: org.fcitx.fcitx5-table-extra.metainfo.xml.in:8
 msgid "Additional Table based Chinese input method"
-msgstr ""
+msgstr "Yderligere tabelbaseret kinesisk inputmetode"
 
 #: tables/array30.conf.in:3
 msgid "Array30"
@@ -90,7 +90,7 @@ msgstr "T9 (tryk)"
 
 #: org.fcitx.fcitx5-table-extra.metainfo.xml.in:7
 msgid "Table Extra"
-msgstr ""
+msgstr "Tabelekstra"
 
 #: tables/wu.conf.in:3
 msgid "Wu"
