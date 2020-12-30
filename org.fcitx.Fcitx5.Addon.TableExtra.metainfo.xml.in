@@ -10,6 +10,7 @@
   <url type="homepage">https://fcitx-im.org</url>
   <project_group>Fcitx</project_group>
   <releases>
+    <release version="5.0.2" date="2020-12-29"/>
     <release version="5.0.1" date="2020-12-03"/>
     <release version="5.0.0" date="2020-10-30"/>
   </releases>
