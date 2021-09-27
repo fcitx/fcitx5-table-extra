@@ -22,7 +22,7 @@ msgstr ""
 
 #: org.fcitx.fcitx5-table-extra.metainfo.xml.in:8
 msgid "Additional Table based Chinese input method"
-msgstr ""
+msgstr "額外基於字碼表格的中文輸入法"
 
 #: tables/array30.conf.in:3
 msgid "Array30"
@@ -30,7 +30,7 @@ msgstr "行列30"
 
 #: tables/array30-large.conf.in:3
 msgid "Array30 Large"
-msgstr ""
+msgstr "行列30大字集"
 
 #: tables/boshiamy.conf.in:3
 msgid "Boshiamy"
@@ -38,7 +38,7 @@ msgstr "嘸蝦米"
 
 #: tables/cangjie-large.conf.in:3
 msgid "Cangjie Large"
-msgstr ""
+msgstr "倉頡大字集"
 
 #: tables/cangjie3.conf.in:3
 msgid "Cangjie3"
@@ -54,19 +54,19 @@ msgstr "港式廣東話"
 
 #: tables/cantonese.conf.in:3
 msgid "Cantonese Pinyin"
-msgstr ""
+msgstr "廣東拼音"
 
 #: tables/easy-large.conf.in:3
 msgid "Easy Large"
-msgstr ""
+msgstr "Easy 大字集"
 
 #: tables/jyutping-table.conf.in:3
 msgid "Jyutping Table"
-msgstr ""
+msgstr "粵拼表格"
 
 #: tables/quick-classic.conf.in:3
 msgid "Quick Classic"
-msgstr ""
+msgstr "速成經典版"
 
 #: tables/quick3.conf.in:3
 msgid "Quick3"
@@ -90,7 +90,7 @@ msgstr "T9 (筆畫)"
 
 #: org.fcitx.fcitx5-table-extra.metainfo.xml.in:7
 msgid "Table Extra"
-msgstr ""
+msgstr "額外表格"
 
 #: tables/wu.conf.in:3
 msgid "Wu"
