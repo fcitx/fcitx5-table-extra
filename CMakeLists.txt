@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.8)
 
-project(fcitx5-table-extra VERSION 5.0.5 LANGUAGES NONE)
+project(fcitx5-table-extra VERSION 5.0.5)
 
 find_package(ECM 1.0 REQUIRED)
 set(CMAKE_MODULE_PATH ${ECM_MODULE_PATH} "${CMAKE_CURRENT_SOURCE_DIR}/cmake" ${CMAKE_MODULE_PATH})
