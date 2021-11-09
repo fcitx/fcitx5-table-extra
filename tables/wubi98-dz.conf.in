@@ -13,7 +13,7 @@ Addon=table
 Configurable=True
 
 [Table]
-File=table/wubi-dz.main.dict
+File=table/wubi98-dz.main.dict
 PageSize=5
 CommitAfterSelect=True
 CommitWhenDeactivate=True
