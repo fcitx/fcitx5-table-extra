@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2020-11-02 15:56-0800\n"
+"POT-Creation-Date: 2021-11-10 20:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: org.fcitx.fcitx5-table-extra.metainfo.xml.in:8
+#: org.fcitx.Fcitx5.Addon.TableExtra.metainfo.xml.in:8
 msgid "Additional Table based Chinese input method"
 msgstr ""
 
@@ -83,7 +83,7 @@ msgstr ""
 msgid "T9 (Stroke)"
 msgstr ""
 
-#: org.fcitx.fcitx5-table-extra.metainfo.xml.in:7
+#: org.fcitx.Fcitx5.Addon.TableExtra.metainfo.xml.in:7
 msgid "Table Extra"
 msgstr ""
 
@@ -93,6 +93,18 @@ msgstr ""
 
 #: tables/wubi-large.conf.in:3
 msgid "Wubi (Large)"
+msgstr ""
+
+#: tables/wubi98.conf.in:3
+msgid "Wubi 98"
+msgstr ""
+
+#: tables/wubi98-pinyin.conf.in:3
+msgid "Wubi 98 Pinyin"
+msgstr ""
+
+#: tables/wubi98-single.conf.in:3
+msgid "Wubi 98 Single"
 msgstr ""
 
 #: tables/zhengma.conf.in:3 tables/zhengma.conf.in:11

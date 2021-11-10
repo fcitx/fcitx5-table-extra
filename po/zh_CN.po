@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2020-11-02 16:11-0800\n"
+"POT-Creation-Date: 2021-11-10 20:24+0000\n"
 "PO-Revision-Date: 2020-09-13 02:40+0000\n"
 "Last-Translator: csslayer <wengxt@gmail.com>, 2020\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/fcitx/teams/12005/"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: org.fcitx.fcitx5-table-extra.metainfo.xml.in:8
+#: org.fcitx.Fcitx5.Addon.TableExtra.metainfo.xml.in:8
 msgid "Additional Table based Chinese input method"
 msgstr "额外的基于码表的中文输入法"
 
@@ -88,7 +88,7 @@ msgstr "笔顺五码"
 msgid "T9 (Stroke)"
 msgstr "T9 (笔画)"
 
-#: org.fcitx.fcitx5-table-extra.metainfo.xml.in:7
+#: org.fcitx.Fcitx5.Addon.TableExtra.metainfo.xml.in:7
 msgid "Table Extra"
 msgstr "额外码表"
 
@@ -99,6 +99,18 @@ msgstr "吳語注音法"
 #: tables/wubi-large.conf.in:3
 msgid "Wubi (Large)"
 msgstr "五笔大字集"
+
+#: tables/wubi98.conf.in:3
+msgid "Wubi 98"
+msgstr ""
+
+#: tables/wubi98-pinyin.conf.in:3
+msgid "Wubi 98 Pinyin"
+msgstr ""
+
+#: tables/wubi98-single.conf.in:3
+msgid "Wubi 98 Single"
+msgstr ""
 
 #: tables/zhengma.conf.in:3 tables/zhengma.conf.in:11
 msgid "Zhengma"
