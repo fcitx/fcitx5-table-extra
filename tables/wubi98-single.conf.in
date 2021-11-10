@@ -1,11 +1,5 @@
 [InputMethod]
-Name[ca]=Wubi98-dz
-Name[da]=Wubi98-dz
-Name[de]=Wubi98-dz
-Name[ko]=Wubi98-dz
-Name[ru]=Wubi98-dz
-Name[zh_CN]=98五笔·单字
-Name=Wubi98-dz
+Name=Wubi 98 Single
 Icon=fcitx-wubi
 Label=五
 LangCode=zh_CN
@@ -13,7 +7,7 @@ Addon=table
 Configurable=True
 
 [Table]
-File=table/wubi98-dz.main.dict
+File=table/wubi98-single.main.dict
 PageSize=5
 CommitAfterSelect=True
 CommitWhenDeactivate=True
@@ -21,7 +15,7 @@ CommitInvalidSegment=False
 UseFullWidth=False
 IgnorePunc=False
 FirstCandidateAsPreedit=False
-QuickPhraseKey=
+QuickPhraseKey=semicolon
 QuickPhraseText=ABCDEFGHIJLKLMNOPQRSTUVWXYZ
 NoSortInputLength=2
 OrderPolicy=No

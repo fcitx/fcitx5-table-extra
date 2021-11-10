@@ -1,11 +1,5 @@
 [InputMethod]
-Name[ca]=Wubi Pinyin
-Name[da]=Wubi Pinyin
-Name[de]=Wubi Pinyin
-Name[ko]=Wubi 병음
-Name[ru]=Wubi Pinyin
-Name[zh_CN]=98五笔·拼音
-Name=Wubi Pinyin
+Name=Wubi 98 Pinyin
 Icon=fcitx-wubi
 Label=五
 LangCode=zh_CN
@@ -14,34 +8,20 @@ Configurable=True
 
 [Table]
 File=table/wubi98-pinyin.main.dict
-PageSize=5
-CommitAfterSelect=True
-CommitWhenDeactivate=True
-CommitInvalidSegment=False
-UseFullWidth=False
-IgnorePunc=False
-FirstCandidateAsPreedit=False
-QuickPhraseKey=
-QuickPhraseText=ABCDEFGHIJLKLMNOPQRSTUVWXYZ
-NoSortInputLength=2
-OrderPolicy=No
-UseSystemLanguageModel=False
-UseContextRelatedOrder=False
-MatchingKey=
-PinyinKey=z
 AutoSelect=True
 AutoSelectLength=-1
-AutoSelectRegex=
 NoMatchAutoSelectLength=-1
-NoMatchAutoSelectRegex=
-AutoPhraseLength=0
-SaveAutoPhraseAfter=-8
-ExactMatch=False
-Learning=False
-Hint=False
-DisplayCustomHint=False
+NoSortInputLength=2
+Hint=True
+MatchingKey=z
+OrderPolicy=Freq
+UseFullWidth=True
+QuickPhraseKey=semicolon
+AutoPhraseLength=4
+SaveAutoPhraseAfter=3
+UseContextRelatedOrder=False
+QuickPhraseText=ABCDEFGHIJLKLMNOPQRSTUVWXYZ
 HintSeparator=
-CandidateLayoutHint=Horizontal
 
 [Table/PrevPage]
 0=Up
