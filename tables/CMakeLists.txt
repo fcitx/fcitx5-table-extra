@@ -4,6 +4,7 @@ set(TABLE_NAME
   scj6 easy-large wu cantonese cantonhk jyutping-table stroke5 array30 array30-large
   wubi-large zhengma-large zhengma-pinyin
   t9
+  wubi98 wubi98-pinyin wubi98-single
   )
 
 set(MB_FILE)
