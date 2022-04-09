@@ -4,15 +4,15 @@
 #
 # Translators:
 # csslayer <wengxt@gmail.com>, 2020
-# JungHee Lee <daemul72@gmail.com>, 2022
+# Junghee Lee <daemul72@gmail.com>, 2022
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2022-03-01 20:25+0000\n"
+"POT-Creation-Date: 2022-04-09 20:25+0000\n"
 "PO-Revision-Date: 2020-09-13 02:40+0000\n"
-"Last-Translator: JungHee Lee <daemul72@gmail.com>, 2022\n"
+"Last-Translator: Junghee Lee <daemul72@gmail.com>, 2022\n"
 "Language-Team: Korean (https://www.transifex.com/fcitx/teams/12005/ko/)\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: org.fcitx.Fcitx5.Addon.TableExtra.metainfo.xml.in:8
 msgid "Additional Table based Chinese input method"
-msgstr ""
+msgstr "추가 표 기반 한어 입력기"
 
 #: tables/array30.conf.in:3
 msgid "Array30"
@@ -30,7 +30,7 @@ msgstr "행렬30"
 
 #: tables/array30-large.conf.in:3
 msgid "Array30 Large"
-msgstr ""
+msgstr "행렬30 큰부호"
 
 #: tables/boshiamy.conf.in:3
 msgid "Boshiamy"
@@ -58,23 +58,23 @@ msgstr "광둥어 병음"
 
 #: tables/easy-large.conf.in:3
 msgid "Easy Large"
-msgstr ""
+msgstr "쉬운 큰부호"
 
 #: tables/jyutping-table.conf.in:3
 msgid "Jyutping Table"
-msgstr ""
+msgstr "월어병음 표"
 
 #: tables/quick-classic.conf.in:3
 msgid "Quick Classic"
-msgstr ""
+msgstr "빠른 클래식"
 
 #: tables/quick3.conf.in:3
 msgid "Quick3"
-msgstr "3세대 빠른 완성"
+msgstr "빠른 완성3"
 
 #: tables/quick5.conf.in:3
 msgid "Quick5"
-msgstr "5세대 빠른 완성"
+msgstr "빠른 완성5"
 
 #: tables/scj6.conf.in:3
 msgid "SmartCangJie6"
@@ -90,7 +90,7 @@ msgstr "T9 (Stroke)"
 
 #: org.fcitx.Fcitx5.Addon.TableExtra.metainfo.xml.in:7
 msgid "Table Extra"
-msgstr ""
+msgstr "표 추가"
 
 #: tables/wu.conf.in:3
 msgid "Wu"
@@ -102,15 +102,15 @@ msgstr "Wubi (큰)"
 
 #: tables/wubi98.conf.in:3
 msgid "Wubi 98"
-msgstr ""
+msgstr "Wubi 98"
 
 #: tables/wubi98-pinyin.conf.in:3
 msgid "Wubi 98 Pinyin"
-msgstr ""
+msgstr "Wubi 98 Pinyin"
 
 #: tables/wubi98-single.conf.in:3
 msgid "Wubi 98 Single"
-msgstr ""
+msgstr "Wubi 98 Single"
 
 #: tables/zhengma.conf.in:3 tables/zhengma.conf.in:11
 msgid "Zhengma"
