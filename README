@@ -3,7 +3,7 @@ Requirements:
     You need to install fcitx5-chinese-addons and libime first.
 
 ```
-make build
+mkdir build
 cd build
 cmake .. -DCMAKE_INSTALL_PREFIX=<fcitx's prefix>
 cmake --build .
