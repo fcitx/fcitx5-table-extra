@@ -121,6 +121,10 @@ msgstr "鄭碼"
 msgid "Zhengma (Large)"
 msgstr "鄭碼大字集"
 
+#: tables/zhengma-chaoji.conf.in:3
+msgid "Zhengma (Chaoji)"
+msgstr "鄭碼超集"
+
 #: tables/zhengma-pinyin.conf.in:3
 msgid "ZhengmaPinyin"
 msgstr "鄭碼拼音"

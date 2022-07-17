@@ -115,6 +115,10 @@ msgstr ""
 msgid "Zhengma (Large)"
 msgstr ""
 
+#: tables/zhengma-chaoji.conf.in:3
+msgid "Zhengma (Chaoji)"
+msgstr ""
+
 #: tables/zhengma-pinyin.conf.in:3
 msgid "ZhengmaPinyin"
 msgstr ""
