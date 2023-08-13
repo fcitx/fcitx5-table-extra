@@ -12,7 +12,7 @@ OrderPolicy=Freq
 AutoSelect=True
 AutoSelectLength=-1
 NoMatchAutoSelectLength=0
-MatchingKey=?
+MatchingKey=*
 ExactMatch=False
 Hint=False
 
