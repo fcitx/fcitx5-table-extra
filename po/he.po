@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2023-04-12 14:27+0000\n"
+"POT-Creation-Date: 2024-01-03 20:25+0000\n"
 "PO-Revision-Date: 2020-09-13 02:40+0000\n"
 "Last-Translator: 63f334ffc0709ba0fc2361b80bf3c0f0_00ffd1e "
 "<ab96c93ca0ac55ba7fa06385427e60dd_878890>, 2021\n"
@@ -111,6 +111,10 @@ msgstr ""
 
 #: tables/wubi98-single.conf.in:3
 msgid "Wubi 98 Single"
+msgstr ""
+
+#: tables/wubi98-large.conf.in:3
+msgid "Wubi 98 large"
 msgstr ""
 
 #: tables/zhengma.conf.in:3 tables/zhengma.conf.in:11

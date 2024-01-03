@@ -9,10 +9,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2021-11-11 20:24+0000\n"
+"POT-Creation-Date: 2024-01-03 20:25+0000\n"
 "PO-Revision-Date: 2020-09-13 02:40+0000\n"
 "Last-Translator: csslayer <wengxt@gmail.com>, 2021\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/fcitx/teams/12005/"
+"Language-Team: Chinese (China) (https://app.transifex.com/fcitx/teams/12005/"
 "zh_CN/)\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -111,6 +111,10 @@ msgstr "五笔98拼音"
 #: tables/wubi98-single.conf.in:3
 msgid "Wubi 98 Single"
 msgstr "五笔98单字"
+
+#: tables/wubi98-large.conf.in:3
+msgid "Wubi 98 large"
+msgstr ""
 
 #: tables/zhengma.conf.in:3 tables/zhengma.conf.in:11
 msgid "Zhengma"
