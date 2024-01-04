@@ -4,15 +4,15 @@
 #
 # Translators:
 # csslayer <wengxt@gmail.com>, 2020
-# Dmitry <dmitrydmitry761@gmail.com>, 2023
+# Dmitry <dmitrydmitry761@gmail.com>, 2024
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2024-01-03 20:25+0000\n"
+"POT-Creation-Date: 2024-01-04 20:25+0000\n"
 "PO-Revision-Date: 2020-09-13 02:40+0000\n"
-"Last-Translator: Dmitry <dmitrydmitry761@gmail.com>, 2023\n"
+"Last-Translator: Dmitry <dmitrydmitry761@gmail.com>, 2024\n"
 "Language-Team: Russian (https://app.transifex.com/fcitx/teams/12005/ru/)\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,7 @@ msgstr "Array30"
 
 #: tables/array30-large.conf.in:3
 msgid "Array30 Large"
-msgstr "Array30 Large"
+msgstr "Array30 Большой"
 
 #: tables/boshiamy.conf.in:3
 msgid "Boshiamy"
@@ -40,19 +40,19 @@ msgstr "Boshiamy"
 
 #: tables/cangjie-large.conf.in:3
 msgid "Cangjie Large"
-msgstr "Cangjie Large"
+msgstr "Большие символы Цанцзе"
 
 #: tables/cangjie3.conf.in:3
 msgid "Cangjie3"
-msgstr "Cangjie3"
+msgstr "Цанцзе3"
 
 #: tables/cangjie5.conf.in:3
 msgid "Cangjie5"
-msgstr "Cangjie5"
+msgstr "Цанцзе5"
 
 #: tables/cantonhk.conf.in:3
 msgid "CantonHK"
-msgstr "CantonHK"
+msgstr "CantonHK Кантонский диалект в гонконгском стиле"
 
 #: tables/cantonese.conf.in:3
 msgid "Cantonese Pinyin"
@@ -64,7 +64,7 @@ msgstr "Easy Large"
 
 #: tables/jyutping-table.conf.in:3
 msgid "Jyutping Table"
-msgstr "Jyutping Table"
+msgstr "Jyutping Table Таблица кодов кантонского Пиньинь"
 
 #: tables/quick-classic.conf.in:3
 msgid "Quick Classic"
@@ -96,15 +96,15 @@ msgstr "Table Extra"
 
 #: tables/wu.conf.in:3
 msgid "Wu"
-msgstr "Wu"
+msgstr "Фонетическая запись У"
 
 #: tables/wubi-large.conf.in:3
 msgid "Wubi (Large)"
-msgstr "Wubi (Большой)"
+msgstr "Уби (Большая коллекция символов)"
 
 #: tables/wubi98.conf.in:3
 msgid "Wubi 98"
-msgstr "Wubi 98"
+msgstr "Уби 98"
 
 #: tables/wubi98-pinyin.conf.in:3
 msgid "Wubi 98 Pinyin"
@@ -112,19 +112,19 @@ msgstr "Уби 98 Пиньинь"
 
 #: tables/wubi98-single.conf.in:3
 msgid "Wubi 98 Single"
-msgstr "Wubi 98 Single"
+msgstr "Уби 98 слов"
 
 #: tables/wubi98-large.conf.in:3
 msgid "Wubi 98 large"
-msgstr ""
+msgstr "Уби 98 Большая коллекция символов"
 
 #: tables/zhengma.conf.in:3 tables/zhengma.conf.in:11
 msgid "Zhengma"
-msgstr "Zhengma"
+msgstr "Чжэнма"
 
 #: tables/zhengma-large.conf.in:3
 msgid "Zhengma (Large)"
-msgstr "Zhengma (большой)"
+msgstr "Чжэнма (большой набор)"
 
 #: tables/zhengma-pinyin.conf.in:3
 msgid "ZhengmaPinyin"
