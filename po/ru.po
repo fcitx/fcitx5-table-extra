@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2024-01-04 20:25+0000\n"
+"POT-Creation-Date: 2024-01-05 20:25+0000\n"
 "PO-Revision-Date: 2020-09-13 02:40+0000\n"
 "Last-Translator: Dmitry <dmitrydmitry761@gmail.com>, 2024\n"
 "Language-Team: Russian (https://app.transifex.com/fcitx/teams/12005/ru/)\n"
@@ -32,15 +32,15 @@ msgstr "Array30"
 
 #: tables/array30-large.conf.in:3
 msgid "Array30 Large"
-msgstr "Array30 Большой"
+msgstr "Array30 Большая коллекция символов"
 
 #: tables/boshiamy.conf.in:3
 msgid "Boshiamy"
-msgstr "Boshiamy"
+msgstr "Бошиами"
 
 #: tables/cangjie-large.conf.in:3
 msgid "Cangjie Large"
-msgstr "Большие символы Цанцзе"
+msgstr "Большая коллекция символов Цанцзе"
 
 #: tables/cangjie3.conf.in:3
 msgid "Cangjie3"
@@ -52,7 +52,7 @@ msgstr "Цанцзе5"
 
 #: tables/cantonhk.conf.in:3
 msgid "CantonHK"
-msgstr "CantonHK Кантонский диалект в гонконгском стиле"
+msgstr "CantonHK — Кантонский диалект в гонконгском стиле"
 
 #: tables/cantonese.conf.in:3
 msgid "Cantonese Pinyin"
@@ -64,7 +64,7 @@ msgstr "Easy Large"
 
 #: tables/jyutping-table.conf.in:3
 msgid "Jyutping Table"
-msgstr "Jyutping Table Таблица кодов кантонского Пиньинь"
+msgstr "Jyutping Table — Кодовая таблица Ютпхин"
 
 #: tables/quick-classic.conf.in:3
 msgid "Quick Classic"
@@ -92,11 +92,11 @@ msgstr "T9 (Stroke)"
 
 #: org.fcitx.Fcitx5.Addon.TableExtra.metainfo.xml.in:7
 msgid "Table Extra"
-msgstr "Table Extra"
+msgstr "Table Extra — Дополнительная кодовая таблица"
 
 #: tables/wu.conf.in:3
 msgid "Wu"
-msgstr "Фонетическая запись У"
+msgstr "Фонетическое письмо У"
 
 #: tables/wubi-large.conf.in:3
 msgid "Wubi (Large)"
