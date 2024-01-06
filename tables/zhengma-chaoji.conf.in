@@ -1,0 +1,27 @@
+[InputMethod]
+Name=Zhengma (Chaoji)
+Icon=fcitx-zhengma
+Label=郑(超集)
+LangCode=zh_CN
+Addon=table
+Configurable=True
+
+[Table]
+File=table/zhengma-chaoji.main.dict
+OrderPolicy=No
+PinyinKey=[
+AutoSelect=True
+AutoSelectLength=-1
+NoMatchAutoSelectLength=0
+MatchingKey=?
+AutoPhraseLength=4
+ExactMatch=False
+Hint=False
+
+[Table/PrevPage]
+0=Up
+1=minus
+
+[Table/NextPage]
+0=Down
+1=equal
