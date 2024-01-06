@@ -5,6 +5,7 @@ set(TABLE_NAME
   wubi-large zhengma-large zhengma-pinyin
   t9
   wubi98 wubi98-pinyin wubi98-single
+  wubi98-large
   )
 
 set(MB_FILE)
