@@ -103,7 +103,7 @@ bo	簸
 bo	菠
 bo	玻
 bo	坡
-bo	
+bo 𡃓
 bo	噃
 bo	播
 ce	檨
@@ -1523,7 +1523,7 @@ bin	褊
 bin	忭
 bit	䏟
 bit	㿜
-bit	
+bit 𡋾
 bit	㻫
 bit	鼈
 bit	鮅
@@ -2817,7 +2817,7 @@ gan	釿
 gan	饉
 gan	墐
 gan	觔
-gan	
+gan 𡁵
 gan	跟
 gan	近
 gan	僅
@@ -5023,7 +5023,7 @@ lip	儠
 lip	擸
 lip	鬣
 lip	犣
-lip	
+lip 𨋢
 lit	茢
 lit	纈
 lit	趔
@@ -6600,7 +6600,7 @@ tai	謕
 tai	鵜
 tai	涕
 tai	銻
-tam	
+tam 𠱁
 tam	凼
 tam	氹
 tan	吞
@@ -8680,7 +8680,7 @@ gaai	偕
 gaai	尬
 gaai	誡
 gaai	湝
-gaak	
+gaak 𠺝
 gaak	滆
 gaak	塥
 gaak	觡
@@ -8730,7 +8730,7 @@ gaan	㵎
 gaan	鹼
 gaan	鐧
 gaan	繭
-gaan	
+gaan 𨰝
 gaan	諫
 gaap	鴿
 gaap	鉀
@@ -10106,7 +10106,7 @@ laan	闌
 laan	鑭
 laan	嬾
 laan	襴
-laap	
+laap 𩶘
 laap	㧜
 laap	鱲
 laap	鑞

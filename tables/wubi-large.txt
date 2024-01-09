@@ -2296,8 +2296,8 @@ aghd 𢎈
 aghf 𦭒
 aghf 𦴀
 aghg 廿
-aghg 
-aghg 
+aghg 龷
+aghg 龷
 aghg ⼯
 aghg 𦲕
 aghg 𦭢
@@ -5327,8 +5327,8 @@ apwj 蓿
 apwk 劳保
 apwk 蓉
 apwk 𧅓
-apwl 
-apwl 
+apwl 䓖
+apwl 䓖
 apwl 䓖
 apwn 𦹎
 apwo 𦾉
@@ -10109,8 +10109,8 @@ bnmj 𡵾
 bnn 孔
 bnn 巜
 bnn 耴
-bnn 
-bnn 
+bnn ⺋
+bnn ⺋
 bnn ⺋
 bnn 𦔶
 bnn 㔾
@@ -13509,9 +13509,9 @@ cnwx 戏剧化
 cnwy 駃
 cnxf 巴结
 cny 厶
-cny 
+cny 龴
 cny ⼜
-cny 
+cny 龴
 cny ⼛
 cny 龴
 cnyl 巴库
@@ -16935,8 +16935,8 @@ dgsy 石柱
 dgsy 砞
 dgt 厂
 dgt 丆
-dgt 
-dgt 
+dgt 𠂇
+dgt 𠂇
 dgt ⼚
 dgt 𠂇
 dgta 厂长
@@ -17619,8 +17619,8 @@ dijy 𦔨
 dikm 非党员
 dikm 𦔐
 dikv 耬
-dilc 
-dilc 
+dilc 䎬
+dilc 䎬
 dilc 䎬
 dilf 𦔥
 dilk 耞
@@ -17633,7 +17633,7 @@ dilv 耬
 dilv 𦔪
 dilw 砂轮
 dilw 𦔜
-dilx 
+dilx 䎱
 dilx 䎱
 dimd 砂岩
 dimk 𥓡
@@ -20774,8 +20774,8 @@ dwhj 𡗟
 dwhj 㫪
 dwhk 百分点
 dwi 仄
-dwi 
-dwi 
+dwi 𡗗
+dwi 𡗗
 dwi 𡗕
 dwi 𡗗
 dwia 春江
@@ -21105,8 +21105,8 @@ dxfm 𥖏
 dxfp 袭过
 dxfs 砒霜
 dxfw 故纸堆
-dxgd 
-dxgd 
+dxgd 䶮
+dxgd 䶮
 dxgd 䶭
 dxgd 䶮
 dxgg 龙王
@@ -22529,8 +22529,8 @@ efn 肟
 efnf 𦡴
 efnn 肟
 efny 脚心
-efny 
-efny 
+efny 䏝
+efny 䏝
 efny 𡬰
 efny 𣂭
 efny 䏝
@@ -24298,8 +24298,8 @@ eude 䑆
 eudf 塍
 eudf 𦟤
 eudg 服装厂
-eudg 
-eudg 
+eudg 䲢
+eudg 䲢
 eudg 𪓺
 eudg 䲢
 eudh 幐
@@ -24967,7 +24967,7 @@ fadr 𩅰
 fadt 𡊸
 fadw 㙋
 fae 霰
-fae 
+fae 𢦏
 fae 𢦏
 faef 截肢
 faet 霰
@@ -25026,8 +25026,8 @@ fahl 𦾐
 fahq 𡔑
 faht 𡉪
 fahv 老花眼
-fai 
-fai 
+fai 𢦏
+fai 𢦏
 faia 载满
 faid 塔尖
 faih 载波
@@ -28562,7 +28562,7 @@ filg 救国
 filj 𧔵
 filk 救驾
 filw 动滑轮
-filx 
+filx 䎱
 fima 𣒠
 fimd 未央
 fimd 𩅌
@@ -28943,8 +28943,8 @@ fjis 进酒
 fjiu 汬
 fjiy 韩流
 fjj 亓
-fjj 
-fjj 
+fjj 龺
+fjj 龺
 fjj 𠦝
 fjj 龺
 fjjc 进贤
@@ -34553,8 +34553,8 @@ geq 静
 geqc 青色
 geqc 靘
 geqg 青鱼
-geqg 
-geqg 
+geqg 䴖
+geqg 䴖
 geqg 䴖
 geqh 静
 geqj 表象
@@ -35082,9 +35082,9 @@ gggg 五一
 gggg 琵琶
 gggg 瑟瑟
 gggg 王
-gggg 
+gggg 龶
 gggg 𝌆
-gggg 
+gggg 龶
 gggg ⺩
 gggg ䷀
 gggg ䷉
@@ -37780,9 +37780,9 @@ gmhd 𤜲
 gmhe 𧘴
 gmhe 𧛦
 gmhg 靑
-gmhg 
+gmhg 䴓
 gmhg 𠀣
-gmhg 
+gmhg 䴓
 gmhg 𩐊
 gmhg ⾭
 gmhg 𩐊
@@ -38985,8 +38985,8 @@ gqje 裂
 gqje 裂
 gqje 𤩪
 gqjg 珣
-gqjg 
-gqjg 
+gqjg 䴕
+gqjg 䴕
 gqjg 𣨾
 gqjg 䴕
 gqjh 列
@@ -39042,8 +39042,8 @@ gqkl 𤧔
 gqkm 殒
 gqkm 殞
 gqkm 殨
-gqkm 
-gqkm 
+gqkm 㱮
+gqkm 㱮
 gqkm 㱮
 gqkq 㻊
 gqlc 𣨨
@@ -41268,10 +41268,10 @@ haqq 𧆧
 haqs 虐杀
 haqs 𧇨
 haqt 虎狼
-haqt 
-haqt 
-haqt 
-haqt 
+haqt 䲣
+haqt 䱷
+haqt 䲣
+haqt 䱷
 haqt 䱷
 haqt 䲣
 haqw 𧆩
@@ -41868,8 +41868,8 @@ hdnl 𥊱
 hdno 𢈘
 hdnt 𥆏
 hdny 𣁅
-hdqg 
-hdqg 
+hdqg 䴗
+hdqg 䴗
 hdqg 䴗
 hdrk 𠧣
 hdrn 上厕所
@@ -43636,8 +43636,8 @@ hou 𥄧
 hou 𥅼
 houd 眯着
 hove 𥉤
-hovg 
-hovg 
+hovg 䁖
+hovg 䁖
 hovg 䁖
 howd 𡚋
 hoxn 战火纷飞
@@ -45837,8 +45837,8 @@ idow 滑石粉
 idoy 洃
 idoy 𣵩
 idpe 演奏家
-idpy 
-idpy 
+idpy 㳠
+idpy 㳠
 idpy 㳠
 idqb 𣶐
 idqc 深灰色
@@ -47255,8 +47255,8 @@ ihyn 小户
 ihyo 小变
 ihys 小床
 ihyt 泸州
-ihyt 
-ihyt 
+ihyt ⺌
+ihyt ⺌
 ihyu 小说
 ihyv 小康
 ihyw 小卒
@@ -48930,8 +48930,8 @@ ipaw 浓茶
 ipaw 黉
 ipax 泻药
 ipb 学
-ipb 
-ipb 
+ipb 龸
+ipb 龸
 ipb 龸
 ipbb 学子
 ipbb 海军陆战队
@@ -58557,8 +58557,8 @@ khey 趿
 khey 𨁿
 khey 𨃆
 khf 趺
-khf 
-khf 
+khf ⻊
+khf ⻊
 khf ⻊
 khf 𧾷
 khfa 路霸
@@ -60292,8 +60292,8 @@ kkmj 𡷇
 kkmk 𡼚
 kkmq 口风
 kkmw 口内
-kkmw 
-kkmw 
+kkmw 㖞
+kkmw 㖞
 kkmw 𠽝
 kkmw 㖞
 kkmy 𠹚
@@ -61964,8 +61964,8 @@ kubb 哪门子
 kubb 串门子
 kube 嗍
 kubp 𠸺
-kubt 
-kubt 
+kubt 㘚
+kubt 㘎
 kubt 𠱘
 kubv 𠾌
 kubx 中产阶级
@@ -62054,8 +62054,8 @@ kump 𡂓
 kun 𠵘
 kunf 中间层
 kunr 𡆏
-kunt 
-kunt 
+kunt 㘚
+kunt 㘎
 kunt 㘎
 kunt 㘚
 kuog 𠵔
@@ -68317,10 +68317,10 @@ mgef 賻
 mgef 赙
 mgef 𡸺
 mgeg 崝
-mgeg 
-mgeg 
-mgeg 
-mgeg 
+mgeg 䝼
+mgeg 䞍
+mgeg 䝼
+mgeg 䞍
 mgeg 䝼
 mgeg 䞍
 mgej 由表及里
@@ -73500,7 +73500,7 @@ nhcy 怶
 nhcy 翍
 nhcy 𢻰
 nhd 眉
-nhd 
+nhd ⺪
 nhd ⺪
 nhd 𤴔
 nhda 戕
@@ -73636,7 +73636,7 @@ nhef 胥
 nhep 收受
 nhet 收腹
 nhf 遐
-nhf 
+nhf ⺪
 nhfa 收载
 nhfc 收支
 nhfc 叚
@@ -73939,8 +73939,8 @@ nhtt 眉笔
 nhtu 收税
 nhty 收入
 nhty 收
-nhty 
-nhty 
+nhty ⺗
+nhty ⺗
 nhty ⺗
 nhu ⽦
 nhud 眉头
@@ -74346,8 +74346,8 @@ nkue 臂
 nkue 襞
 nkue 𧲜
 nkuf 壁
-nkug 
-nkug 
+nkug 䴙
+nkug 䴙
 nkug 𤩹
 nkug 䴙
 nkuh 辟
@@ -74764,10 +74764,10 @@ nnlk 书架
 nnll 乙
 nnll 乚
 nnll 乛
-nnll 
-nnll 
-nnll 
-nnll 
+nnll ㇆
+nnll ⺄
+nnll ㇆
+nnll ⺄
 nnll ⺂
 nnll ⺃
 nnll ⺄
@@ -75166,8 +75166,8 @@ nqbh 𢗮
 nqbh 𢗾
 nqbt 惾
 nqbt 翪
-nqbt 
-nqbt 
+nqbt 㥮
+nqbt 㥮
 nqbt 㥮
 nqck 收银台
 nqck 懈怠
@@ -75270,8 +75270,8 @@ nqv 𠃔
 nqv 𡰭
 nqve 𢣩
 nqvg 惂
-nqvg 
-nqvg 
+nqvg 㤘
+nqvg 㤘
 nqvg 㤘
 nqvh 𢛵
 nqvo 𢢴
@@ -79345,8 +79345,8 @@ oooy 𤑚
 oooy 㷋
 oooy 䊏
 oopa 𤐻
-oopb 
-oopb 
+oopb 𤇾
+oopb 𤇾
 oopb 𡦃
 oopb 𤇾
 oopb 𦖽
@@ -82633,8 +82633,8 @@ pqaj 𡨩
 pqas 𡩣
 pqaw 冤孽
 pqb 宛
-pqb 
-pqb 
+pqb ⺳
+pqb ⺳
 pqb ⺴
 pqb 𡦾
 pqb 冗
@@ -83442,10 +83442,10 @@ pukk 补品
 pukk 袖口
 pukm 守门员
 pukm 审判员
-pukm 
-pukm 
-pukm 
-pukm 
+pukm 䙡
+pukm 䙌
+pukm 䙡
+pukm 䙌
 pukm 𧜘
 pukm 䙌
 pukm 䙡
@@ -85827,8 +85827,8 @@ qafg 钳
 qafg 鉗
 qafj 氒
 qafj 鐯
-qafj 
-qafj 
+qafj 䦃
+qafj 䦃
 qafj 䦃
 qafl 鑉
 qafl 𠤅
@@ -85871,8 +85871,8 @@ qahr 𢫰
 qahs 桀
 qaht 昏睡
 qaht 釾
-qaht 
-qaht 
+qaht 䥺
+qaht 䥺
 qaht 䥺
 qahy 昏眩
 qaie 镜花水月
@@ -87412,8 +87412,8 @@ qgdf 鱼唇
 qgdf 𩾂
 qgdh 鲜艳
 qgdj 鲕
-qgdj 
-qgdj 
+qgdj 䲠
+qgdj 䲠
 qgdj 鉶
 qgdj 䲠
 qgdm 铺面
@@ -87662,8 +87662,8 @@ qgpt 多事之秋
 qgpv 𩽾
 qgpw 𨭂
 qgq 鲍
-qgqb 
-qgqb 
+qgqb 䲟
+qgqb 䲟
 qgqb 䲟
 qgqd 兔死狐悲
 qgqe 钝角
@@ -87756,8 +87756,8 @@ qguf 鳉
 qguf 鳟
 qgug 鲜美
 qgug 铺盖
-qgug 
-qgug 
+qgug 䲡
+qgug 䲡
 qgug 䲞
 qgug 䲡
 qguh 匉
@@ -87963,8 +87963,8 @@ qhgu 乐此不疲
 qhgu 独占鳌头
 qhhc 外皮
 qhhc 钁
-qhhc 
-qhhc 
+qhhc 䦆
+qhhc 䦆
 qhhc 䦆
 qhhf 䀤
 qhhi 外频
@@ -89510,8 +89510,8 @@ qntt 鉍
 qntt 铋
 qntx 邬敏
 qnty 饿
-qnty 
-qnty 
+qnty 䥽
+qnty 䥽
 qnty 𢼌
 qnty 𠓨
 qnty 䥽
@@ -92226,8 +92226,8 @@ qtmy 𤜽
 qtmy 𨪗
 qtn 儿
 qtn 勹
-qtn 
-qtn 
+qtn ⺈
+qtn ⺈
 qtn ⺈
 qtn ⼉
 qtn ⼓
@@ -92805,8 +92805,8 @@ qudb 锩
 qudh 𨦡
 qudj 𨧘
 qudk 鐥
-qudk 
-qudk 
+qudk 䦅
+qudk 䦅
 qudk 䦅
 qudm 镜面
 qudn 錓
@@ -93728,10 +93728,10 @@ qynm 凫
 qynm 𡷊
 qynn 久已
 qynn 釯
-qynn 
-qynn 
-qynn 
-qynn 
+qynn 䥇
+qynn 䦂
+qynn 䥇
+qynn 䦂
 qynn 䥇
 qynn 䦂
 qyno 镳
@@ -94476,8 +94476,8 @@ rccm 反观
 rccn 撡
 rccq 反驳
 rccs 搡
-rccy 
-rccy 
+rccy 㧐
+rccy 㧐
 rccy 㧐
 rcd 掺
 rcdb 反顾
@@ -96163,8 +96163,8 @@ rhad 㩵
 rhae 據
 rhaf 𢰵
 rhag 摣
-rhag 
-rhag 
+rhag 䴘
+rhag 䴘
 rhag 𢳛
 rhag 𢴮
 rhag 𢸉
@@ -96577,7 +96577,7 @@ rhyy 𤔙
 ri 朱
 riag 𢬥
 riam 𣙸
-rian 
+rian 㧟
 rian 𢵺
 rian 㧟
 riat 㦵
@@ -96685,7 +96685,7 @@ rimq 挡风
 rimv 鼄
 rimy 𢱡
 ring 执法必严
-ring 
+ring 㧟
 ring 𦐨
 rinh 抄收
 rinn 搅局
@@ -97569,8 +97569,8 @@ rmqi 罀
 rmqj 抽象
 rmql 𦉉
 rmqw 缼
-rmqy 
-rmqy 
+rmqy 㧏
+rmqy 㧏
 rmqy 𦉜
 rmqy 㧏
 rmrc 𢴔
@@ -99861,8 +99861,8 @@ rtgo 搬来
 rtgo 𢷠
 rtgq 㩶
 rtgr 年复一年
-rtgt 
-rtgt 
+rtgt 龵
+rtgt 龵
 rtgt 龵
 rtgw 𢹀
 rtgx 抗生素
@@ -100059,8 +100059,8 @@ rtsu 排行榜
 rtsw 手枪
 rtsy 手术
 rtt 斤
-rtt 
-rtt 
+rtt ⺁
+rtt ⺁
 rtt ⺁
 rtt 𠂆
 rtta 拖长
@@ -101201,8 +101201,8 @@ rwy 扒
 rwyc 擒
 rwyc 拎
 rwyc 皊
-rwyc 
-rwyc 
+rwyc 㩳
+rwyc 㩳
 rwyc 㨦
 rwyc 㩳
 rwyd 推诚
@@ -104904,8 +104904,8 @@ smqq 𣙡
 smqt 机锋
 smqt 李凯尔特
 smqy 枫
-smqy 
-smqy 
+smqy 㭎
+smqy 㭎
 smqy 㭎
 smrm 机制
 smsa 机械
@@ -108064,8 +108064,8 @@ tccy 𥟒
 tcdb 千难万险
 tcdc 千难万难
 tcde 私有
-tcde 
-tcde 
+tcde 䅟
+tcde 䅟
 tcde 𥮾
 tcde 䅟
 tcdf 私奔
@@ -109608,8 +109608,8 @@ tfcy 秐
 tfcy 秓
 tfcy 𥞋
 tfd 壬
-tfd 
-tfd 
+tfd ⺧
+tfd ⺧
 tfd ⺧
 tfd 𠂒
 tfd 𡈼
@@ -115880,8 +115880,8 @@ ttfy 身先士卒
 ttfy 𢓷
 ttfy 𢕜
 ttg 竹
-ttg 
-ttg 
+ttg 𠂉
+ttg 𠂉
 ttg 𠂉
 ttga 笔形
 ttgf 长生不老
@@ -115918,8 +115918,8 @@ ttgx 生长素
 ttgx 㘒
 ttgy 物我两忘
 ttgy 攵
-ttgy 
-ttgy 
+ttgy ⺮
+ttgy ⺮
 ttgy ⺙
 ttgy ⺮
 ttgy ⽲
@@ -118835,7 +118835,7 @@ udex 羊脂
 udey 头脑
 udey 𦎇
 udey 𦎜
-udf 
+udf ⺷
 udf 𠲩
 udfa 善哉
 udfb 着地
@@ -118961,8 +118961,8 @@ udht 𤹉
 udhv 着眼
 udhv 𨴒
 udi 头
-udi 
-udi 
+udi 龹
+udi 龹
 udi 𤴻
 udi 𨳓
 udi 龹
@@ -119217,8 +119217,8 @@ udqy 羝
 udqy 𦍖
 udqy 𦏇
 udr 拳
-udr 
-udr 
+udr ⺶
+udr ⺶
 udr ⺶
 udr 𦍍
 udrb 送报
@@ -120255,7 +120255,7 @@ ugey 痡
 ugey 𠗒
 ugey 𥪀
 ugey 𨴪
-ugf 
+ugf ⺷
 ugf ⺷
 ugf 𦍌
 ugfa 𠗦
@@ -122815,7 +122815,7 @@ uqqa 交错
 uqqc 姿色
 uqqe 交角
 uqqg 交钱
-uqqg 
+uqqg 䴔
 uqqg 䴔
 uqqh 郊外
 uqqi 痑
@@ -122868,7 +122868,7 @@ uqte 𤺸
 uqtf 交待
 uqtg 奖惩
 uqtg 净重
-uqtg 
+uqtg 䴔
 uqtg 㾠
 uqth 盗版
 uqth 奖牌
@@ -122910,10 +122910,10 @@ uqvd 𤵰
 uqvf 交媾
 uqvh 净
 uqvh 竫
-uqvh 
-uqvh 
-uqvh 
-uqvh 
+uqvh 䦛
+uqvh 䦶
+uqvh 䦛
+uqvh 䦶
 uqvh 䦛
 uqvh 䦶
 uqvv 次女
@@ -124553,10 +124553,10 @@ uwwb 𤷽
 uwwe 𧘳
 uwwf 总价值
 uwwf 痤
-uwwf 
-uwwf 
-uwwf 
-uwwf 
+uwwf 䦟
+uwwf 䦷
+uwwf 䦟
+uwwf 䦷
 uwwf 䦟
 uwwf 䦷
 uwwg 痊愈
@@ -126651,9 +126651,9 @@ vhfm 𧶁
 vhfp 𨕛
 vhfu 𡬯
 vhfy 𡬲
-vhgd 
 vhgd ⺻
-vhgf 
+vhgd ⺻
+vhgf ⺻
 vhgf 𡎀
 vhgl 盡
 vhgl 䀆
@@ -133389,8 +133389,8 @@ wqbk 𠑕
 wqbk 𠚁
 wqbm 𠏈
 wqbn 你也
-wqbt 
-wqbt 
+wqbt 㑳
+wqbt 㑳
 wqbt 㑳
 wqbv 低限
 wqbw 低阶
@@ -133674,8 +133674,8 @@ wqvb 𠛈
 wqvc 爹妈
 wqvc 𤕗
 wqvd 依然如故
-wqvg 
-wqvg 
+wqvg 㑇
+wqvg 㑇
 wqvg 㑇
 wqvn 𠋎
 wqvr 𤕛
@@ -139314,8 +139314,8 @@ xmfg 𥿛
 xmfk 绸
 xmfk 綢
 xmg 紬
-xmg 
-xmg 
+xmg 䌷
+xmg 䌷
 xmg 䌷
 xmgk 绸带
 xmgk 絧
@@ -141583,8 +141583,8 @@ xyxx 彎
 xyxy 统统
 xyxy 弦
 xyxy 絃
-xyxy 
-xyxy 
+xyxy 龻
+xyxy 龻
 xyxy 𠨫
 xyxy 𤫜
 xyxy 𦇥
@@ -141771,8 +141771,8 @@ yakk 调节器
 yakk 謳
 yakl 㢙
 yako 讌
-yako 
-yako 
+yako 䜩
+yako 䜩
 yako 䜩
 yakr 试听
 yaky 讙
@@ -141918,7 +141918,7 @@ yaui 𧮧
 yauj 席间
 yauk 试问
 yauo 讌
-yauo 
+yauo 䜩
 yauo 𧮃
 yauo 䜩
 yauq 席次
@@ -146830,8 +146830,8 @@ yrgn 𧧊
 yrgo 诛灭
 yrgr 放手一搏
 yrh 訢
-yrh 
-yrh 
+yrh 䜣
+yrh 䜣
 yrh 𧦌
 yrh 䜣
 yrhg 㫌
@@ -148918,7 +148918,7 @@ yxxw 㱍
 yxxw 𧩿
 yxxx 彎
 yxxy 譏
-yxxy 
+yxxy 龻
 yxxy 㽋
 yxxy 䜌
 yxya 高强度

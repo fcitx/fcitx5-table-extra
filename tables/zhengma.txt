@@ -68,18 +68,18 @@ aabl ﹋
 aabl ﹌
 aabr 无一幸免
 aabt 一干二净
-aaby 
-aaby 
-aaby 
-aaby 
-aaby 
-aaby 
-aaby 
-aaby 
-aaby 
-aaby 
-aaby 
-aaby 
+aaby ⿰
+aaby ⿱
+aaby ⿲
+aaby ⿳
+aaby ⿴
+aaby ⿵
+aaby ⿶
+aaby ⿷
+aaby ⿸
+aaby ⿹
+aaby ⿺
+aaby ⿻
 aacc 平平静静
 aacf 百无聊赖
 aacm 无可奉告
@@ -554,10 +554,10 @@ aapy ū
 aapy ú
 aapy ǔ
 aapy ù
-aapy 
+aapy ḿ
 aapy ń
 aapy ň
-aapy 
+aapy ǹ
 aapy ˙
 aapy ˊ
 aapy ˇ
@@ -3682,7 +3682,7 @@ alrl 两角
 alrt 可见度
 alrv 再多
 alrz 鳾
-alrz 
+alrz 䴓
 alsb 再讲
 alsf 天赐良机
 alsi 再让
@@ -4399,7 +4399,7 @@ arad 死于
 arae 裂开
 arae 死刑
 aral 殨
-aral 
+aral 㱮
 arar 殊死
 arar 死死
 arar 殡殓
@@ -4533,7 +4533,7 @@ arko 殥
 arkp 銐
 arkr 鴷
 arkr 鮤
-arkr 
+arkr 䴕
 arks 恶名昭彰
 arks 无名小卒
 arku 烈
@@ -12489,7 +12489,7 @@ chzz 长幼
 chzz 镼
 ci 丰
 cia 豐
-ciaa 
+ciaa 龶
 ciat 球虫病
 ciaz 三点一线
 cibh 丰城
@@ -12585,7 +12585,7 @@ ciqm 靝
 ciqn 丰腴
 ciqr 丰胸
 ciqr 鶄
-ciqr 
+ciqr 䴖
 ciqw 靛
 ciqy 郬
 cir 璨
@@ -12732,7 +12732,7 @@ ckbt 理塘
 ckbv 泰晤士河
 ckbz 理亏
 ckbz 耘
-ckbz 
+ckbz 䎬
 ckc 琲
 ckcl 碧水青山
 ckcl 耫
@@ -12842,7 +12842,7 @@ ckrg 泰然
 ckrl 理解
 ckro 瑒
 ckrr 琨
-ckrr 
+ckrr 䎱
 cksb 泰语
 cksc 聘请
 cksj 职业高中
@@ -13229,7 +13229,7 @@ cnzy 毒鼠强
 co 春
 coa 瑜
 coaa 三合一
-coaa 
+coaa 𡗗
 coac 寿命长
 coae 三八节
 coaf 三合板
@@ -16775,7 +16775,7 @@ dlcx 攫取
 dld 拥
 dld 挏
 dld 掆
-dld 
+dld 㧏
 dldb 扬幡招魂
 dldf 撼山拔树
 dldl 摆摆
@@ -17250,7 +17250,7 @@ dnnj 推向
 dnnl 挪作他用
 dnnp 提供优质服务
 dnnx 拍片
-dnnx 
+dnnx 㩳
 dnny 挂牌子
 dnoa 推拿
 dnob 攑
@@ -19097,7 +19097,7 @@ dvga 执法不严
 dvgd 换汤不换药
 dvgr 的确
 dvgv 热深厥深
-dvh 
+dvh 㧟
 dvhf 挥汗成雨
 dvhm 求医
 dvhv 搅成
@@ -19750,7 +19750,7 @@ dxxf 搡
 dxxf 折叠椅
 dxxi 抒
 dxxm 扫尾
-dxxs 
+dxxs 㧐
 dxxv 据预测
 dxxw 扫帚
 dxxx 掇
@@ -20293,7 +20293,7 @@ eaaa 艹
 eaaa 卄
 eaaa 廾
 eaaa 卌
-eaaa 
+eaaa 龷
 eaae 颟顸
 eaah 真正形成
 eaai 苛政
@@ -20930,7 +20930,7 @@ edka 十日
 edkb 兣
 edkb 十里
 edkd 十指紧扣
-edke 
+edke 龺
 edkf 菩提树
 edki 支撑点
 edki 菗
@@ -21775,7 +21775,7 @@ egzv 蔫不出溜
 egzx 惹怒
 egzz 惹出
 eh 栽
-ehaa 
+ehaa 𢦏
 ehai 栽下
 ehaj 葴
 ehaz 葳
@@ -25504,7 +25504,7 @@ ewyk 荥阳
 ewym 劳力
 ewym 劳改
 ewym 劳
-ewym 
+ewym 䓖
 ewyn 黄袍加身
 ewyo 带队
 ewyo 营办
@@ -28513,7 +28513,7 @@ fld 桐
 fld 朿
 fld 棡
 fld 棢
-fld 
+fld 㭎
 fldb 相持
 fldd 相同的
 fldg 相扰
@@ -32012,7 +32012,7 @@ gczp 碳素钢
 gczy 碡
 gd 大
 gdaa 丆
-gdaa 
+gdaa 𠂇
 gdad 大于
 gdae 大型
 gdae 大干
@@ -34260,7 +34260,7 @@ glzz 而出
 gm 龙
 gma 尨
 gmad 大笔一挥
-gmag 
+gmag 䶮
 gmaj 有利可图
 gmas 不知天高地厚
 gmau 在特殊情况下
@@ -39602,8 +39602,8 @@ ihpe 虎钳
 ihpg 虎须
 ihpr 虎豹
 ihqs 虎狼
-ihrm 
-ihrm 
+ihrm 䲣
+ihrm 䱷
 ihro 虝
 ihrq 處
 ihsi 齾
@@ -42499,7 +42499,7 @@ jhzs 啭
 jhzz 喊出
 ji 足
 jia 贵
-jiaa 
+jiaa ⻊
 jiad 忠于
 jiad 趶
 jiae 趼
@@ -43136,7 +43136,7 @@ jjlh 呐喊助威
 jjli 回帖
 jjlk 器皿
 jjlo 器具
-jjlo 
+jjlo 㖞
 jjlq 蹉跎岁月
 jjlq 嘎嘣脆
 jjlr 回见
@@ -43201,7 +43201,7 @@ jjoj 喇叭口
 jjok 哭得
 jjok 骂得
 jjok 跨国企业
-jjom 斜
+jjom 㖞斜
 jjop 哈哈镜
 jjos 跃跃欲试
 jjoy 跨国公司
@@ -43667,7 +43667,7 @@ jljl 嘿嘿
 jljl 蹦蹦
 jljl 嘤嘤
 jljm 啁啾
-jljo 口眼斜
+jljo 口眼㖞斜
 jljp 咀嚼
 jljr 噮
 jljs 吊唁
@@ -44967,7 +44967,7 @@ jszz 呟
 jt 中间
 jtby 踮起
 jtce 中间环节
-jtcm 
+jtcm 㘎
 jte 踱
 jteb 只闻其声
 jted 呌
@@ -45654,7 +45654,7 @@ jxbt 中层次
 jxbx 啸声
 jxby 叶圣陶
 jxcm 噉
-jxcm 
+jxcm 㘚
 jxcu 跟班
 jxcx 啸聚
 jxdm 嘱托
@@ -48860,7 +48860,7 @@ knza 小泉纯一郎
 knzf 晶体结构
 knzk 雀巢
 ko 小
-koaa 
+koaa ⺌
 koad 小于
 koad 界于
 koae 小型
@@ -49174,7 +49174,7 @@ kowr 小额
 kows 小房
 kowu 小道
 koww 小蜜
-koww 
+koww 龸
 kowy 小官
 kowy 小字
 kowz 小心
@@ -52576,7 +52576,7 @@ lgsl 目不交睫
 lgso 县太爷
 lgsq 瞭望
 lgsr 鶪
-lgsr 
+lgsr 䴗
 lgss 网页设计
 lgsw 骨碎补
 lgsy 郹
@@ -54064,8 +54064,8 @@ loch 賬
 locm 内耗
 locn 四个现代化
 loco 賰
-locq 
-locq 
+locq 䞍
+locq 䝼
 locu 内联
 locu 网联
 locx 内聚
@@ -54979,7 +54979,7 @@ luyy 睠
 luyz 睇
 luz 髅
 luze 山慈菇
-luzm 
+luzm 䁖
 luzo 赠给
 luzw 眯缝
 lv 同学
@@ -55668,8 +55668,8 @@ m 我
 ma 矢
 maa 短
 maaa 丿
-maaa 
-maaa 
+maaa 𠂉
+maaa ⺮
 maae 生死与共
 maae 幷
 maae 筓
@@ -55979,7 +55979,7 @@ mazy 缷
 mazy 勄
 mb 牛
 mbaa 牜
-mbaa 
+mbaa ⺧
 mbad 等于
 mbae 特刊
 mbae 丢开
@@ -56586,7 +56586,7 @@ mczy 生母
 mczz 生出
 mczz 生丝
 md 手
-mdaa 
+mdaa 龵
 mdac 拜
 mdai 手下
 mdaz 科技开发
@@ -57172,7 +57172,7 @@ mfgl 稀
 mfgl 嵆
 mfgm 气机不利
 mfgm 种植面积
-mfgp 
+mfgp 䅟
 mfgq 气概不凡
 mfgs 諬
 mfgt 积极态度
@@ -66155,7 +66155,7 @@ nrrr 仳
 nrrs 侈
 nrrs 儳
 nrry 货色
-nrrz 
+nrrz 㑳
 nrs 低
 nrs 仢
 nrsb 低语
@@ -66266,7 +66266,7 @@ nrwx 华通
 nrwz 倾心
 nrwz 华安
 nrxb 低层
-nrxb 
+nrxb 㑇
 nrxc 你敢
 nrxh 任务艰巨
 nrxi 儗
@@ -72813,7 +72813,7 @@ pcz 銸
 pd 斤
 pda 丘
 pdaa 彡
-pdaa 
+pdaa ⺁
 pdaj 后
 pdal 斤两
 pdal 岳
@@ -72847,7 +72847,7 @@ pdii 辵
 pdir 歋
 pdir 頾
 pdir 鷉
-pdir 
+pdir 䴘
 pdiw 丘壑
 pdiw 遞
 pdjb 垕
@@ -72907,7 +72907,7 @@ pebe 错填
 pebi 钳工
 pebk 镇赉
 pebm 鐯
-pebm 
+pebm 䦃
 pebn 后勤工作
 pebv 质地
 pebv 锚地
@@ -73433,7 +73433,7 @@ phgp 铸成大错
 phgr 铙
 phhm 錢
 phhq 受到威胁
-phi 
+phi 䥺
 phia 釾
 phj 钷
 phja 鉕
@@ -73983,7 +73983,7 @@ plnr 铜像
 plns 爵位
 plnx 盘片
 plnx 钁
-plnx 
+plnx 䦆
 plo 钡
 ploa 鋇
 plod 钠
@@ -75159,7 +75159,7 @@ pusz 镂刻
 puth 锐减
 puu 锬
 puuj 鐥
-puuj 
+puuj 䦅
 puun 爱恨情仇
 puuo 镁粉
 puuo 锬
@@ -75602,8 +75602,8 @@ pwyr 受降
 pwyv 受了
 pwyx 受限
 pwyy 爱己
-pwyy 
-pwyy 
+pwyy 䦂
+pwyy 䥇
 pwz 悉
 pwz 鈊
 pwzh 爱姬
@@ -76174,7 +76174,7 @@ pzvv 钆
 pzvv 釓
 pzvv 銯
 pzws 反编译
-pzxs 
+pzxs 䥽
 pzy 鉧
 pzyb 爱好者
 pzyj 妥加
@@ -76399,7 +76399,7 @@ qbzl 风趣幽默
 qbzm 狙击手
 qbzq 肺动脉
 qbzs 胠
-qbzs 
+qbzs 䏝
 qbzy 脚
 qc 胀
 qca 腠
@@ -78594,7 +78594,7 @@ ququ 胖胖
 ququ 腾腾
 quqz 脱胎
 qur 鰧
-qur 
+qur 䲢
 qura 鰧
 qurj 脱兔
 qurm 膦
@@ -79188,7 +79188,7 @@ qzzm 脑出血
 r 多
 ra 鱼
 raa 魚
-raaa 
+raaa ⺈
 raae 鱼干
 raai 名下无虚
 raaq 处于下风
@@ -79434,7 +79434,7 @@ rcmz 处理系统
 rcna 外表俊丽
 rcne 留职停薪
 rco 鰆
-rco 
+rco 䲠
 rcoa 鰆
 rcok 条理分明
 rcoo 争取公众理解
@@ -81194,7 +81194,7 @@ rrah 比武
 rraj 皆可
 rrak 比画
 rray 鮣
-rray 
+rray 䲟
 rrbg 颕
 rrbg 頴
 rrbk 比来
@@ -81752,7 +81752,7 @@ ruf 鳟
 rufd 鳟
 rufd 鱒
 rufd 鰌
-rufd 
+rufd 䲡
 rufs 多米诺
 ruga 各类型
 rugq 鲜有
@@ -83603,7 +83603,7 @@ serm 辛卯
 sero 设菲尔德
 serp 敲警钟
 seru 讌
-seru 
+seru 䜩
 sery 交警队
 ses 谎
 sesa 谎言
@@ -86927,7 +86927,7 @@ sooo 论丛
 sooo 譣
 soor 论衡
 soor 鵁
-soor 
+soor 䴔
 soos 交往
 soos 交
 soos 訤
@@ -87187,7 +87187,7 @@ spaj 诟
 spaj 詬
 spak 产销两旺
 spam 方针政策
-spd 
+spd 䜣
 spda 訢
 spdb 敲锣打鼓
 spdo 刻舟求剑
@@ -91189,7 +91189,7 @@ tlnn 门牌
 tlnn 瘦骨伶仃
 tlnr 阋
 tlob 门徒
-tlob 
+tlob 䦷
 tlod 门人
 tlod 广罗人才
 tlod 闪
@@ -91211,7 +91211,7 @@ tlri 门外
 tlrj 阁
 tlrk 阍
 tlrn 阎
-tlrx 
+tlrx 䦶
 tls 訚
 tlsh 凋亡
 tlsl 门市
@@ -92920,7 +92920,7 @@ tzzz 凉丝丝
 u 为
 ua 关于
 uaaa 忄
-uaaa 
+uaaa ⺗
 uaai 灯下
 uabb 惊天动地
 uabd 兰
@@ -93081,7 +93081,7 @@ uazz 灯丝
 uazz 兹
 ub 半
 uba 烤
-ubaa 
+ubaa 龹
 ubae 半开
 ubae 烤干
 ubag 半天
@@ -93311,8 +93311,8 @@ ubzz 烤出
 ubzz 悟出
 ubzz 慢工出细活
 uc 羊
-ucaa 
-ucaa 
+ucaa ⺶
+ucaa ⺷
 ucad 精于
 ucae 情形
 ucae 精干
@@ -96304,7 +96304,7 @@ uouu 焱
 uouu 燚
 uouw 火炉
 uouw 燵
-uouw 
+uouw 𤇾
 uoux 愉快
 uoux 烯烃
 uoux 燮
@@ -96779,7 +96779,7 @@ urrb 悂
 urrg 焕然
 urrs 恀
 urru 炮炙
-urrz 
+urrz 㥮
 urs 灼
 urs 怟
 ursm 燃放
@@ -96810,7 +96810,7 @@ urwa 情急之下
 urwb 怦然心动
 urwd 恪守
 urwz 焰心
-urxb 
+urxb 㤘
 urxi 懝
 ury 怉
 uryb 养儿防老
@@ -102937,7 +102937,7 @@ vwfs 沉醉
 vwgb 溜之大吉
 vwgd 深大
 vwgd 涙
-vwgd 
+vwgd 㳠
 vwgk 深厚
 vwgk 浓厚
 vwgk 浑厚
@@ -109375,8 +109375,8 @@ wtaj 袷
 wtaj 袔
 wtaj 裿
 wtak 家庭副业
-wtal 
-wtal 
+wtal 䙌
+wtal 䙡
 wtan 袹
 wtan 襣
 wtan 襫
@@ -110524,7 +110524,7 @@ wwqz 军容风纪
 wwrd 冠
 wwrd 安逸的
 wwrd 冘
-wwrd 
+wwrd ⺳
 wwrf 迎客松
 wwrh 农
 wwrk 密旨
@@ -111993,7 +111993,7 @@ xazz 皮下组织
 xb 层
 xba 彐
 xba 肀
-xba 
+xba ⺻
 xbaa 圣地亚哥
 xbaj 劲歌
 xbak 劃
@@ -112341,7 +112341,7 @@ xdnh 閥
 xdni 閵
 xdnk 闎
 xdns 敢把皇帝拉下马
-xdob 
+xdob 䦟
 xdod 寻人
 xdod 閃
 xdod 閄
@@ -112364,7 +112364,7 @@ xdrk 寻甸
 xdrk 閽
 xdrn 閻
 xdrw 闧
-xdrx 
+xdrx 䦛
 xdrz 寻乌
 xdrz 马拉多纳
 xds 寻
@@ -112848,7 +112848,7 @@ xihp 皮匠
 xihu 燛
 xii 蛋
 xii 疋
-xiia 
+xiia ⺪
 xiih 臦
 xijj 蛋品
 xika 疍
@@ -113507,7 +113507,7 @@ xmsr 襞
 xmsr 褽
 xmsr 鸊
 xmsr 鷿
-xmsr 
+xmsr 䴙
 xmss 譬
 xmst 尽
 xmsu 糪
@@ -114029,7 +114029,7 @@ xrzz 马尔维纳斯
 xrzz 马尔维纳斯群岛
 xs 又
 xsa 癶
-xsaa 
+xsaa 龴
 xsae 叉开
 xsae 癷
 xsag 癸
@@ -115353,7 +115353,7 @@ xzzm 舝
 y 了
 ya 子
 yaa 孑
-yaaa 
+yaaa ㇆
 yaaa 廴
 yaaa 阝
 yaaa 卩
@@ -115853,7 +115853,7 @@ ycyw 阳奉阴违
 ycyy 张弛
 yd 刀
 yda 乙
-ydaa 
+ydaa ⺄
 ydaa 乀
 ydaa 乁
 ydab 丮
@@ -119055,7 +119055,7 @@ yyaw 孩子家
 yyay 改弦更张
 yyaz 已与
 yyb 巳
-yyba 
+yyba ⺋
 yybb 羽坛
 yybc 羽翼未丰
 yybd 导
@@ -120900,7 +120900,7 @@ zkhr 细软
 zki 细
 zki 細
 zkia 紬
-zkia 
+zkia 䌷
 zkic 绅
 zkic 紳
 zkij 细点
@@ -122952,7 +122952,7 @@ zrzz 绝缘
 zrzz 娩出
 zs 统
 zsa 厶
-zsaa 
+zsaa 龻
 zsae 绞刑
 zsaf 发言权
 zsal 姣丽
