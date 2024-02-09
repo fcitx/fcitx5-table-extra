@@ -24072,6 +24072,7 @@ fsss 𡑓
 fsst 𩅤
 fsst 𩆥
 fssu 霖
+fssw 𦓹
 fssy 塛
 fssy 𡍚
 fst 䎢
@@ -28267,7 +28268,6 @@ gqgn 㱙
 gqgn 𱋄
 gqgn 𣨇
 gqgn 𣩤
-gqgo 𪎌
 gqgo 𣩙
 gqgo 𭮟
 gqgq 㱛
@@ -28938,11 +28938,11 @@ gtgj 𤘔
 gtgk 𤥢
 gtgn 𮮄
 gtgo 璑
-gtgo 𪎌
 gtgo 𤏠
 gtgo 𤪠
 gtgp 𭹱
 gtgs 珩
+gtgs 𪎌
 gtgy 𤤥
 gtgy 𬍞
 gtgy 𬍿
