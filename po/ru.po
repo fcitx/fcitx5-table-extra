@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2024-01-05 20:25+0000\n"
+"POT-Creation-Date: 2024-02-23 20:24+0000\n"
 "PO-Revision-Date: 2020-09-13 02:40+0000\n"
 "Last-Translator: Dmitry <dmitrydmitry761@gmail.com>, 2024\n"
 "Language-Team: Russian (https://app.transifex.com/fcitx/teams/12005/ru/)\n"
@@ -103,20 +103,20 @@ msgid "Wubi (Large)"
 msgstr "Уби (Большая коллекция символов)"
 
 #: tables/wubi98.conf.in:3
-msgid "Wubi 98"
-msgstr "Уби 98"
+msgid "Wubi98"
+msgstr ""
 
 #: tables/wubi98-pinyin.conf.in:3
-msgid "Wubi 98 Pinyin"
-msgstr "Уби 98 Пиньинь"
+msgid "Wubi98 Pinyin"
+msgstr ""
 
 #: tables/wubi98-single.conf.in:3
-msgid "Wubi 98 Single"
-msgstr "Уби 98 слов"
+msgid "Wubi98 Single"
+msgstr ""
 
 #: tables/wubi98-large.conf.in:3
-msgid "Wubi 98 large"
-msgstr "Уби 98 Большая коллекция символов"
+msgid "Wubi98 large"
+msgstr ""
 
 #: tables/zhengma.conf.in:3 tables/zhengma.conf.in:11
 msgid "Zhengma"

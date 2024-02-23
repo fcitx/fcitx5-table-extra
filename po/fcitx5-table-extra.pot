@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2024-01-03 20:25+0000\n"
+"POT-Creation-Date: 2024-02-23 20:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -96,19 +96,19 @@ msgid "Wubi (Large)"
 msgstr ""
 
 #: tables/wubi98.conf.in:3
-msgid "Wubi 98"
+msgid "Wubi98"
 msgstr ""
 
 #: tables/wubi98-pinyin.conf.in:3
-msgid "Wubi 98 Pinyin"
+msgid "Wubi98 Pinyin"
 msgstr ""
 
 #: tables/wubi98-single.conf.in:3
-msgid "Wubi 98 Single"
+msgid "Wubi98 Single"
 msgstr ""
 
 #: tables/wubi98-large.conf.in:3
-msgid "Wubi 98 large"
+msgid "Wubi98 large"
 msgstr ""
 
 #: tables/zhengma.conf.in:3 tables/zhengma.conf.in:11

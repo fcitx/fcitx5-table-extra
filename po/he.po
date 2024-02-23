@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2024-01-03 20:25+0000\n"
+"POT-Creation-Date: 2024-02-23 20:24+0000\n"
 "PO-Revision-Date: 2020-09-13 02:40+0000\n"
 "Last-Translator: 63f334ffc0709ba0fc2361b80bf3c0f0_00ffd1e "
 "<ab96c93ca0ac55ba7fa06385427e60dd_878890>, 2021\n"
@@ -18,7 +18,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n == 2 && n % "
+"Plural-Forms: nplurals=3; plural=(n == 1 && n % 1 == 0) ? 0 : (n == 2 && n % "
 "1 == 0) ? 1: (n % 10 == 0 && n % 1 == 0 && n > 10) ? 2 : 3;\n"
 
 #: org.fcitx.Fcitx5.Addon.TableExtra.metainfo.xml.in:8
@@ -102,19 +102,19 @@ msgid "Wubi (Large)"
 msgstr ""
 
 #: tables/wubi98.conf.in:3
-msgid "Wubi 98"
+msgid "Wubi98"
 msgstr ""
 
 #: tables/wubi98-pinyin.conf.in:3
-msgid "Wubi 98 Pinyin"
+msgid "Wubi98 Pinyin"
 msgstr ""
 
 #: tables/wubi98-single.conf.in:3
-msgid "Wubi 98 Single"
+msgid "Wubi98 Single"
 msgstr ""
 
 #: tables/wubi98-large.conf.in:3
-msgid "Wubi 98 large"
+msgid "Wubi98 large"
 msgstr ""
 
 #: tables/zhengma.conf.in:3 tables/zhengma.conf.in:11

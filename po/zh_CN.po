@@ -3,16 +3,15 @@
 # This file is distributed under the same license as the fcitx5-table-extra package.
 #
 # Translators:
-# csslayer <wengxt@gmail.com>, 2021
-# Lau YeeYu, 2024
+# csslayer <wengxt@gmail.com>, 2020
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2024-01-04 20:25+0000\n"
+"POT-Creation-Date: 2024-02-23 20:24+0000\n"
 "PO-Revision-Date: 2020-09-13 02:40+0000\n"
-"Last-Translator: Lau YeeYu, 2024\n"
+"Last-Translator: csslayer <wengxt@gmail.com>, 2020\n"
 "Language-Team: Chinese (China) (https://app.transifex.com/fcitx/teams/12005/"
 "zh_CN/)\n"
 "Language: zh_CN\n"
@@ -102,20 +101,20 @@ msgid "Wubi (Large)"
 msgstr "五笔大字集"
 
 #: tables/wubi98.conf.in:3
-msgid "Wubi 98"
-msgstr "五笔98"
+msgid "Wubi98"
+msgstr ""
 
 #: tables/wubi98-pinyin.conf.in:3
-msgid "Wubi 98 Pinyin"
-msgstr "五笔98拼音"
+msgid "Wubi98 Pinyin"
+msgstr ""
 
 #: tables/wubi98-single.conf.in:3
-msgid "Wubi 98 Single"
-msgstr "五笔98单字"
+msgid "Wubi98 Single"
+msgstr ""
 
 #: tables/wubi98-large.conf.in:3
-msgid "Wubi 98 large"
-msgstr "五笔98大字集"
+msgid "Wubi98 large"
+msgstr ""
 
 #: tables/zhengma.conf.in:3 tables/zhengma.conf.in:11
 msgid "Zhengma"

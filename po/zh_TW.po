@@ -4,16 +4,14 @@
 #
 # Translators:
 # csslayer <wengxt@gmail.com>, 2021
-# Steve Nian, 2022
-# Lau YeeYu, 2024
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2024-01-04 20:25+0000\n"
+"POT-Creation-Date: 2024-02-23 20:24+0000\n"
 "PO-Revision-Date: 2020-09-13 02:40+0000\n"
-"Last-Translator: Lau YeeYu, 2024\n"
+"Last-Translator: csslayer <wengxt@gmail.com>, 2021\n"
 "Language-Team: Chinese (Taiwan) (https://app.transifex.com/fcitx/teams/12005/"
 "zh_TW/)\n"
 "Language: zh_TW\n"
@@ -103,20 +101,20 @@ msgid "Wubi (Large)"
 msgstr "五筆大字集"
 
 #: tables/wubi98.conf.in:3
-msgid "Wubi 98"
-msgstr "五筆98"
+msgid "Wubi98"
+msgstr ""
 
 #: tables/wubi98-pinyin.conf.in:3
-msgid "Wubi 98 Pinyin"
-msgstr "五筆98拼音"
+msgid "Wubi98 Pinyin"
+msgstr ""
 
 #: tables/wubi98-single.conf.in:3
-msgid "Wubi 98 Single"
-msgstr "五筆98單字"
+msgid "Wubi98 Single"
+msgstr ""
 
 #: tables/wubi98-large.conf.in:3
-msgid "Wubi 98 large"
-msgstr "五筆98大字集"
+msgid "Wubi98 large"
+msgstr ""
 
 #: tables/zhengma.conf.in:3 tables/zhengma.conf.in:11
 msgid "Zhengma"
