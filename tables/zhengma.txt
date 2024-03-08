@@ -8,7 +8,7 @@ ConstructPhrase=^
 [Rule]
 e2=p11+p12+p21+p22
 e3=p11+p21+p22+p31
-a4=p11+p21+p31+n11
+a4=p11+p21+p31+p41
 [Data]
 a 一
 aa 一下
