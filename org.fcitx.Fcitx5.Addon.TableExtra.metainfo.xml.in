@@ -6,8 +6,12 @@
   <project_license>GPL-2.0+</project_license>
   <name>Table Extra</name>
   <summary>Additional Table based Chinese input method</summary>
+  <developer id="org.fcitx-im">
+      <name>The Fcitx Team</name>
+  </developer>
   <url type="bugtracker">https://github.com/fcitx/fcitx5-table-extra/issues</url>
   <url type="homepage">https://fcitx-im.org</url>
+  <url type="vcs-browser">https://github.com/fcitx/fcitx5-table-extra</url>
   <project_group>Fcitx</project_group>
   <releases>
     <release version="5.1.4" date="2024-02-28"/>
