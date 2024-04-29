@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Array30 Large
-Icon=fcitx-array30-large
+Icon=fcitx_array30_large
 Label=行
 LangCode=zh_TW
 Addon=table

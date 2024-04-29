@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Quick Classic
-Icon=fcitx-quick-classic
+Icon=fcitx_quick_classic
 Label=速
 LangCode=zh_HK
 Addon=table

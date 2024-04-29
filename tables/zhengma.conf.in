@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Zhengma
-Icon=fcitx-zhengma
+Icon=fcitx_zhengma
 Label=郑
 LangCode=zh_CN
 Addon=table

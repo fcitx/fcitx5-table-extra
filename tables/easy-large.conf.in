@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Easy Large
-Icon=fcitx-easy-large
+Icon=fcitx_easy_large
 Label=輕
 LangCode=zh_HK
 Addon=table

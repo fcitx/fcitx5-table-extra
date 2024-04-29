@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Wu
-Icon=fcitx-wu
+Icon=fcitx_wu
 Label=吳
 LangCode=zh_TW
 Addon=table

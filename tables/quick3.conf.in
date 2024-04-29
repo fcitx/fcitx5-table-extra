@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Quick3
-Icon=fcitx-quick3
+Icon=fcitx_quick3
 Label=速
 LangCode=zh_HK
 Addon=table

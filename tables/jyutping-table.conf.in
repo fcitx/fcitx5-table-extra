@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Jyutping Table
-Icon=fcitx-jyutping-table
+Icon=fcitx_jyutping_table
 Label=粵
 LangCode=zh_HK
 Addon=table

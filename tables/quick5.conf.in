@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Quick5
-Icon=fcitx-quick5
+Icon=fcitx_quick5
 Label=速
 LangCode=zh_TW
 Addon=table

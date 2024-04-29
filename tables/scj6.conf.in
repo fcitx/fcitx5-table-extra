@@ -1,6 +1,6 @@
 [InputMethod]
 Name=SmartCangJie6
-Icon=fcitx-scj6
+Icon=fcitx_scj6
 Label=快
 LangCode=zh_TW
 Addon=table

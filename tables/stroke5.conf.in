@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Stroke5
-Icon=fcitx-stroke5
+Icon=fcitx_stroke5
 Label=筆
 LangCode=zh_HK
 Addon=table

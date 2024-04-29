@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Cantonese Pinyin
-Icon=fcitx-cantonese
+Icon=fcitx_cantonese
 Label=廣
 LangCode=zh_HK
 Addon=table

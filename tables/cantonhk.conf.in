@@ -1,6 +1,6 @@
 [InputMethod]
 Name=CantonHK
-Icon=fcitx-cantonhk
+Icon=fcitx_cantonhk
 Label=廣
 LangCode=zh_HK
 Addon=table

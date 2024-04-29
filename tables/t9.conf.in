@@ -1,6 +1,6 @@
 [InputMethod]
 Name=T9 (Stroke)
-Icon=fcitx-t9
+Icon=fcitx_t9
 Label=T
 LangCode=zh_CN
 Addon=table

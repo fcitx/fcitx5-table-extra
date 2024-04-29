@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Boshiamy
-Icon=fcitx-boshiamy
+Icon=fcitx_boshiamy
 Label=嘸
 LangCode=zh_TW
 Addon=table
