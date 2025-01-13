@@ -9,7 +9,6 @@ Configurable=True
 [Table]
 Name=Zhengma
 UniqueName=zhengma
-Icon=fcitx-zhengma
 File=table/zhengma.main.dict
 OrderPolicy=No
 PinyinKey=[
