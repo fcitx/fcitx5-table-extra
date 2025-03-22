@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the fcitx5-table-extra package.
+#
+# Translators:
+# hoanghuy309 <hoanghuy309@gmail.com>, 2025
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fcitx5-table-extra\n"
+"Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
+"POT-Creation-Date: 2025-03-22 20:24+0000\n"
+"PO-Revision-Date: 2020-09-13 02:40+0000\n"
+"Last-Translator: hoanghuy309 <hoanghuy309@gmail.com>, 2025\n"
+"Language-Team: Vietnamese (https://app.transifex.com/fcitx/teams/12005/vi/)\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: org.fcitx.Fcitx5.Addon.TableExtra.metainfo.xml.in:8
+msgid "Additional Table based Chinese input method"
+msgstr "Kiểu gõ tiếng Trung dựa trên Bảng Bổ Sung"
+
+#: tables/array30.conf.in:2
+msgid "Array30"
+msgstr ""
+
+#: tables/array30-large.conf.in:2
+msgid "Array30 Large"
+msgstr ""
+
+#: tables/boshiamy.conf.in:2
+msgid "Boshiamy"
+msgstr ""
+
+#: tables/cangjie-large.conf.in:2
+msgid "Cangjie Large"
+msgstr ""
+
+#: tables/cangjie3.conf.in:2
+msgid "Cangjie3"
+msgstr ""
+
+#: tables/cangjie5.conf.in:2
+msgid "Cangjie5"
+msgstr ""
+
+#: tables/cantonhk.conf.in:2
+msgid "CantonHK"
+msgstr ""
+
+#: tables/cantonese.conf.in:2
+msgid "Cantonese Pinyin"
+msgstr ""
+
+#: tables/easy-large.conf.in:2
+msgid "Easy Large"
+msgstr ""
+
+#: tables/jyutping-table.conf.in:2
+msgid "Jyutping Table"
+msgstr ""
+
+#: tables/quick-classic.conf.in:2
+msgid "Quick Classic"
+msgstr ""
+
+#: tables/quick3.conf.in:2
+msgid "Quick3"
+msgstr ""
+
+#: tables/quick5.conf.in:2
+msgid "Quick5"
+msgstr ""
+
+#: tables/scj6.conf.in:2
+msgid "SmartCangJie6"
+msgstr ""
+
+#: tables/stroke5.conf.in:2
+msgid "Stroke5"
+msgstr ""
+
+#: tables/t9.conf.in:2
+msgid "T9 (Stroke)"
+msgstr ""
+
+#: org.fcitx.Fcitx5.Addon.TableExtra.metainfo.xml.in:7
+msgid "Table Extra"
+msgstr ""
+
+#: tables/wu.conf.in:2
+msgid "Wu"
+msgstr ""
+
+#: tables/wubi-large.conf.in:2
+msgid "Wubi (Large)"
+msgstr ""
+
+#: tables/wubi98.conf.in:2
+msgid "Wubi98"
+msgstr ""
+
+#: tables/wubi98-pinyin.conf.in:2
+msgid "Wubi98 Pinyin"
+msgstr ""
+
+#: tables/wubi98-single.conf.in:2
+msgid "Wubi98 Single"
+msgstr ""
+
+#: tables/wubi98-large.conf.in:2
+msgid "Wubi98 large"
+msgstr ""
+
+#: tables/zhengma.conf.in:2 tables/zhengma.conf.in:10
+msgid "Zhengma"
+msgstr ""
+
+#: tables/zhengma-large.conf.in:2
+msgid "Zhengma (Large)"
+msgstr ""
+
+#: tables/zhengma-pinyin.conf.in:2
+msgid "ZhengmaPinyin"
+msgstr ""
