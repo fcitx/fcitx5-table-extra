@@ -3,16 +3,16 @@
 # This file is distributed under the same license as the fcitx5-table-extra package.
 #
 # Translators:
-# csslayer <wengxt@gmail.com>, 2020
 # Takuro Onoue <kusanaginoturugi@gmail.com>, 2020
+# Xuetian Weng <wengxt@gmail.com>, 2025
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2024-02-23 20:24+0000\n"
+"POT-Creation-Date: 2025-09-03 20:24+0000\n"
 "PO-Revision-Date: 2020-09-13 02:40+0000\n"
-"Last-Translator: Takuro Onoue <kusanaginoturugi@gmail.com>, 2020\n"
+"Last-Translator: Xuetian Weng <wengxt@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/fcitx/teams/12005/ja/)\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -24,67 +24,67 @@ msgstr ""
 msgid "Additional Table based Chinese input method"
 msgstr "追加テーブルによる中国語入力メソッド"
 
-#: tables/array30.conf.in:3
+#: tables/array30.conf.in:2
 msgid "Array30"
 msgstr "Array30"
 
-#: tables/array30-large.conf.in:3
+#: tables/array30-large.conf.in:2
 msgid "Array30 Large"
 msgstr "Array30 Large"
 
-#: tables/boshiamy.conf.in:3
+#: tables/boshiamy.conf.in:2
 msgid "Boshiamy"
 msgstr "Boshiamy"
 
-#: tables/cangjie-large.conf.in:3
+#: tables/cangjie-large.conf.in:2
 msgid "Cangjie Large"
 msgstr "Cangjie Large"
 
-#: tables/cangjie3.conf.in:3
+#: tables/cangjie3.conf.in:2
 msgid "Cangjie3"
 msgstr "Cangjie3"
 
-#: tables/cangjie5.conf.in:3
+#: tables/cangjie5.conf.in:2
 msgid "Cangjie5"
 msgstr "Cangjie5"
 
-#: tables/cantonhk.conf.in:3
+#: tables/cantonhk.conf.in:2
 msgid "CantonHK"
 msgstr "CantonHK"
 
-#: tables/cantonese.conf.in:3
+#: tables/cantonese.conf.in:2
 msgid "Cantonese Pinyin"
 msgstr "教育学院拼音方案"
 
-#: tables/easy-large.conf.in:3
+#: tables/easy-large.conf.in:2
 msgid "Easy Large"
-msgstr "Easy Large"
+msgstr "らくらく入力法（大型辞書データ）"
 
-#: tables/jyutping-table.conf.in:3
+#: tables/jyutping-table.conf.in:2
 msgid "Jyutping Table"
 msgstr "香港語言学学会粤語拼音方案テーブル"
 
-#: tables/quick-classic.conf.in:3
+#: tables/quick-classic.conf.in:2
 msgid "Quick Classic"
 msgstr "Quick Classic"
 
-#: tables/quick3.conf.in:3
+#: tables/quick3.conf.in:2
 msgid "Quick3"
 msgstr "Quick3"
 
-#: tables/quick5.conf.in:3
+#: tables/quick5.conf.in:2
 msgid "Quick5"
 msgstr "Quick5"
 
-#: tables/scj6.conf.in:3
+#: tables/scj6.conf.in:2
 msgid "SmartCangJie6"
 msgstr "SmartCangJie6"
 
-#: tables/stroke5.conf.in:3
+#: tables/stroke5.conf.in:2
 msgid "Stroke5"
 msgstr "Stroke5"
 
-#: tables/t9.conf.in:3
+#: tables/t9.conf.in:2
 msgid "T9 (Stroke)"
 msgstr "T9 (Stroke)"
 
@@ -92,38 +92,38 @@ msgstr "T9 (Stroke)"
 msgid "Table Extra"
 msgstr "テーブルエクストラ"
 
-#: tables/wu.conf.in:3
+#: tables/wu.conf.in:2
 msgid "Wu"
 msgstr "Wu"
 
-#: tables/wubi-large.conf.in:3
+#: tables/wubi-large.conf.in:2
 msgid "Wubi (Large)"
 msgstr "Wubi (Large)"
 
-#: tables/wubi98.conf.in:3
+#: tables/wubi98.conf.in:2
 msgid "Wubi98"
 msgstr ""
 
-#: tables/wubi98-pinyin.conf.in:3
+#: tables/wubi98-pinyin.conf.in:2
 msgid "Wubi98 Pinyin"
 msgstr ""
 
-#: tables/wubi98-single.conf.in:3
+#: tables/wubi98-single.conf.in:2
 msgid "Wubi98 Single"
 msgstr ""
 
-#: tables/wubi98-large.conf.in:3
+#: tables/wubi98-large.conf.in:2
 msgid "Wubi98 large"
 msgstr ""
 
-#: tables/zhengma.conf.in:3 tables/zhengma.conf.in:11
+#: tables/zhengma.conf.in:2 tables/zhengma.conf.in:10
 msgid "Zhengma"
 msgstr "Zhengma"
 
-#: tables/zhengma-large.conf.in:3
+#: tables/zhengma-large.conf.in:2
 msgid "Zhengma (Large)"
 msgstr "Zhengma (Large)"
 
-#: tables/zhengma-pinyin.conf.in:3
+#: tables/zhengma-pinyin.conf.in:2
 msgid "ZhengmaPinyin"
 msgstr "Zhengmaピンイン"

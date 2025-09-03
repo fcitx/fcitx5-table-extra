@@ -3,15 +3,15 @@
 # This file is distributed under the same license as the fcitx5-table-extra package.
 #
 # Translators:
-# csslayer <wengxt@gmail.com>, 2024
+# Xuetian Weng <wengxt@gmail.com>, 2025
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2024-02-27 20:32+0000\n"
+"POT-Creation-Date: 2025-09-03 20:24+0000\n"
 "PO-Revision-Date: 2020-09-13 02:40+0000\n"
-"Last-Translator: csslayer <wengxt@gmail.com>, 2024\n"
+"Last-Translator: Xuetian Weng <wengxt@gmail.com>, 2025\n"
 "Language-Team: Chinese (China) (https://app.transifex.com/fcitx/teams/12005/"
 "zh_CN/)\n"
 "Language: zh_CN\n"
@@ -24,67 +24,67 @@ msgstr ""
 msgid "Additional Table based Chinese input method"
 msgstr "额外的基于码表的中文输入法"
 
-#: tables/array30.conf.in:3
+#: tables/array30.conf.in:2
 msgid "Array30"
 msgstr "行列30"
 
-#: tables/array30-large.conf.in:3
+#: tables/array30-large.conf.in:2
 msgid "Array30 Large"
 msgstr "行列30大字集"
 
-#: tables/boshiamy.conf.in:3
+#: tables/boshiamy.conf.in:2
 msgid "Boshiamy"
 msgstr "嘸蝦米"
 
-#: tables/cangjie-large.conf.in:3
+#: tables/cangjie-large.conf.in:2
 msgid "Cangjie Large"
 msgstr "仓颉大字符"
 
-#: tables/cangjie3.conf.in:3
+#: tables/cangjie3.conf.in:2
 msgid "Cangjie3"
 msgstr "第三代仓颉"
 
-#: tables/cangjie5.conf.in:3
+#: tables/cangjie5.conf.in:2
 msgid "Cangjie5"
 msgstr "第五代仓颉"
 
-#: tables/cantonhk.conf.in:3
+#: tables/cantonhk.conf.in:2
 msgid "CantonHK"
 msgstr "港式广东话"
 
-#: tables/cantonese.conf.in:3
+#: tables/cantonese.conf.in:2
 msgid "Cantonese Pinyin"
 msgstr "广东拼音"
 
-#: tables/easy-large.conf.in:3
+#: tables/easy-large.conf.in:2
 msgid "Easy Large"
-msgstr "简易大字集"
+msgstr "轻松大词库"
 
-#: tables/jyutping-table.conf.in:3
+#: tables/jyutping-table.conf.in:2
 msgid "Jyutping Table"
 msgstr "粤拼码表"
 
-#: tables/quick-classic.conf.in:3
+#: tables/quick-classic.conf.in:2
 msgid "Quick Classic"
 msgstr "速成古典版"
 
-#: tables/quick3.conf.in:3
+#: tables/quick3.conf.in:2
 msgid "Quick3"
 msgstr "第三代速成"
 
-#: tables/quick5.conf.in:3
+#: tables/quick5.conf.in:2
 msgid "Quick5"
 msgstr "第五代速成"
 
-#: tables/scj6.conf.in:3
+#: tables/scj6.conf.in:2
 msgid "SmartCangJie6"
 msgstr "第六代快速仓颉"
 
-#: tables/stroke5.conf.in:3
+#: tables/stroke5.conf.in:2
 msgid "Stroke5"
 msgstr "笔顺五码"
 
-#: tables/t9.conf.in:3
+#: tables/t9.conf.in:2
 msgid "T9 (Stroke)"
 msgstr "T9 (笔画)"
 
@@ -92,38 +92,38 @@ msgstr "T9 (笔画)"
 msgid "Table Extra"
 msgstr "额外码表"
 
-#: tables/wu.conf.in:3
+#: tables/wu.conf.in:2
 msgid "Wu"
 msgstr "吳語注音法"
 
-#: tables/wubi-large.conf.in:3
+#: tables/wubi-large.conf.in:2
 msgid "Wubi (Large)"
 msgstr "五笔大字集"
 
-#: tables/wubi98.conf.in:3
+#: tables/wubi98.conf.in:2
 msgid "Wubi98"
 msgstr "五笔98"
 
-#: tables/wubi98-pinyin.conf.in:3
+#: tables/wubi98-pinyin.conf.in:2
 msgid "Wubi98 Pinyin"
 msgstr "五笔98拼音"
 
-#: tables/wubi98-single.conf.in:3
+#: tables/wubi98-single.conf.in:2
 msgid "Wubi98 Single"
 msgstr "五笔98单字"
 
-#: tables/wubi98-large.conf.in:3
+#: tables/wubi98-large.conf.in:2
 msgid "Wubi98 large"
 msgstr "五笔98大字集"
 
-#: tables/zhengma.conf.in:3 tables/zhengma.conf.in:11
+#: tables/zhengma.conf.in:2 tables/zhengma.conf.in:10
 msgid "Zhengma"
 msgstr "郑码"
 
-#: tables/zhengma-large.conf.in:3
+#: tables/zhengma-large.conf.in:2
 msgid "Zhengma (Large)"
 msgstr "郑码大字集"
 
-#: tables/zhengma-pinyin.conf.in:3
+#: tables/zhengma-pinyin.conf.in:2
 msgid "ZhengmaPinyin"
 msgstr "郑码拼音"
