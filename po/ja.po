@@ -58,7 +58,7 @@ msgstr "教育学院拼音方案"
 
 #: tables/easy-large.conf.in:3
 msgid "Easy Large"
-msgstr "Easy Large"
+msgstr "らくらく入力法（大型辞書データ）"
 
 #: tables/jyutping-table.conf.in:3
 msgid "Jyutping Table"

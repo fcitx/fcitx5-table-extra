@@ -59,7 +59,7 @@ msgstr "廣東拼音"
 
 #: tables/easy-large.conf.in:3
 msgid "Easy Large"
-msgstr "Easy 大字集"
+msgstr "輕鬆大字集"
 
 #: tables/jyutping-table.conf.in:3
 msgid "Jyutping Table"
