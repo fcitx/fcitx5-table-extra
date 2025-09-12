@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2025-09-11 20:24+0000\n"
+"POT-Creation-Date: 2025-09-12 20:24+0000\n"
 "PO-Revision-Date: 2020-09-13 02:40+0000\n"
 "Last-Translator: Popolon_Github, 2025\n"
 "Language-Team: French (https://app.transifex.com/fcitx/teams/12005/fr/)\n"
@@ -26,104 +26,104 @@ msgstr "Méthode de saisie par table additionnel pour le chinois"
 
 #: tables/array30.conf.in:2
 msgid "Array30"
-msgstr ""
+msgstr "Array30"
 
 #: tables/array30-large.conf.in:2
 msgid "Array30 Large"
-msgstr ""
+msgstr "Array30 large"
 
 #: tables/boshiamy.conf.in:2
 msgid "Boshiamy"
-msgstr ""
+msgstr "Boshiamy"
 
 #: tables/cangjie-large.conf.in:2
 msgid "Cangjie Large"
-msgstr ""
+msgstr "Cangjie large"
 
 #: tables/cangjie3.conf.in:2
 msgid "Cangjie3"
-msgstr ""
+msgstr "Cangjie3"
 
 #: tables/cangjie5.conf.in:2
 msgid "Cangjie5"
-msgstr ""
+msgstr "Cangjie5"
 
 #: tables/cantonhk.conf.in:2
 msgid "CantonHK"
-msgstr ""
+msgstr "CantonHK"
 
 #: tables/cantonese.conf.in:2
 msgid "Cantonese Pinyin"
-msgstr ""
+msgstr "Pinyin cantonais"
 
 #: tables/easy-large.conf.in:2
 msgid "Easy Large"
-msgstr ""
+msgstr "Easy large"
 
 #: tables/jyutping-table.conf.in:2
 msgid "Jyutping Table"
-msgstr ""
+msgstr "Table jyutping"
 
 #: tables/quick-classic.conf.in:2
 msgid "Quick Classic"
-msgstr ""
+msgstr "Quick classique"
 
 #: tables/quick3.conf.in:2
 msgid "Quick3"
-msgstr ""
+msgstr "Quick3"
 
 #: tables/quick5.conf.in:2
 msgid "Quick5"
-msgstr ""
+msgstr "Quick5"
 
 #: tables/scj6.conf.in:2
 msgid "SmartCangJie6"
-msgstr ""
+msgstr "SmartCangJie6"
 
 #: tables/stroke5.conf.in:2
 msgid "Stroke5"
-msgstr ""
+msgstr "Stroke5"
 
 #: tables/t9.conf.in:2
 msgid "T9 (Stroke)"
-msgstr ""
+msgstr "T9 (traits)"
 
 #: org.fcitx.Fcitx5.Addon.TableExtra.metainfo.xml.in:7
 msgid "Table Extra"
-msgstr ""
+msgstr "Extra tables"
 
 #: tables/wu.conf.in:2
 msgid "Wu"
-msgstr ""
+msgstr "Wu"
 
 #: tables/wubi-large.conf.in:2
 msgid "Wubi (Large)"
-msgstr ""
+msgstr "Wubi (large)"
 
 #: tables/wubi98.conf.in:2
 msgid "Wubi98"
-msgstr ""
+msgstr "Wubi98"
 
 #: tables/wubi98-pinyin.conf.in:2
 msgid "Wubi98 Pinyin"
-msgstr ""
+msgstr "Wubi98 Pinyin"
 
 #: tables/wubi98-single.conf.in:2
 msgid "Wubi98 Single"
-msgstr ""
+msgstr "Wubi98 simple"
 
 #: tables/wubi98-large.conf.in:2
 msgid "Wubi98 large"
-msgstr ""
+msgstr "Wubi98 large"
 
 #: tables/zhengma.conf.in:2 tables/zhengma.conf.in:10
 msgid "Zhengma"
-msgstr ""
+msgstr "Zhengma"
 
 #: tables/zhengma-large.conf.in:2
 msgid "Zhengma (Large)"
-msgstr ""
+msgstr "Zhengma (large)"
 
 #: tables/zhengma-pinyin.conf.in:2
 msgid "ZhengmaPinyin"
-msgstr ""
+msgstr "ZhengmaPinyin"
