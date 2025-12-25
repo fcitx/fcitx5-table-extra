@@ -3,15 +3,16 @@
 # This file is distributed under the same license as the fcitx5-table-extra package.
 #
 # Translators:
-# csslayer <wengxt@gmail.com>, 2020
+# Xuetian Weng <wengxt@gmail.com>, 2020
+# Emir SARI, 2025
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-extra\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2024-02-23 20:24+0000\n"
+"POT-Creation-Date: 2025-12-25 20:24+0000\n"
 "PO-Revision-Date: 2020-09-13 02:40+0000\n"
-"Last-Translator: csslayer <wengxt@gmail.com>, 2020\n"
+"Last-Translator: Emir SARI, 2025\n"
 "Language-Team: Turkish (https://app.transifex.com/fcitx/teams/12005/tr/)\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -21,108 +22,108 @@ msgstr ""
 
 #: org.fcitx.Fcitx5.Addon.TableExtra.metainfo.xml.in:8
 msgid "Additional Table based Chinese input method"
-msgstr ""
+msgstr "Ek tablo tabanlı Çince giriş yöntemi"
 
-#: tables/array30.conf.in:3
+#: tables/array30.conf.in:2
 msgid "Array30"
 msgstr "Array30"
 
-#: tables/array30-large.conf.in:3
+#: tables/array30-large.conf.in:2
 msgid "Array30 Large"
-msgstr ""
+msgstr "Array30 Geniş"
 
-#: tables/boshiamy.conf.in:3
+#: tables/boshiamy.conf.in:2
 msgid "Boshiamy"
 msgstr "Boshiamy"
 
-#: tables/cangjie-large.conf.in:3
+#: tables/cangjie-large.conf.in:2
 msgid "Cangjie Large"
-msgstr ""
+msgstr "Cangjie Geniş"
 
-#: tables/cangjie3.conf.in:3
+#: tables/cangjie3.conf.in:2
 msgid "Cangjie3"
 msgstr "Cangjie3"
 
-#: tables/cangjie5.conf.in:3
+#: tables/cangjie5.conf.in:2
 msgid "Cangjie5"
 msgstr "Cangjie5"
 
-#: tables/cantonhk.conf.in:3
+#: tables/cantonhk.conf.in:2
 msgid "CantonHK"
 msgstr "CantonHK"
 
-#: tables/cantonese.conf.in:3
+#: tables/cantonese.conf.in:2
 msgid "Cantonese Pinyin"
-msgstr ""
+msgstr "Kantonca Pinyin"
 
-#: tables/easy-large.conf.in:3
+#: tables/easy-large.conf.in:2
 msgid "Easy Large"
-msgstr ""
+msgstr "Kolay Geniş"
 
-#: tables/jyutping-table.conf.in:3
+#: tables/jyutping-table.conf.in:2
 msgid "Jyutping Table"
-msgstr ""
+msgstr "Jyutping Tablosu"
 
-#: tables/quick-classic.conf.in:3
+#: tables/quick-classic.conf.in:2
 msgid "Quick Classic"
-msgstr ""
+msgstr "Quick Klasik"
 
-#: tables/quick3.conf.in:3
+#: tables/quick3.conf.in:2
 msgid "Quick3"
 msgstr "Quick3"
 
-#: tables/quick5.conf.in:3
+#: tables/quick5.conf.in:2
 msgid "Quick5"
 msgstr "Quick5"
 
-#: tables/scj6.conf.in:3
+#: tables/scj6.conf.in:2
 msgid "SmartCangJie6"
 msgstr "SmartCangJie6"
 
-#: tables/stroke5.conf.in:3
+#: tables/stroke5.conf.in:2
 msgid "Stroke5"
 msgstr "Stroke5"
 
-#: tables/t9.conf.in:3
+#: tables/t9.conf.in:2
 msgid "T9 (Stroke)"
-msgstr "T9 (Stroke)"
+msgstr "T9 (Vuruş)"
 
 #: org.fcitx.Fcitx5.Addon.TableExtra.metainfo.xml.in:7
 msgid "Table Extra"
-msgstr ""
+msgstr "Tablo Ek"
 
-#: tables/wu.conf.in:3
+#: tables/wu.conf.in:2
 msgid "Wu"
 msgstr "Wu"
 
-#: tables/wubi-large.conf.in:3
+#: tables/wubi-large.conf.in:2
 msgid "Wubi (Large)"
-msgstr "Wubi (Large)"
+msgstr "Wubi (Geniş)"
 
-#: tables/wubi98.conf.in:3
+#: tables/wubi98.conf.in:2
 msgid "Wubi98"
-msgstr ""
+msgstr "Wubi98"
 
-#: tables/wubi98-pinyin.conf.in:3
+#: tables/wubi98-pinyin.conf.in:2
 msgid "Wubi98 Pinyin"
-msgstr ""
+msgstr "Wubi98 Pinyin"
 
-#: tables/wubi98-single.conf.in:3
+#: tables/wubi98-single.conf.in:2
 msgid "Wubi98 Single"
-msgstr ""
+msgstr "Wubi98 Tekli"
 
-#: tables/wubi98-large.conf.in:3
+#: tables/wubi98-large.conf.in:2
 msgid "Wubi98 large"
-msgstr ""
+msgstr "Wubi98 Geniş"
 
-#: tables/zhengma.conf.in:3 tables/zhengma.conf.in:11
+#: tables/zhengma.conf.in:2 tables/zhengma.conf.in:10
 msgid "Zhengma"
 msgstr "Zhengma"
 
-#: tables/zhengma-large.conf.in:3
+#: tables/zhengma-large.conf.in:2
 msgid "Zhengma (Large)"
-msgstr "Zhengma (Large)"
+msgstr "Zhengma (Geniş)"
 
-#: tables/zhengma-pinyin.conf.in:3
+#: tables/zhengma-pinyin.conf.in:2
 msgid "ZhengmaPinyin"
-msgstr ""
+msgstr "Zhengma Pinyin"
