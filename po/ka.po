@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the fcitx5-table-extra package.
+#
+# Translators:
+# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2026
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fcitx5-table-extra\n"
+"Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
+"POT-Creation-Date: 2026-04-01 20:24+0000\n"
+"PO-Revision-Date: 2020-09-13 02:40+0000\n"
+"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2026\n"
+"Language-Team: Georgian (https://app.transifex.com/fcitx/teams/12005/ka/)\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: org.fcitx.Fcitx5.Addon.TableExtra.metainfo.xml.in:7
+msgid "Table Extra"
+msgstr "დამატებითი ცხრილი"
+
+#: org.fcitx.Fcitx5.Addon.TableExtra.metainfo.xml.in:8
+msgid "Additional Table based Chinese input method"
+msgstr "დამატებითი ცხრილზე დაფუძნებული ჩინური შეყვანის მეთოდი"
+
+#: tables/cantonhk.conf.in:2
+msgid "CantonHK"
+msgstr "CantonHK"
+
+#: tables/stroke5.conf.in:2
+msgid "Stroke5"
+msgstr "Stroke5"
+
+#: tables/scj6.conf.in:2
+msgid "SmartCangJie6"
+msgstr "SmartCangJie6"
+
+#: tables/zhengma-pinyin.conf.in:2
+msgid "ZhengmaPinyin"
+msgstr "ZhengmaPinyin"
+
+#: tables/wu.conf.in:2
+msgid "Wu"
+msgstr "Wu"
+
+#: tables/wubi98-pinyin.conf.in:2
+msgid "Wubi98 Pinyin"
+msgstr "Wubi98 პინიინი"
+
+#: tables/array30.conf.in:2
+msgid "Array30"
+msgstr "Array30"
+
+#: tables/wubi98.conf.in:2
+msgid "Wubi98"
+msgstr "Wubi98"
+
+#: tables/quick3.conf.in:2
+msgid "Quick3"
+msgstr "Quick3"
+
+#: tables/t9.conf.in:2
+msgid "T9 (Stroke)"
+msgstr "T9 (დააჭირეთ)"
+
+#: tables/easy-large.conf.in:2
+msgid "Easy Large"
+msgstr "მარტივი დიდი"
+
+#: tables/cangjie-large.conf.in:2
+msgid "Cangjie Large"
+msgstr "კანჯი დიდი"
+
+#: tables/wubi98-single.conf.in:2
+msgid "Wubi98 Single"
+msgstr "Wubi98 ერთმაგი"
+
+#: tables/wubi98-large.conf.in:2
+msgid "Wubi98 large"
+msgstr "Wubi98 დიდი"
+
+#: tables/jyutping-table.conf.in:2
+msgid "Jyutping Table"
+msgstr "Jyutping-ის ცხრილი"
+
+#: tables/quick5.conf.in:2
+msgid "Quick5"
+msgstr "Quick5"
+
+#: tables/quick-classic.conf.in:2
+msgid "Quick Classic"
+msgstr "სწრაფი კლასიკური"
+
+#: tables/zhengma.conf.in:2 tables/zhengma.conf.in:10
+msgid "Zhengma"
+msgstr "Zhengma"
+
+#: tables/cangjie5.conf.in:2
+msgid "Cangjie5"
+msgstr "Cangjie5"
+
+#: tables/boshiamy.conf.in:2
+msgid "Boshiamy"
+msgstr "Boshiamy"
+
+#: tables/cangjie3.conf.in:2
+msgid "Cangjie3"
+msgstr "Cangjie3"
+
+#: tables/wubi-large.conf.in:2
+msgid "Wubi (Large)"
+msgstr "Wubi (დდი)"
+
+#: tables/zhengma-large.conf.in:2
+msgid "Zhengma (Large)"
+msgstr "Zhengma (დიდი)"
+
+#: tables/cantonese.conf.in:2
+msgid "Cantonese Pinyin"
+msgstr "კანტონური პინიინი"
+
+#: tables/array30-large.conf.in:2
+msgid "Array30 Large"
+msgstr "Array30 დიდი"
