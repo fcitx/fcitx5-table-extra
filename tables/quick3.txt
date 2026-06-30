@@ -71,6 +71,7 @@ ac 闠
 ac 題
 ac 顥
 ac 顯
+ac 𬮍
 ad 𣉢
 ad 㫲
 ad 𥟟
@@ -137,6 +138,8 @@ af 鷐
 af 鷳
 af 鷴
 af 鷼
+af 𬊏
+af 闗
 ag 𤦉
 ag 堲
 ag 塈
@@ -153,6 +156,8 @@ ag 閮
 ag 閵
 ag 闉
 ag 闛
+ag 𭨉
+ag 晆
 ah 𨉖
 ah 尟
 ah 影
@@ -227,6 +232,8 @@ ak 閺
 ak 闃
 ak 闋
 ak 闞
+ak 𬀲
+ak 𫾻
 al 即
 al 昂
 al 昕
@@ -380,6 +387,8 @@ au 閹
 au 闀
 au 闚
 au 鼂
+au 暁
+au 閲
 av 㫰
 av 妟
 av 晏
@@ -389,6 +398,7 @@ av 曩
 av 艮
 av 閬
 av 闤
+av 曟
 aw 𣈴
 aw 晒
 aw 閪
@@ -416,6 +426,7 @@ ba 貊
 ba 賭
 ba 賰
 ba 贈
+ba 𬁆
 bb 𥋘
 bb 𦢈
 bb 𥌎
@@ -453,6 +464,7 @@ bb 購
 bb 骨
 bb 髇
 bb 髓
+bb 眀
 bc 𩓚
 bc 𦝁
 bc 𧹏
@@ -619,6 +631,8 @@ bf 鸎
 bf 鸚
 bf 鸜
 bf 黱
+bf 𮌥
+bf 爲
 bg 𥅾
 bg 𦢓
 bg 𦣇
@@ -658,6 +672,7 @@ bg 賍
 bg 雎
 bg 雕
 bg 雞
+bg 𪛟
 bh 𧶽
 bh 䏲
 bh 䏟
@@ -718,6 +733,7 @@ bi 骫
 bi 髆
 bi 髑
 bi 髖
+bi 𬠸
 bj 𦋐
 bj 𦠜
 bj 𥇍
@@ -836,6 +852,7 @@ bm 貾
 bm 賦
 bm 骶
 bm 髊
+bm 冄
 bn 冗
 bn 刐
 bn 刖
@@ -1027,6 +1044,7 @@ bt 骿
 bt 髒
 bt 體
 bt 髗
+bt 腽
 bu 𥇣
 bu 𦞴
 bu 𥌑
@@ -1087,6 +1105,8 @@ bu 賵
 bu 骲
 bu 髐
 bu 鼆
+bu 䁘
+bu 脱
 bv 𦟌
 bv 妥
 bv 媵
@@ -1150,6 +1170,7 @@ ca 鐕
 ca 鐠
 ca 鐧
 ca 鑥
+ca 曽
 cb 𨩈
 cb 𨫢
 cb 𨦨
@@ -1311,6 +1332,7 @@ ce 鑊
 ce 鑗
 ce 鑤
 ce 钁
+ce 録
 cf 𨯧
 cf 𨪛
 cf 𨯨
@@ -1380,6 +1402,7 @@ cg 鑃
 cg 鑵
 cg 鑸
 cg 鑼
+cg 𬫃
 ch 𨭌
 ch 𨧼
 ch 龯
@@ -1396,7 +1419,6 @@ ch 鈖
 ch 鉁
 ch 鉍
 ch 銵
-ch 銹
 ch 銹
 ch 銻
 ch 錫
@@ -1481,6 +1503,7 @@ cj 鐔
 cj 鐸
 cj 鑝
 cj 鑷
+cj 𨯌
 ck 𨰫
 ck 𨩉
 ck 𨫼
@@ -1507,6 +1530,8 @@ ck 鏾
 ck 鐓
 ck 鐭
 ck 钀
+ck 𨩌
+ck 敚
 cl 𨧞
 cl 𨧜
 cl 𨧺
@@ -1659,6 +1684,7 @@ cp 鐿
 cp 鑢
 cp 鑨
 cp 麄
+cp 𫒇
 cq 𨫡
 cq 𨬯
 cq 𨭤
@@ -1672,6 +1698,7 @@ cq 鎿
 cq 鏻
 cq 鐽
 cq 鑻
+cq 銭
 cr 𥖹
 cr 𥗛
 cr 𨧡
@@ -1767,6 +1794,8 @@ ct 鐦
 ct 鑉
 ct 鑑
 ct 鑪
+ct 𮢆
+ct 鐡
 cu 𨥈
 cu 𨥉
 cu 𨬭
@@ -1811,6 +1840,8 @@ cu 鎲
 cu 鏡
 cu 鐃
 cu 鑬
+cu 兑
+cu 鋭
 cv 𨯬
 cv 𨩆
 cv 𨪁
@@ -1840,6 +1871,7 @@ cv 鐶
 cv 鑞
 cv 鑲
 cv 鑹
+cv 鍮
 cw 𨬬
 cw 𨩊
 cw 鈾
@@ -2170,6 +2202,7 @@ dh 樛
 dh 橕
 dh 檅
 dh 鬱
+dh 鬰
 di 𣚦
 di 𣏾
 di 𣙀
@@ -2297,6 +2330,7 @@ dk 橔
 dk 檄
 dk 猌
 dk 韍
+dk 栿
 dl 㭱
 dl 朻
 dl 束
@@ -2325,6 +2359,8 @@ dl 郲
 dl 郴
 dl 郼
 dl 鼒
+dl 枊
+dl 𣏖
 dm 𣏴
 dm 𣜯
 dm 𣏵
@@ -2372,6 +2408,7 @@ dm 櫪
 dm 櫼
 dm 欞
 dm 翉
+dm 査
 dn 㓟
 dn 刌
 dn 刺
@@ -2401,6 +2438,7 @@ dn 橩
 dn 檦
 dn 檸
 dn 櫈
+dn 𭪂
 do 𣔰
 do 𣠺
 do 𣔙
@@ -2547,6 +2585,7 @@ dr 櫮
 dr 櫺
 dr 礬
 dr 韐
+dr 𣒍
 ds 㰕
 ds 㮙
 ds 勅
@@ -2648,6 +2687,8 @@ du 櫬
 du 欖
 du 皰
 du 相
+du 杞
+du 棁
 dv 𣞼
 dv 𣐿
 dv 婪
@@ -2680,6 +2721,7 @@ dv 櫻
 dv 欀
 dv 辳
 dv 韔
+dv 植
 dw 東
 dw 柚
 dw 栖
@@ -2807,6 +2849,10 @@ eb 瀰
 eb 瀹
 eb 灊
 eb 灞
+eb 𬇣
+eb 𬇞
+eb 淸
+eb 満
 ec 𨮜
 ec 𤅺
 ec 𣾁
@@ -2875,6 +2921,7 @@ ec 鍙
 ec 鎏
 ec 頮
 ec 顙
+ec 𬈹
 ed 𤂋
 ed 𣺉
 ed 𣓥
@@ -2988,6 +3035,7 @@ ee 瀑
 ee 瀔
 ee 瀫
 ee 灁
+ee 𪷫
 ef 𪃡
 ef 𪄣
 ef 𤄄
@@ -3218,6 +3266,7 @@ ej 濢
 ej 濣
 ej 灄
 ej 灛
+ej 汧
 ek 𣿮
 ek 㵟
 ek 汏
@@ -3461,6 +3510,7 @@ ep 濾
 ep 瀗
 ep 瀧
 ep 灑
+ep 𪬬
 eq 挲
 eq 泮
 eq 洋
@@ -3477,6 +3527,8 @@ eq 潾
 eq 潿
 eq 澥
 eq 澾
+eq 㵲
+eq 淎
 er 𣺈
 er 𣸬
 er 𤀺
@@ -3600,6 +3652,8 @@ et 灩
 et 盓
 et 盜
 et 盪
+et 𭲻
+et 灎
 eu 𣸱
 eu 𣻻
 eu 𣳈
@@ -3665,6 +3719,8 @@ eu 灔
 eu 灚
 eu 灠
 eu 灧
+eu 覌
+eu 涚
 ev 㳖
 ev 𣺹
 ev 𤂑
@@ -3859,6 +3915,8 @@ fd 米
 fd 籽
 fd 粿
 fd 糅
+fd 𬄾
+fd 𤌧
 fe 𤊥
 fe 𤎖
 fe 𤆣
@@ -3947,7 +4005,6 @@ fg 爟
 fg 瑩
 fg 粈
 fg 粧
-fg 粧
 fg 粴
 fg 糚
 fg 糧
@@ -3969,6 +4026,8 @@ fh 粆
 fh 粉
 fh 糃
 fh 糝
+fh 熮
+fh 熻
 fi 𤋉
 fi 𥺁
 fi 𤑚
@@ -3996,6 +4055,8 @@ fi 螢
 fi 蟞
 fi 蠽
 fi 飊
+fi 戦
+fi 𪸛
 fj 𤍤
 fj 𤒹
 fj 𤉖
@@ -4078,6 +4139,7 @@ fm 甞
 fm 粗
 fm 糑
 fm 翷
+fm 𬉷
 fn 𤆤
 fn 㶴
 fn 判
@@ -4183,6 +4245,8 @@ fr 糖
 fr 糙
 fr 糦
 fr 謍
+fr 𫩠
+fr 尙
 fs 㶭
 fs 𤏪
 fs 劣
@@ -4212,6 +4276,7 @@ ft 爐
 ft 粒
 ft 粣
 ft 糮
+ft 煴
 fu 𤈛
 fu 𤏲
 fu 䙺
@@ -4253,6 +4318,8 @@ fu 覮
 fu 鄨
 fu 鼈
 fu 齤
+fu 𬊕
+fu 覚
 fv 𡠺
 fv 𤇼
 fv 𥻘
@@ -4286,6 +4353,8 @@ fw 粞
 fw 粬
 fw 糷
 fw 醟
+fw 𬋋
+fw 𭶙
 fx 𤑳
 fx 焰
 fx 熖
@@ -4295,6 +4364,7 @@ fy 㸆
 fy 炵
 fy 烞
 fy 烸
+fy 熻
 g 土
 ga 𣊁
 ga 堦
@@ -4304,6 +4374,7 @@ ga 增
 ga 赭
 ga 韾
 ga 馨
+ga 増
 gb 㙟
 gb 㘵
 gb 冉
@@ -4418,6 +4489,7 @@ ge 趣
 ge 轂
 ge 鷇
 ge 鼓
+ge 𭏜
 gf 𡓽
 gf 𪇟
 gf 𡐤
@@ -4467,6 +4539,7 @@ gg 趖
 gg 趡
 gg 趯
 gg 鼞
+gg 壦
 gh 䞶
 gh 刧
 gh 圽
@@ -4517,6 +4590,7 @@ gi 蟚
 gi 蠧
 gi 赨
 gi 鼜
+gi 夀
 gj 𡎜
 gj 𡌄
 gj 𡐿
@@ -4581,6 +4655,8 @@ gl 邽
 gl 邿
 gl 郝
 gl 鼘
+gl 鿾
+gl 𪣏
 gm 𧰒
 gm 址
 gm 均
@@ -4788,6 +4864,7 @@ gu 趬
 gu 鼀
 gu 鼁
 gu 鼇
+gu 𡊐
 gv 𡒶
 gv 㙎
 gv 𡤜
@@ -4811,7 +4888,6 @@ gw 堛
 gw 塯
 gw 墙
 gw 墦
-gw 墻
 gw 墻
 gw 壋
 gw 趥
@@ -4850,6 +4926,7 @@ ha 舶
 ha 艚
 ha 香
 ha 馫
+ha 稥
 hb 𥡲
 hb 𥰆
 hb 𥱊
@@ -4907,6 +4984,7 @@ hb 魑
 hb 鶳
 hb 黐
 hb 鼱
+hb 箶
 hc 𦧺
 hc 𩗗
 hc 犋
@@ -4964,6 +5042,8 @@ hc 鶀
 hc 黌
 hc 鼰
 hc 鼸
+hc 皟
+hc 錅
 hd 𥱥
 hd 𤽜
 hd 𤾚
@@ -5090,6 +5170,7 @@ he 鸔
 he 黍
 he 黎
 he 齂
+he 𫂐
 hf 𦧲
 hf 𥸎
 hf 𥟡
@@ -5172,6 +5253,8 @@ hf 鷽
 hf 鸄
 hf 鸒
 hf 黧
+hf 勲
+hf 鳯
 hg 𡉼
 hg 𡒊
 hg 㿥
@@ -5253,6 +5336,9 @@ hh 飂
 hh 飋
 hh 馝
 hh 鼢
+hh 䎗
+hh 翱
+hh 翺
 hi 𥳀
 hi 𩴾
 hi 𥯆
@@ -5327,6 +5413,7 @@ hi 魏
 hi 魕
 hi 鸃
 hi 鼭
+hi 筑
 hj 𥭴
 hj 𣁽
 hj 𩲭
@@ -5382,6 +5469,7 @@ hj 鞶
 hj 魁
 hj 鼲
 hj 鼾
+hj 𮆞
 hk 𠘰
 hk 𩡗
 hk 䈣
@@ -5445,6 +5533,7 @@ hk 鼳
 hk 鼵
 hk 鼷
 hk 齅
+hk 𬔻
 hl 𨛘
 hl 𠒒
 hl 䘏
@@ -5492,6 +5581,9 @@ hl 酇
 hl 鬿
 hl 魀
 hl 鼻
+hl 𭜅
+hl 簘
+hl 鄥
 hm 𥰁
 hm 𥳾
 hm 𥳁
@@ -5629,6 +5721,7 @@ hn 鳦
 hn 鳧
 hn 鼽
 hn 齀
+hn 扅
 ho 𦩂
 ho 𦩑
 ho 𤔅
@@ -5681,6 +5774,8 @@ ho 躗
 ho 辵
 ho 颴
 ho 飜
+ho 𭺷
+ho 笖
 hp 𪈳
 hp 𢜛
 hp 𤜆
@@ -5739,6 +5834,9 @@ hp 颸
 hp 馜
 hp 鴕
 hp 鼧
+hp 徳
+hp 穂
+hp 穏
 hq 𥣡
 hq 𢔓
 hq 𦤑
@@ -5775,6 +5873,7 @@ hq 舉
 hq 舽
 hq 衅
 hq 颹
+hq 𬓥
 hr 𨸏
 hr 䫿
 hr 䭲
@@ -5863,6 +5962,9 @@ hr 鼩
 hr 鼫
 hr 鼯
 hr 齁
+hr 𮅠
+hr 𥢗
+hr 吿
 hs 𩖸
 hs 乍
 hs 务
@@ -6023,6 +6125,8 @@ hu 鷈
 hu 鼶
 hu 齆
 hu 龜
+hu 艈
+hu 税
 hv 䬐
 hv 𦤦
 hv 𧘇
@@ -6212,6 +6316,7 @@ ie 禝
 ie 设
 ie 麚
 ie 黀
+ie 鿿
 if 𩾷
 if 𪈠
 if 𠘑
@@ -6274,6 +6379,8 @@ ig 禥
 ig 觱
 ig 隿
 ig 麈
+ig 𬒰
+ig 𡍼
 ih 𠖳
 ih 𢒋
 ih 㣑
@@ -6353,6 +6460,7 @@ ik 祆
 ik 祓
 ik 禊
 ik 麌
+ik 啟
 il 丬
 il 冲
 il 凘
@@ -6376,6 +6484,7 @@ il 鄘
 il 鄜
 il 鄬
 il 鄺
+il 郞
 im 𪊟
 im 𥘵
 im 𠗊
@@ -6402,6 +6511,7 @@ im 禢
 im 禤
 im 麆
 im 麠
+im 叄
 in 𠙖
 in 冽
 in 凴
@@ -6418,6 +6528,8 @@ in 戹
 in 瓵
 in 瓷
 in 麂
+in 𢊈
+in 剆
 io 之
 io 凝
 io 庂
@@ -6534,6 +6646,7 @@ it 盛
 it 盞
 it 祴
 it 禮
+it 𬐨
 iu 𥙑
 iu 𠬍
 iu 允
@@ -6559,6 +6672,7 @@ iu 麅
 iu 麍
 iu 麑
 iu 麾
+iu 𫀗
 iv 凄
 iv 姿
 iv 威
@@ -6703,6 +6817,7 @@ je 輟
 je 輹
 je 麬
 je 鼖
+je 𡨤
 jf 𪃾
 jf 𪄳
 jf 𪃭
@@ -6808,7 +6923,6 @@ jj 𨐒
 jj 南
 jj 宰
 jj 幹
-jj 幹
 jj 廾
 jj 斡
 jj 窣
@@ -6903,6 +7017,7 @@ jn 軶
 jn 輸
 jn 输
 jn 麧
+jn 寜
 jo 定
 jo 宨
 jo 家
@@ -6950,6 +7065,8 @@ jp 輥
 jp 轆
 jp 轗
 jp 轮
+jp 寭
+jp 惪
 jq 㹈
 jq 搴
 jq 擊
@@ -7017,6 +7134,8 @@ jt 轀
 jt 轞
 jt 轤
 jt 麷
+jt 卋
+jt 輼
 ju 𨋍
 ju 㟻
 ju 䡝
@@ -7059,6 +7178,9 @@ ju 輗
 ju 輴
 ju 轧
 ju 麭
+ju 𭓞
+ju 尭
+ju 𡩴
 jv 𨍥
 jv 𨍽
 jv 𡜦
@@ -7153,6 +7275,7 @@ kb 癟
 kb 癵
 kb 肴
 kb 脅
+kb 𫯜
 kc 𧶘
 kc 䫑
 kc 㿗
@@ -7186,6 +7309,7 @@ kd 獉
 kd 痚
 kd 痳
 kd 痵
+kd 㹯
 ke 𤜯
 ke 友
 ke 攲
@@ -7211,6 +7335,7 @@ ke 瘢
 ke 瘦
 ke 癈
 ke 癜
+ke 狓
 kf 𤹐
 kf 奈
 kf 尞
@@ -7334,6 +7459,7 @@ kk 瘯
 kk 瘼
 kk 癓
 kk 癥
+kk 犾
 kl 𤶸
 kl 㽼
 kl 夼
@@ -7378,6 +7504,8 @@ km 瘽
 km 癃
 km 癧
 km 翃
+km 𬍂
+km 𠕆
 kn 𤷫
 kn 𡯁
 kn 九
@@ -7425,6 +7553,7 @@ ko 瘚
 ko 瘲
 ko 癡
 ko 閷
+ko 𬏺
 kp 𢠃
 kp 㥣
 kp 㤲
@@ -7558,6 +7687,7 @@ kw 猫
 kw 猶
 kw 瘤
 kw 癗
+kw 𬌲
 kx 𡚒
 kx 癠
 ky 犿
@@ -7810,6 +7940,7 @@ lh 袐
 lh 袗
 lh 裼
 lh 襂
+lh 𧝁
 li 𧘹
 li 𧝞
 li 𧒆
@@ -8001,7 +8132,6 @@ lo 蛌
 lo 蛺
 lo 蜁
 lo 蜨
-lo 蜨
 lo 蝝
 lo 蝭
 lo 蟓
@@ -8131,6 +8261,7 @@ lt 裇
 lt 裋
 lt 褞
 lt 襤
+lt 𬰚
 lu 𧐢
 lu 𧋦
 lu 𦚯
@@ -8182,6 +8313,7 @@ lu 覜
 lu 靟
 lu 鬩
 lu 鬮
+lu 蜕
 lv 𤗈
 lv 䙛
 lv 农
@@ -8229,6 +8361,7 @@ lw 袖
 lw 褔
 lw 襠
 lw 襴
+lw 畵
 lx 幍
 lx 牐
 lx 肅
@@ -8349,6 +8482,7 @@ mb 霸
 mb 靕
 mb 鬴
 mb 鬵
+mb 𬒔
 mc 𧵔
 mc 𧶏
 mc 𥖏
@@ -8412,6 +8546,8 @@ mc 頸
 mc 願
 mc 顠
 mc 顬
+mc 貮
+mc 頋
 md 𩂯
 md 𤪤
 md 𤦸
@@ -8475,6 +8611,9 @@ md 醾
 md 雽
 md 霂
 md 霖
+md 𬍳
+md 𪛞
+md 礏
 me 𤫑
 me 𤦫
 me 𤤯
@@ -8530,6 +8669,9 @@ me 霡
 me 靆
 me 靉
 me 鬷
+me 厡
+me 沗
+me 瓇
 mf 𪆒
 mf 𤫇
 mf 𤩦
@@ -8657,6 +8799,7 @@ mg 霍
 mg 霪
 mg 霾
 mg 靃
+mg 𪻵
 mh 𤦈
 mh 𤪱
 mh 𤨤
@@ -8786,6 +8929,8 @@ mi 霵
 mi 飄
 mi 魂
 mi 魘
+mi 𬎆
+mi 𫨨
 mj 𤪼
 mj 𤣳
 mj 𤩧
@@ -8836,6 +8981,8 @@ mj 醳
 mj 霹
 mj 鞏
 mj 鞷
+mj 𪻳
+mj 硏
 mk 𥐰
 mk 𤪖
 mk 𤩸
@@ -8950,6 +9097,8 @@ ml 面
 ml 靨
 ml 顨
 ml 鬲
+ml 䨩
+ml 𥐣
 mm 𦒘
 mm 𥑬
 mm 𠁆
@@ -9024,6 +9173,11 @@ mm 雸
 mm 靂
 mm 靈
 mm 靋
+mm 𪼓
+mm 亖
+mm 亜
+mm 玙
+mm 礰
 mn 𤩑
 mn 𥐥
 mn 𤤖
@@ -9071,6 +9225,8 @@ mn 酊
 mn 霒
 mn 霛
 mn 霠
+mn 珁
+mn 𤤂
 mo 𤦧
 mo 𨀂
 mo 𤥵
@@ -9185,6 +9341,7 @@ mp 靇
 mp 麉
 mp 麗
 mp 龎
+mp 𬒀
 mq 𤩥
 mq 𤪕
 mq 𤧣
@@ -9292,6 +9449,11 @@ mr 霑
 mr 霘
 mr 霝
 mr 露
+mr 𮡀
+mr 𬍰
+mr 𤫎
+mr 𥓂
+mr 𬌗
 ms 𠡳
 ms 𤤁
 ms 𥗠
@@ -9363,6 +9525,7 @@ mt 醯
 mt 醴
 mt 雴
 mt 霯
+mt 醖
 mu 𥜆
 mu 𤦻
 mu 𥕜
@@ -9539,6 +9702,7 @@ my 釄
 my 雨
 my 霉
 my 霏
+my 雫
 n 弓
 na 𣄽
 na 孴
@@ -9617,6 +9781,8 @@ nc 鰜
 nc 鰿
 nc 鱝
 nc 鱮
+nc 𬯋
+nc 𬱃
 nd 𨹦
 nd 争
 nd 子
@@ -9646,6 +9812,7 @@ nd 鰈
 nd 鰷
 nd 鱢
 nd 鱳
+nd 馀
 ne 𩹨
 ne 𢎽
 ne 𩵼
@@ -9684,6 +9851,8 @@ ne 鰕
 ne 鰥
 ne 鰻
 ne 鱍
+ne 录
+ne 鱇
 nf 𩻃
 nf 𤉋
 nf 㷇
@@ -9723,6 +9892,7 @@ nf 鶔
 nf 鶩
 nf 鶸
 nf 鷸
+nf 𮬒
 ng 𢌥
 ng 𡍵
 ng 𨿅
@@ -9824,6 +9994,8 @@ nj 鰱
 nj 鱆
 nj 鱏
 nj 鱓
+nj 𮫸
+nj 圅
 nk 𩸭
 nk 䰻
 nk 又
@@ -9958,6 +10130,7 @@ no 鯷
 no 鱁
 no 鱌
 no 鱖
+no 𬮼
 np 𢝵
 np 𩼰
 np 㲋
@@ -9979,6 +10152,7 @@ np 鯰
 np 鰓
 np 鱺
 np 麁
+np 隠
 nq 𧣈
 nq 𢩦
 nq ⻆
@@ -10118,6 +10292,7 @@ nu 鱙
 nu 鱦
 nu 龜
 nu 龟
+nu 𫲦
 nv 𡛺
 nv 𩷶
 nv 㜈
@@ -10275,6 +10450,7 @@ oc 饌
 oc 饙
 oc 饡
 oc 龥
+oc 𫣲
 od 𠎀
 od 𠍇
 od 𣱣
@@ -10311,6 +10487,8 @@ od 餜
 od 餼
 od 饓
 od 龢
+od 𪜱
+od 俆
 oe 𩜲
 oe 仮
 oe 伋
@@ -10456,6 +10634,8 @@ og 雥
 og 飪
 og 餭
 og 饈
+og 𫤪
+og 玍
 oh 𠆫
 oh 𦉘
 oh 𠊠
@@ -10475,6 +10655,9 @@ oh 氱
 oh 飶
 oh 餳
 oh 饖
+oh 𬽺
+oh 俢
+oh 劎
 oi 𠑥
 oi 𦉡
 oi 𠆩
@@ -10522,6 +10705,7 @@ oi 餺
 oi 餽
 oi 饑
 oi 饞
+oi 劒
 oj 𠓼
 oj 什
 oj 仟
@@ -10721,6 +10905,7 @@ on 舒
 on 飢
 on 飣
 on 餰
+on 剣
 oo 𠉵
 oo 𠎵
 oo 𡦈
@@ -10766,6 +10951,7 @@ oo 飲
 oo 餩
 oo 餯
 oo 饛
+oo 偼
 op 𠏋
 op 𠊞
 op 𢜒
@@ -10895,6 +11081,7 @@ or 饇
 or 饍
 or 饎
 or 饝
+or 佀
 os 𠋀
 os 𠉛
 os 㑺
@@ -10917,6 +11104,7 @@ os 隽
 os 雋
 os 飭
 os 飵
+os 𬽺
 ot 𠈔
 ot 𥂝
 ot 㒥
@@ -10941,6 +11129,7 @@ ot 餖
 ot 饁
 ot 饂
 ot 饐
+ot 氲
 ou 𠇔
 ou 𧈛
 ou 𠋥
@@ -11028,6 +11217,7 @@ ov 餲
 ov 餵
 ov 饟
 ov 饢
+ov 𪝼
 ow 𤲞
 ow 㑤
 ow 伷
@@ -11055,6 +11245,8 @@ oy 侜
 oy 侮
 oy 俳
 oy 氡
+oy 𪵥
+oy 翖
 p 心
 pa 𢡠
 pa 怕
@@ -11073,6 +11265,7 @@ pa 旨
 pa 旬
 pa 曶
 pa 皆
+pa 旾
 pb 匍
 pb 怖
 pb 怲
@@ -11143,6 +11336,7 @@ pd 懆
 pd 懍
 pd 橤
 pd 粊
+pd 枼
 pe 忣
 pe 忮
 pe 怓
@@ -11293,7 +11487,6 @@ pm 怛
 pm 性
 pm 恆
 pm 恒
-pm 恒
 pm 悾
 pm 惺
 pm 愃
@@ -11394,6 +11587,7 @@ pr 慪
 pr 憘
 pr 憺
 pr 訇
+pr 𫺢
 ps 劬
 ps 勓
 ps 勩
@@ -11414,6 +11608,7 @@ pt 愷
 pt 慍
 pt 憕
 pt 懢
+pt 愠
 pu 𢜟
 pu 㤿
 pu 包
@@ -11442,6 +11637,7 @@ pu 懵
 pu 毞
 pu 芻
 pu 覕
+pu 悦
 pv 忙
 pv 怴
 pv 恨
@@ -11546,6 +11742,7 @@ qb 耦
 qb 耩
 qb 青
 qb 鬹
+qb 𢸋
 qc 扒
 qc 拱
 qc 捇
@@ -11608,6 +11805,7 @@ qd 耒
 qd 耔
 qd 靜
 qd 靝
+qd 静
 qe 𢹸
 qe 𢫕
 qe 𢸶
@@ -11721,6 +11919,7 @@ qh 摎
 qh 摥
 qh 摻
 qh 耖
+qh 掦
 qi 𢴇
 qi 𦔒
 qi 𢯊
@@ -12045,6 +12244,7 @@ qs 耡
 qs 耪
 qs 耮
 qs 韦
+qs 拐
 qt 𢬿
 qt 𢭃
 qt 㩜
@@ -12115,6 +12315,7 @@ qu 靗
 qu 靘
 qu 靚
 qu 齧
+qu 捝
 qv 𢸍
 qv 㛃
 qv 嫢
@@ -12306,6 +12507,7 @@ rc 躀
 rc 躓
 rc 躦
 rc 顎
+rc 呉
 rd 𠾍
 rd 𠺪
 rd 𠵈
@@ -12446,6 +12648,7 @@ rf 鶚
 rf 鷕
 rf 鷤
 rf 鷺
+rf 𭈮
 rg 𠹺
 rg 𡃵
 rg 𡁶
@@ -12576,6 +12779,7 @@ ri 蹲
 ri 躅
 ri 躊
 ri 躕
+ri 啫
 rj 𨂾
 rj 𡃈
 rj 𠺫
@@ -12703,6 +12907,7 @@ rl 鄙
 rl 鄲
 rl 鄳
 rl 鄵
+rl 嘨
 rm 𠵆
 rm 𨃩
 rm 𠻺
@@ -12746,6 +12951,7 @@ rm 蹅
 rm 蹉
 rm 蹋
 rm 躖
+rm 𫏜
 rn 𠸐
 rn 𠸑
 rn 𨀉
@@ -12828,6 +13034,7 @@ ro 蹤
 ro 蹶
 ro 蹼
 ro 躆
+ro 𠿮
 rp 𡀝
 rp 𠻹
 rp 𠳓
@@ -12963,6 +13170,8 @@ rr 踣
 rr 踦
 rr 踮
 rr 蹌
+rr 啚
+rr 𠱑
 rs 𠱂
 rs 𠮨
 rs 𠰠
@@ -12989,6 +13198,8 @@ rs 嘮
 rs 距
 rs 跨
 rs 踴
+rs 𫦪
+rs 鿽
 rt 𡃇
 rt 𠵼
 rt 㕸
@@ -13014,6 +13225,8 @@ rt 跇
 rt 跚
 rt 跰
 rt 蹬
+rt 𭇴
+rt 𭇒
 ru 𠱃
 ru 𨈇
 ru 𠱓
@@ -13121,6 +13334,7 @@ rv 躟
 rv 躥
 rv 辴
 rv 饕
+rv 𡄤
 rw 𠵾
 rw 𡃓
 rw 𨆉
@@ -13275,6 +13489,8 @@ se 騪
 se 髲
 se 鬉
 se 鬘
+se 彠
+se 录
 sf 𠥹
 sf 𤍥
 sf 㞠
@@ -13322,6 +13538,7 @@ sf 鷿
 sf 鸊
 sf 鸐
 sf 黳
+sf 煕
 sg 𩬎
 sg 𠥔
 sg 𤩹
@@ -13425,6 +13642,10 @@ sj 驛
 sj 髶
 sj 髼
 sj 鬔
+sj 屛
+sj 翆
+sj 𦏹
+sj 𦐹
 sk 𦐐
 sk 𣀳
 sk 䭾
@@ -13502,6 +13723,8 @@ sm 騹
 sm 驉
 sm 驙
 sm 髬
+sm 𫜹
+sm 髥
 sn 𦖭
 sn 䎺
 sn 刟
@@ -13663,6 +13886,7 @@ st 駢
 st 駴
 st 驢
 st 鹽
+st 聨
 su 𨛦
 su 𩯕
 su 㔾
@@ -13767,6 +13991,7 @@ ta 藷
 ta 藸
 ta 蘵
 ta 鞜
+ta 𬁝
 tb 𧀎
 tb 𦲸
 tb 𦽴
@@ -13835,6 +14060,8 @@ tb 鞴
 tb 鞽
 tb 黹
 tb 黼
+tb 帯
+tb 蒳
 tc 𧅤
 tc 𨮝
 tc 业
@@ -13950,6 +14177,7 @@ td 鞟
 td 鞠
 td 鞢
 td 鞣
+td 䔵
 te 𧃍
 te 𧁒
 te 𦻑
@@ -14016,6 +14244,7 @@ te 蘐
 te 靸
 te 鞁
 te 韄
+te 𧃰
 tf 𦶣
 tf 𪃳
 tf 𩤯
@@ -14100,6 +14329,10 @@ tf 鷰
 tf 鷷
 tf 鸏
 tf 鸛
+tf 𬟓
+tf 羙
+tf 薫
+tf 藛
 tg 𦻓
 tg 𦻗
 tg 𦸀
@@ -14150,6 +14383,7 @@ tg 難
 tg 鞋
 tg 鞺
 tg 黈
+tg 荘
 th 𦯷
 th 𦹮
 th 䔋
@@ -14262,6 +14496,9 @@ ti 靮
 ti 鞃
 ti 鞿
 ti 飌
+ti 𮊦
+ti 兿
+ti 葻
 tj 𧅵
 tj 𦻐
 tj 𦱾
@@ -14311,6 +14548,7 @@ tj 靺
 tj 鞞
 tj 鞸
 tj 鞾
+tj 丗
 tk 𦱿
 tk 𡙡
 tk 𦻔
@@ -14469,6 +14707,8 @@ tm 韁
 tm 韈
 tm 韮
 tm 馘
+tm 𦭳
+tm 蕤
 tn 𦶢
 tn 𦭑
 tn 𦸇
@@ -14661,6 +14901,7 @@ tq 蘚
 tq 靽
 tq 鞬
 tq 韃
+tq 蕐
 tr 𦹄
 tr 𦹷
 tr 𦹃
@@ -14678,7 +14919,6 @@ tr 䓟
 tr 䒷
 tr 䕒
 tr 善
-tr 碁
 tr 碁
 tr 羬
 tr 苔
@@ -14745,6 +14985,8 @@ tr 鞫
 tr 鞳
 tr 韂
 tr 黇
+tr 莟
+tr 𠲘
 ts 勒
 ts 勘
 ts 募
@@ -14822,6 +15064,7 @@ tt 豊
 tt 靾
 tt 鞡
 tt 鞥
+tt 藴
 tu 𦬊
 tu 𦶤
 tu 𦹅
@@ -14898,6 +15141,10 @@ tu 韆
 tu 首
 tu 黆
 tu 齹
+tu 𬞆
+tu 𮐠
+tu 𫈣
+tu 芑
 tv 𦮗
 tv 𦷪
 tv 𦶧
@@ -15022,6 +15269,7 @@ ub 巁
 ub 巂
 ub 巋
 ub 雟
+ub 岄
 uc 𡸷
 uc 岤
 uc 崟
@@ -15070,6 +15318,7 @@ uf 嶕
 uf 嶚
 uf 炭
 uf 祟
+uf 𪁏
 ug 𡺉
 ug 峌
 ug 峑
@@ -15119,6 +15368,7 @@ ui 幽
 ui 蚩
 ui 蠥
 ui 颽
+ui 岃
 uj 㠏
 uj 㟸
 uj 岸
@@ -15134,6 +15384,8 @@ uj 嶧
 uj 嶭
 uj 輋
 uj 辥
+uj 𡵞
+uj 岍
 uk 𡽪
 uk 𣁋
 uk 𪑛
@@ -15148,6 +15400,7 @@ uk 巗
 uk 巘
 uk 敳
 uk 獃
+uk 巌
 ul 屮
 ul 屮
 ul 岓
@@ -15159,6 +15412,7 @@ ul 嶄
 ul 耑
 ul 酅
 ul 酆
+ul 岭
 um 𡸽
 um 𡸜
 um 岨
@@ -15168,6 +15422,7 @@ um 崆
 um 嵖
 um 嵯
 um 嵼
+um 翙
 un 凱
 un 剬
 un 剴
@@ -15208,6 +15463,7 @@ up 崽
 up 嵊
 up 巃
 up 鬯
+up 𬤹
 uq 𡺨
 uq 𡶶
 uq 嵂
@@ -15251,6 +15507,7 @@ us 崿
 us 嶀
 us 嶗
 us 嶲
+us 𫵷
 ut 㠠
 ut 岍
 ut 岦
@@ -15258,6 +15515,7 @@ ut 嶝
 ut 豈
 ut 豐
 ut 豔
+ut 㠦
 uu 𡵆
 uu 𡷹
 uu 兇
@@ -15323,6 +15581,9 @@ va 繒
 va 織
 va 繪
 va 響
+va 𪦴
+va 𬳧
+va 緖
 vb 𡤃
 vb 𡢠
 vb 𡠪
@@ -15356,7 +15617,6 @@ vb 嫡
 vb 嫦
 vb 嫷
 vb 嫺
-vb 嫺
 vb 嬌
 vb 嬬
 vb 嬭
@@ -15383,6 +15643,8 @@ vb 繑
 vb 繘
 vb 繻
 vb 纗
+vb 𫲄
+vb 𭒨
 vc 𡤐
 vc 𨫥
 vc 𨥬
@@ -15419,6 +15681,9 @@ vc 纘
 vc 织
 vc 銺
 vc 鑾
+vc 𫲐
+vc 㜏
+vc 𫰾
 vd 𡡣
 vd 𡤄
 vd 𡜻
@@ -15473,6 +15738,7 @@ vd 縥
 vd 縧
 vd 繅
 vd 繰
+vd 継
 ve 𦂥
 ve 𦀩
 ve 𡤕
@@ -15515,6 +15781,7 @@ ve 縵
 ve 繌
 ve 繓
 ve 纋
+ve 缐
 vf 𪆓
 vf 𡤻
 vf 𡢾
@@ -15570,6 +15837,7 @@ vf 鶨
 vf 鶭
 vf 鷥
 vf 鸞
+vf 繎
 vg 𤕸
 vg 𡠩
 vg 𡤢
@@ -15610,6 +15878,7 @@ vg 纏
 vg 纒
 vg 纙
 vg 雝
+vg 孉
 vh 𡠨
 vh 𡝱
 vh 𡛧
@@ -15632,6 +15901,7 @@ vh 緆
 vh 緲
 vh 縿
 vh 繆
+vh 綉
 vi 𡢅
 vi 𡜐
 vi 𡛼
@@ -15690,6 +15960,7 @@ vi 蠁
 vi 蠡
 vi 蠻
 vi 蠿
+vi 㛇
 vj 𡞴
 vj 㛁
 vj 䊹
@@ -15730,6 +16001,7 @@ vj 繂
 vj 繟
 vj 繹
 vj 纤
+vj 𡣝
 vk 𡟹
 vk 𡢢
 vk 𡢄
@@ -15784,6 +16056,8 @@ vk 縸
 vk 繖
 vk 繳
 vk 變
+vk 𫰋
+vk 奬
 vl 𡜼
 vl 𡡒
 vl 㚹
@@ -15811,6 +16085,7 @@ vl 綁
 vl 緬
 vl 鄉
 vl 鄛
+vl 郷
 vm 𡟸
 vm 𡝮
 vm 𡟙
@@ -16079,6 +16354,7 @@ vs 綉
 vs 縍
 vs 纬
 vs 纺
+vs 𪦪
 vt 𡟚
 vt 𦂤
 vt 𡟛
@@ -16102,6 +16378,9 @@ vt 縊
 vt 縕
 vt 繿
 vt 纑
+vt 𡛩
+vt 媪
+vt 緼
 vu 𡝴
 vu 𡤅
 vu 𡡻
@@ -16157,6 +16436,7 @@ vu 纜
 vu 统
 vu 缆
 vu 邕
+vu 絶
 vv 𡣖
 vv 𡢿
 vv 𡞱
@@ -16300,6 +16580,7 @@ wf 鸅
 wf 鸓
 wf 黑
 wf 黥
+wf 黙
 wg 𪐴
 wg 囯
 wg 墅
@@ -16332,6 +16613,7 @@ wi 禺
 wi 罸
 wi 罻
 wi 蜀
+wi 圑
 wj 圉
 wj 圛
 wj 毋
@@ -16375,6 +16657,7 @@ wn 罽
 wn 野
 wn 黔
 wn 黟
+wn 𪽇
 wo 𤳉
 wo 囚
 wo 圂
@@ -16550,6 +16833,8 @@ ya 迿
 ya 遭
 ya 音
 ya 齰
+ya 曺
+ya 譛
 yb 𧬺
 yb 𢂚
 yb 𥜽
@@ -16665,6 +16950,7 @@ yc 齎
 yc 齞
 yc 齻
 yc 龔
+yc 顔
 yd 𨔼
 yd 𨘋
 yd 䜓
@@ -16712,6 +16998,8 @@ yd 迷
 yd 途
 yd 遊
 yd 齫
+yd 𫁢
+yd 楽
 ye 𠮏
 ye 𣫛
 ye 㪗
@@ -16810,6 +17098,9 @@ yf 鸗
 yf 齋
 yf 齌
 yf 龒
+yf 𬊧
+yf 𬗋
+yf 爕
 yg 𡑔
 yg 𨗴
 yg 𣁦
@@ -16877,6 +17168,7 @@ yh 逷
 yh 逿
 yh 齖
 yh 齴
+yh 彦
 yi 𠧧
 yi 㦸
 yi 䇊
@@ -16971,6 +17263,7 @@ yj 遧
 yj 避
 yj 韸
 yj 顰
+yj 逹
 yk 䜘
 yk 交
 yk 卤
@@ -17012,6 +17305,8 @@ yk 邀
 yk 韺
 yk 齩
 yk 龑
+yk 𫌴
+yk 䢒
 yl 𠨑
 yl 𨚪
 yl 𨜓
@@ -17098,6 +17393,7 @@ ym 韵
 ym 鹺
 ym 齏
 ym 齟
+ym 訨
 yn 𥪜
 yn 𣃚
 yn 𨔁
@@ -17140,6 +17436,7 @@ yn 逾
 yn 驘
 yn 鸁
 yn 齕
+yn 詝
 yo 䢭
 yo 龰
 yo 亥
@@ -17328,6 +17625,8 @@ yr 齠
 yr 齣
 yr 齬
 yr 齮
+yr 邉
+yr 髙
 ys 𧨊
 ys 効
 ys 劾
@@ -17447,6 +17746,8 @@ yu 齙
 yu 齯
 yu 齺
 yu 齾
+yu 竸
+yu 説
 yv 𨘻
 yv 𧜏
 yv 𪗋
@@ -17468,7 +17769,6 @@ yv 袠
 yv 袤
 yv 袬
 yv 袲
-yv 裏
 yv 裏
 yv 裒
 yv 裛
@@ -17506,6 +17806,7 @@ yv 飺
 yv 餐
 yv 饔
 yv 齦
+yv 逺
 yw 䢮
 yw 斕
 yw 旛
