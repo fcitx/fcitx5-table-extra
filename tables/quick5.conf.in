@@ -2,13 +2,13 @@
 Name=Quick5
 Icon=fcitx_quick5
 Label=速
-LangCode=zh_TW
+LangCode=zh_HK
 Addon=table
 Configurable=True
 
 [Table]
 File=table/quick5.main.dict
-OrderPolicy=No
+OrderPolicy=Freq
 PinyinKey=[
 AutoSelect=True
 AutoSelectLength=-1
