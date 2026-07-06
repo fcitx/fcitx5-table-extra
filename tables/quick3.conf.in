@@ -8,7 +8,7 @@ Configurable=True
 
 [Table]
 File=table/quick3.main.dict
-OrderPolicy=No
+OrderPolicy=Freq
 PinyinKey=[
 AutoSelect=True
 AutoSelectLength=-1

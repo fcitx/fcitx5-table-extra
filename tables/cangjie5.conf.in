@@ -2,7 +2,7 @@
 Name=Cangjie5
 Icon=fcitx-cangjie
 Label=倉
-LangCode=zh_TW
+LangCode=zh_HK
 Addon=table
 Configurable=True
 
